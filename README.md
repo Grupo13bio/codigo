@@ -1,36 +1,40 @@
 codigo
 ======
 from Bio import SeqIO
-record = SeqIO.read("sequence.gb", "genbank")
 
-#Listar todas as features e devidos atributos
+record = SeqIO.read("sequence.gb", "genbank")
+print record.id
+print record.description
+print record.name
+print len(record.seq)
+
+print "Anotacoes:"
+print record.annotations.keys()
+print record.annotations["source"]
+print record.annotations["organism"]
+print record.annotations["taxonomy"]
+
 for feat in record.features:
     print "Lista de features" + str(feat)
+    
 featcds = [ ]
 
-#Identificar features que sao do tipo CDS
 for i in xrange(len(record.features)):
     if record.features[i].type == "CDS": 
         featcds.append(i)
-#Identificar a sua localizacao     
 for k in featcds:
-    print "Localizacao das features que sao do tipo CDS: " + str(record.features[k].location)
-#Identificar sub-sequeencia do DNA afetada pela feature
+    print "Localizacao das features que sao do tipo CDS: "+ "\n" + str(record.features[k].location)
 for k in featcds:
-    print "Identificacao das zonas afetadas pela feature:" + str(record.features[k].extract(record.seq))
+    print "Identificacao das zonas afetadas pela feature:"+ "\n" + str(record.features[k].extract(record.seq))
 
-#Imprimir versao fasta
 
-record= SeqIO.read("sequence.fasta","fasta")
-print "\n"
-print "FASTA:" 
-print record
+"""
 
-""" para ler da net
+#para ler da net
 from Bio import Entrez
 from Bio import SeqIO
 Entrez.email="e_direito@live.com.pt"
-handle = Entrez.efetch(db="nucleotide", rettype="gb", retmode="text", id="002942.5")
+handle = Entrez.efetch(db="nucleotide", rettype="gb", retmode="text", id="19834147,19834360")
 for seq_record in SeqIO.parse(handle, "gb"):
     print seq_record.id, seq_record.description[:50] + "..."
     print "Sequence length %i," % len(seq_record),
