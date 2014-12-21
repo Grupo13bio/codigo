@@ -1,5 +1,13 @@
+from Bio import Entrez
 from Bio import SeqIO
 
+Entrez.email="daniela777@live.com.pt"
+handle = Entrez.efetch(db="nucleotide", rettype="gb", retmode="text", id="52840256",seq_start="2911301", seq_stop='3148910')
+seq_record = SeqIO.read(handle, "gb")
+
+
+SeqIO.write(seq_record, 'sequence.gb', "genbank")
+handle.close()
 
 record = SeqIO.read("sequence.gb", "genbank")
 print ""
@@ -63,5 +71,4 @@ if GENE and CDS:
     print "Todas as features foram validadas com sucesso!"
 else:
     print "Existem features invalidas!"
-
 
