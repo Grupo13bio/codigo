@@ -1,0 +1,27 @@
+from Bio import SeqIO
+
+record = SeqIO.read("sequence.gb", "genbank")
+print record
+
+for f in record.features:
+    print f.type + " " + str(f.location)
+
+featCDS = []
+for i in xrange(len(record.features)):
+    if record.features[i].type == "CDS":
+        featCDS.append(i)
+
+print "Features CDS"
+print len(featCDS)
+
+for k in featCDS:
+    print record.features[k].qualifiers["product"]
+    print record.features[k].qualifiers["translation"]
+print ""
+print ""
+print "Traducao"
+print ""
+print""
+for k in featCDS:
+    seqDNA =  record.features[k].extract(record.seq)
+    print seqDNA.translate()
