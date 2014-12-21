@@ -20,11 +20,15 @@ print len(record.features)
 
 featCDS = []
 featGENE=[]
+otherfeat=[]
 for i in xrange(len(record.features)): 
     if record.features[i].type == "CDS": 
         featCDS.append(i)
-    if  (record.features[i].type == "gene"):
+    elif  (record.features[i].type == "gene"):
         featGENE.append(i)
+    else:
+        otherfeat.append(i)
+
         i=+1
 
 
@@ -66,7 +70,9 @@ print 'Numero de features CDS: ' + str(len(featCDS))
 print "Locations: " + str(featCDS)
 print 'Numero de features Gene: ' + str(len(featGENE))
 print "Locations: " + str(featGENE)
-
+print "Outros features: " + str(len(otherfeat)) 
+print "Locations: " + str(otherfeat)
+print "\n" + "VALIDACAO"
 if GENE and CDS:
     print "Todas as features foram validadas com sucesso!"
 else:
