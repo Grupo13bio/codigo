@@ -1,0 +1,62 @@
+
+
+from Bio import SeqIO
+
+
+record = SeqIO.read("sequence.gb", "genbank")
+print record
+
+print "Features:"
+print len(record.features) 
+
+
+featCDS = []
+featGENE=[]
+for i in xrange(len(record.features)): 
+    if record.features[i].type == "CDS": 
+        featCDS.append(i)
+    if  (record.features[i].type == "gene"):
+        featGENE.append(i)
+        i=+1
+
+
+
+f = open("ProteinTable.txt", 'r')
+table=[]
+for line in f.readlines():
+    table.append(line.split('\t'))
+f.close()
+
+
+localinicio=[]
+localfim=[]
+
+i=1
+
+
+while int(table[i][2])<3148910:
+    if int(table[i][2])>=2911301:
+        localinicio.append(int(table[i][2])-2911301)
+        localfim.append(int(table[i][3])-2911301+1)
+    i+=1
+    
+GENE=True
+CDS=True
+
+while i<len(localinicio)-1:
+    for i in xrange(0,len(localinicio)):
+        if localinicio[i]!=featGENE[i].nofuzzy_start or localfim[i]!=featGENE[i].nofuzzy_end:
+            gene=False
+    for i in xrange(0,len(localinicio)):
+        if localinicio[i]!=featCDS[i].nofuzzy_start or localfim[i]!=featCDS[i].nofuzzy_end:
+            cds=False
+
+print 'Numero de features CDS: ' + str(len(featCDS))
+print "Locations: " + str(featCDS)
+print 'Numero de features Gene: ' + str(len(featGENE))
+print "Locations: " + str(featGENE)
+
+if GENE and CDS:
+    print "Todas as features foram validadas com sucesso!"
+else:
+    print "Existem features invalidas!"
