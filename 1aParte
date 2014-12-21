@@ -1,10 +1,10 @@
-
-
 from Bio import SeqIO
 
 
 record = SeqIO.read("sequence.gb", "genbank")
+print ""
 print record
+print ""
 
 print "Features:"
 print len(record.features) 
@@ -40,6 +40,8 @@ while int(table[i][2])<3148910:
         localfim.append(int(table[i][3])-2911301+1)
     i+=1
     
+    
+    
 GENE=True
 CDS=True
 
@@ -51,6 +53,7 @@ while i<len(localinicio)-1:
         if localinicio[i]!=featCDS[i].nofuzzy_start or localfim[i]!=featCDS[i].nofuzzy_end:
             cds=False
 
+
 print 'Numero de features CDS: ' + str(len(featCDS))
 print "Locations: " + str(featCDS)
 print 'Numero de features Gene: ' + str(len(featGENE))
@@ -60,3 +63,5 @@ if GENE and CDS:
     print "Todas as features foram validadas com sucesso!"
 else:
     print "Existem features invalidas!"
+
+
