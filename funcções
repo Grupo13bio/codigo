@@ -1,8 +1,7 @@
 from Bio import SeqIO
 
 record = SeqIO.read("sequence.gb", "genbank")
-info=[]
-info.append(record.features)
+
 print record
 
 featcds = []
