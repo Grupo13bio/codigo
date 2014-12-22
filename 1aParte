@@ -1,3 +1,5 @@
+
+
 from Bio import Entrez
 from Bio import SeqIO
 
@@ -45,7 +47,7 @@ localfim=[]
 
 i=1
 
-
+#recurso ao grupo 11
 while int(table[i][2])<3148910:
     if int(table[i][2])>=2911301:
         localinicio.append(int(table[i][2])-2911301)
@@ -65,7 +67,7 @@ while i<len(localinicio)-1:
         if localinicio[i]!=featCDS[i].nofuzzy_start or localfim[i]!=featCDS[i].nofuzzy_end:
             cds=False
 
-
+#TESTE
 print 'Numero de features CDS: ' + str(len(featCDS))
 print "Locations: " + str(featCDS)
 print 'Numero de features Gene: ' + str(len(featGENE))
@@ -74,7 +76,6 @@ print "Outros features: " + str(len(otherfeat))
 print "Locations: " + str(otherfeat)
 print "\n" + "VALIDACAO"
 if GENE and CDS:
-    print "Todas as features foram validadas com sucesso!"
+    print "Features analisadas com sucesso."
 else:
     print "Existem features invalidas!"
-
