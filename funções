@@ -4,7 +4,7 @@ record = SeqIO.read("sequence.gb", "genbank")
 
 print record
 
-featcds = []
+featCDS = []
 seqDNA=[]
 annotations=[],[]
 
@@ -14,21 +14,33 @@ for f in record.features:
 
 for i in xrange(len(record.features)):
     if record.features[i].type == "CDS":
-        featcds.append(i)
+        featCDS.append(i)
+
+
+print ""
 
 print "Features CDS"
-print len(featcds)
+print "tamanho das features:" + str(len(featCDS))
+print ""
+print ""
 
-for k in featcds:
-    seqDNA.append(record.features[k].qualifiers['translation'][0])
+for k in featCDS:
     annotations[0].append(record.features[k].qualifiers['protein_id']) 
 
     if 'function' in record.features[k].qualifiers:
        annotations[1].append(record.features[k].qualifiers['function'])
     else:
        annotations[1].append('-')
+       
 
-for k in featcds:
+print "As annotations sao:" + str(annotations)     
+print ""
+print ""
+print "A traducao e:"
+print ""
+print ""
+for k in featCDS:
    
     seqDNA =  record.features[k].extract(record.seq)
     print seqDNA.translate()
+
