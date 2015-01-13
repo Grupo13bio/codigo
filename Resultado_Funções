@@ -1,667 +1,363 @@
-ID: NC_002942.5
-Name: NC_002942
-Description: Legionella pneumophila subsp. pneumophila str. Philadelphia 1 chromosome, complete genome.
-Database cross-references: BioProject:PRJNA57609
-Number of features: 427
-/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
-reference sequence was derived from AE017354.
-On Sep 29, 2004 this sequence version replaced gi:50659180.
-RefSeq Category: Reference Genome
-COM: Community Selected
-TYS: Designated Type Strain
-UPR: UniProt Genome
-COMPLETENESS: full length.
-/sequence_version=5
-/source=Legionella pneumophila subsp. pneumophila str. Philadelphia 1
-/taxonomy=['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
-/keywords=['RefSeq']
-/references=[Reference(title='The genomic sequence of the accidental pathogen Legionella pneumophila', ...), Reference(title='Direct Submission', ...), Reference(title='Direct Submission', ...)]
-/accessions=['NC_002942']
-/data_file_division=CON
-/date=17-DEC-2014
-/organism=Legionella pneumophila subsp. pneumophila str. Philadelphia 1
-/gi=52840256
-Seq('GAACTATAAAGAAATTCATAATTCTGCCGATAATTAAGACGATGAGTATATACT...AGG', IUPACAmbiguousDNA())
-source [0:237610](+)
-gene [131:1298](+)
-CDS [131:1298](+)
-gene [1222:1561](+)
-CDS [1222:1561](+)
-gene [2044:4783](+)
-CDS [2044:4783](+)
-gene [4808:5540](+)
-CDS [4808:5540](+)
-gene [5741:6836](+)
-CDS [5741:6836](+)
-gene [7056:8607](+)
-CDS [7056:8607](+)
-gene [8623:9781](-)
-CDS [8623:9781](-)
-gene [10569:12363](-)
-CDS [10569:12363](-)
-gene [12454:13246](-)
-CDS [12454:13246](-)
-gene [13362:13860](-)
-CDS [13362:13860](-)
-gene [14032:14782](-)
-CDS [14032:14782](-)
-gene [14778:16062](-)
-CDS [14778:16062](-)
-gene [16058:17003](-)
-CDS [16058:17003](-)
-gene [16999:17512](-)
-CDS [16999:17512](-)
-gene [17605:18643](+)
-CDS [17605:18643](+)
-gene [18639:19725](+)
-CDS [18639:19725](+)
-gene [19735:20152](+)
-CDS [19735:20152](+)
-gene [20230:22510](+)
-CDS [20230:22510](+)
-gene [22611:24585](-)
-CDS [22611:24585](-)
-gene [24720:25161](-)
-CDS [24720:25161](-)
-gene [25291:25714](+)
-CDS [25291:25714](+)
-gene [25731:27036](+)
-CDS [25731:27036](+)
-gene [27330:28134](+)
-CDS [27330:28134](+)
-gene [28189:28606](-)
-CDS [28189:28606](-)
-gene [28720:29587](-)
-CDS [28720:29587](-)
-gene [29725:31762](-)
-CDS [29725:31762](-)
-gene [31905:32820](-)
-CDS [31905:32820](-)
-gene [33067:34264](-)
-CDS [33067:34264](-)
-gene [34458:35721](-)
-CDS [34458:35721](-)
-gene [35696:36416](-)
-CDS [35696:36416](-)
-gene [36431:37538](-)
-CDS [36431:37538](-)
-gene [37509:38448](-)
-CDS [37509:38448](-)
-gene [38444:39854](-)
-CDS [38444:39854](-)
-gene [39863:41048](-)
-CDS [39863:41048](-)
-gene [41044:42388](-)
-CDS [41044:42388](-)
-gene [42401:43520](-)
-CDS [42401:43520](-)
-gene [43601:44987](-)
-CDS [43601:44987](-)
-gene [45179:45959](-)
-CDS [45179:45959](-)
-gene [45963:49458](-)
-CDS [45963:49458](-)
-gene [49632:50313](+)
-CDS [49632:50313](+)
-gene [50414:51476](-)
-CDS [50414:51476](-)
-gene [51785:52598](+)
-CDS [51785:52598](+)
-gene [52672:53155](-)
-CDS [52672:53155](-)
-gene [53163:56367](-)
-CDS [53163:56367](-)
-gene [56493:56766](-)
-CDS [56493:56766](-)
-gene [56878:58060](+)
-CDS [56878:58060](+)
-gene [58094:58847](-)
-CDS [58094:58847](-)
-gene [58846:59917](-)
-CDS [58846:59917](-)
-gene [59913:60915](-)
-CDS [59913:60915](-)
-gene [61162:62647](+)
-CDS [61162:62647](+)
-gene [62627:63062](+)
-CDS [62627:63062](+)
-gene [63200:63518](-)
-CDS [63200:63518](-)
-gene [63540:64905](-)
-CDS [63540:64905](-)
-gene [64909:66481](-)
-CDS [64909:66481](-)
-gene [66838:67105](+)
-CDS [66838:67105](+)
-gene [67165:68377](-)
-CDS [67165:68377](-)
-gene [68728:70111](-)
-CDS [68728:70111](-)
-gene [70517:74120](-)
-CDS [70517:74120](-)
-gene [74146:74713](-)
-CDS [74146:74713](-)
-gene [74709:75432](-)
-CDS [74709:75432](-)
-gene [75604:78112](+)
-CDS [75604:78112](+)
-gene [78252:78912](+)
-CDS [78252:78912](+)
-gene [79079:80561](+)
-CDS [79079:80561](+)
-gene [80584:82441](-)
-CDS [80584:82441](-)
-gene [82452:83130](-)
-CDS [82452:83130](-)
-gene [83236:84055](-)
-CDS [83236:84055](-)
-gene [84493:85591](+)
-CDS [84493:85591](+)
-gene [85549:86575](-)
-CDS [85549:86575](-)
-gene [86789:87068](-)
-CDS [86789:87068](-)
-gene [87080:87392](-)
-CDS [87080:87392](-)
-gene [87634:88294](+)
-CDS [87634:88294](+)
-gene [88412:88982](+)
-CDS [88412:88982](+)
-gene [89000:90092](+)
-CDS [89000:90092](+)
-gene [90452:91568](+)
-CDS [90452:91568](+)
-gene [91701:92670](+)
-CDS [91701:92670](+)
-gene [92892:95148](-)
-CDS [92892:95148](-)
-gene [95144:95372](-)
-CDS [95144:95372](-)
-gene [95460:96552](-)
-CDS [95460:96552](-)
-gene [96539:97202](-)
-CDS [96539:97202](-)
-gene [97360:98227](+)
-CDS [97360:98227](+)
-gene [98238:98997](+)
-CDS [98238:98997](+)
-gene [98993:99527](+)
-CDS [98993:99527](+)
-gene [99529:100945](-)
-CDS [99529:100945](-)
-gene [100937:101654](-)
-CDS [100937:101654](-)
-gene [101920:102802](+)
-CDS [101920:102802](+)
-gene [102935:103814](-)
-CDS [102935:103814](-)
-gene [104086:105016](-)
-CDS [104086:105016](-)
-gene [105009:105696](-)
-CDS [105009:105696](-)
-gene [105646:106753](-)
-CDS [105646:106753](-)
-gene [106776:108102](+)
-CDS [106776:108102](+)
-gene [108098:109403](+)
-CDS [108098:109403](+)
-gene [109399:109945](+)
-CDS [109399:109945](+)
-gene [110019:110511](+)
-CDS [110019:110511](+)
-gene [110491:111403](+)
-CDS [110491:111403](+)
-gene [111372:112536](+)
-CDS [111372:112536](+)
-gene [112618:114346](+)
-CDS [112618:114346](+)
-gene [114387:115185](-)
-CDS [114387:115185](-)
-gene [115214:116159](-)
-CDS [115214:116159](-)
-gene [116389:117418](+)
-CDS [116389:117418](+)
-gene [117692:118580](+)
-CDS [117692:118580](+)
-gene [118718:119426](+)
-CDS [118718:119426](+)
-gene [119412:121260](+)
-CDS [119412:121260](+)
-gene [121259:122120](+)
-CDS [121259:122120](+)
-gene [122284:123031](-)
-CDS [122284:123031](-)
-gene [123132:126279](-)
-CDS [123132:126279](-)
-gene [126275:126731](-)
-CDS [126275:126731](-)
-gene [126843:127299](+)
-CDS [126843:127299](+)
-gene [127298:128699](+)
-CDS [127298:128699](+)
-gene [128705:130337](-)
-CDS [128705:130337](-)
-gene [130696:133240](+)
-CDS [130696:133240](+)
-gene [133490:134021](+)
-CDS [133490:134021](+)
-gene [134093:134894](-)
-CDS [134093:134894](-)
-gene [135017:135875](-)
-CDS [135017:135875](-)
-gene [135963:137025](-)
-CDS [135963:137025](-)
-gene [137210:138176](-)
-CDS [137210:138176](-)
-gene [138144:139875](-)
-CDS [138144:139875](-)
-gene [139865:141296](-)
-CDS [139865:141296](-)
-gene [141292:141775](-)
-CDS [141292:141775](-)
-gene [141900:143382](-)
-CDS [141900:143382](-)
-gene [143509:143905](-)
-CDS [143509:143905](-)
-gene [143907:144528](-)
-CDS [143907:144528](-)
-gene [144778:145519](-)
-CDS [144778:145519](-)
-gene [145515:146730](-)
-CDS [145515:146730](-)
-gene [146740:147367](-)
-CDS [146740:147367](-)
-gene [147531:147963](-)
-CDS [147531:147963](-)
-gene [147968:148403](-)
-CDS [147968:148403](-)
-gene [148741:148957](-)
-CDS [148741:148957](-)
-gene [149060:149360](-)
-CDS [149060:149360](-)
-gene [149356:151738](-)
-CDS [149356:151738](-)
-gene [151995:153024](-)
-CDS [151995:153024](-)
-gene [153148:153508](-)
-CDS [153148:153508](-)
-gene [153744:154134](-)
-CDS [153744:154134](-)
-gene [154305:156246](-)
-CDS [154305:156246](-)
-gene [156347:156422](-)
-tRNA [156347:156422](-)
-gene [156731:157019](+)
-CDS [156731:157019](+)
-gene [157341:157827](+)
-CDS [157341:157827](+)
-gene [158536:160099](-)
-CDS [158536:160099](-)
-gene [160379:161531](+)
-CDS [160379:161531](+)
-gene [161509:162541](+)
-CDS [161509:162541](+)
-gene [162677:163466](+)
-CDS [162677:163466](+)
-gene [163593:164670](-)
-CDS [163593:164670](-)
-gene [164720:165020](-)
-CDS [164720:165020](-)
-gene [165272:165617](-)
-CDS [165272:165617](-)
-gene [165733:166363](+)
-CDS [165733:166363](+)
-gene [166570:167065](-)
-CDS [166570:167065](-)
-gene [167091:168258](-)
-CDS [167091:168258](-)
-gene [168239:168410](-)
-CDS [168239:168410](-)
-gene [168415:168832](-)
-misc_feature [168415:168832](-)
-gene [168792:169257](-)
-CDS [168792:169257](-)
-gene [169409:170660](+)
-CDS [169409:170660](+)
-gene [170741:171767](-)
-CDS [170741:171767](-)
-gene [172048:172612](+)
-CDS [172048:172612](+)
-gene [172699:173989](-)
-CDS [172699:173989](-)
-gene [174344:175310](+)
-CDS [174344:175310](+)
-gene [175306:176059](+)
-CDS [175306:176059](+)
-gene [176062:177187](+)
-CDS [176062:177187](+)
-gene [177189:178377](+)
-CDS [177189:178377](+)
-gene [178512:179436](-)
-CDS [178512:179436](-)
-gene [179432:180095](-)
-CDS [179432:180095](-)
-gene [180084:180648](-)
-CDS [180084:180648](-)
-gene [180637:181870](-)
-CDS [180637:181870](-)
-gene [181932:182910](+)
-CDS [181932:182910](+)
-gene [182944:184114](-)
-CDS [182944:184114](-)
-gene [184274:186242](-)
-CDS [184274:186242](-)
-gene [186409:186527](-)
-rRNA [186409:186527](-)
-gene [186628:189530](-)
-rRNA [186628:189530](-)
-gene [187059:187341](+)
-CDS [187059:187341](+)
-gene [187117:187459](+)
-CDS [187117:187459](+)
-gene [187949:188300](+)
-CDS [187949:188300](+)
-gene [189709:189786](-)
-tRNA [189709:189786](-)
-gene [189927:191402](-)
-rRNA [189927:191402](-)
-gene [192105:193776](+)
-CDS [192105:193776](+)
-gene [193809:194148](+)
-CDS [193809:194148](+)
-gene [194150:194750](+)
-CDS [194150:194750](+)
-gene [194742:195603](+)
-CDS [194742:195603](+)
-gene [195599:197597](+)
-CDS [195599:197597](+)
-gene [197833:199318](-)
-CDS [197833:199318](-)
-gene [199519:200248](+)
-CDS [199519:200248](+)
-gene [200470:201133](-)
-CDS [200470:201133](-)
-gene [201389:202106](-)
-CDS [201389:202106](-)
-gene [202345:203611](-)
-CDS [202345:203611](-)
-gene [203760:204297](-)
-CDS [203760:204297](-)
-gene [204426:204768](+)
-CDS [204426:204768](+)
-gene [204752:205319](+)
-CDS [204752:205319](+)
-gene [205377:206469](-)
-CDS [205377:206469](-)
-gene [206603:208793](-)
-CDS [206603:208793](-)
-gene [208907:209183](-)
-CDS [208907:209183](-)
-gene [209330:210257](-)
-CDS [209330:210257](-)
-gene [210228:210600](-)
-CDS [210228:210600](-)
-gene [210603:213210](-)
-CDS [210603:213210](-)
-gene [213298:214777](-)
-CDS [213298:214777](-)
-gene [214788:215232](-)
-CDS [214788:215232](-)
-gene [215345:215422](-)
-tRNA [215345:215422](-)
-gene [215487:216960](-)
-CDS [215487:216960](-)
-gene [216983:218489](-)
-CDS [216983:218489](-)
-gene [218504:220478](-)
-CDS [218504:220478](-)
-gene [220482:220788](-)
-CDS [220482:220788](-)
-gene [220805:221465](-)
-CDS [220805:221465](-)
-gene [221476:221977](-)
-CDS [221476:221977](-)
-gene [221995:223018](-)
-CDS [221995:223018](-)
-gene [223030:225382](-)
-CDS [223030:225382](-)
-gene [225398:226685](-)
-CDS [225398:226685](-)
-gene [226694:227198](-)
-CDS [226694:227198](-)
-gene [227258:228527](-)
-CDS [227258:228527](-)
-gene [228504:229188](-)
-CDS [228504:229188](-)
-gene [229210:229687](-)
-CDS [229210:229687](-)
-gene [229936:230293](-)
-CDS [229936:230293](-)
-gene [230317:230402](-)
-tRNA [230317:230402](-)
-gene [230472:230778](-)
-CDS [230472:230778](-)
-gene [230783:231533](-)
-CDS [230783:231533](-)
-gene [231776:235232](+)
-CDS [231776:235232](+)
-gene [235300:236668](-)
-CDS [235300:236668](-)
-gene [236731:237607](-)
-CDS [236731:237607](-)
+Gene&Funcao:
 
-Features CDS
-tamanho das features:205
+Genes com funcao definida: 150
+Genes com funcao desconhecida: 63
 
+('lpg2583', 'Chemotaxis / motility / cell division')
+('lpg2584', 'Chemotaxis / motility / cell division, Signal transduction / other regulatory functions')
+('lpg2585', 'Protein fate / hydrolases / secretion')
+('lpg2586', 'Protein fate / hydrolases / secretion')
+('lpg2587', 'Toxin production / other pathogen functions')
+('lpg2588', 'DNA/RNA degradation / restriction')
+('lpg2589', 'Cell envelope synthesis, Protein fate / hydrolases / secretion, Biosynthesis of Secondary Metabolites')
+('lpg2590', 'Chemotaxis / motility / cell division')
+('lpg2593', 'DNA/RNA degradation / restriction, Translation')
+('lpg2594', 'Amino Acid Metabolism, Metabolism of Cofactors and Vitamins, Translation')
+('lpg2595', 'Protein fate / hydrolases / secretion, Translation')
+('lpg2597', 'DNA/RNA degradation / restriction')
+('lpg2599', 'Transcription, Replication and Repair')
+('lpg2600', 'Toxin production / other pathogen functions, Metabolism of Complex Lipids')
+('lpg2606', 'Amino Acid Metabolism')
+('lpg2607', 'Protein fate / hydrolases / secretion')
+('lpg2608', 'Metabolism of Complex Carbohydrates')
+('lpg2609', 'Chemotaxis / motility / cell division')
+('lpg2610', 'Chemotaxis / motility / cell division')
+('lpg2611', 'Chemotaxis / motility / cell division')
+('lpg2612', 'Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates')
+('lpg2613', 'Metabolism of Complex Carbohydrates')
+('lpg2614', 'Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates')
+('lpg2615', 'Chemotaxis / motility / cell division')
+('lpg2616', 'Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates')
+('lpg2617', 'Metabolism of Complex Carbohydrates')
+('lpg2618', 'Amino Acid Metabolism, Metabolism of Complex Carbohydrates')
+('lpg2619', 'Chemotaxis / motility / cell division')
+('lpg2620', 'Chemotaxis / motility / cell division')
+('lpg2621', 'Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2624', 'Transcription')
+('lpg2625', 'Nucleotide Metabolism, Amino Acid Metabolism')
+('lpg2629', 'Transport and binding')
+('lpg2630', 'Transport and binding')
+('lpg2631', 'Protein fate / hydrolases / secretion')
+('lpg2632', 'Replication and Repair')
+('lpg2634', 'Protein fate / hydrolases / secretion')
+('lpg2635', 'Toxin production / other pathogen functions, Chemotaxis / motility / cell division')
+('lpg2636', 'Translation')
+('lpg2639', 'Toxin production / other pathogen functions')
+('lpg2640', 'Toxin production / other pathogen functions')
+('lpg2641', 'Toxin production / other pathogen functions')
+('lpg2642', 'Signal transduction / other regulatory functions')
+('lpg2645', 'DNA/RNA degradation / restriction')
+('lpg2646', 'Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins')
+('lpg2647', 'Amino Acid Metabolism')
+('lpg2648', 'Toxin production / other pathogen functions, Detoxification / adaptation')
+('lpg2649', 'Signal transduction / other regulatory functions')
+('lpg2650', 'Translation')
+('lpg2651', 'Translation')
+('lpg2652', 'Translation')
+('lpg2653', 'DNA/RNA degradation / restriction, Protein fate / hydrolases / secretion')
+('lpg2654', 'Signal transduction / other regulatory functions')
+('lpg2655', 'Signal transduction / other regulatory functions')
+('lpg2657', 'Transport and binding')
+('lpg2658', 'Transport and binding')
+('lpg2659', 'Signal transduction / other regulatory functions')
+('lpg2661', 'Metabolism of Cofactors and Vitamins')
+('lpg2662', 'Metabolism of Other Amino Acids, Metabolism of Cofactors and Vitamins')
+('lpg2664', 'Carbohydrate Metabolism, Amino Acid Metabolism')
+('lpg2666', 'Protein fate / hydrolases / secretion')
+('lpg2667', 'Transcription factors / DNA binding proteins')
+('lpg2668', 'Transport and binding, Chemotaxis / motility / cell division')
+('lpg2669', 'Chemotaxis / motility / cell division')
+('lpg2670', 'Protein fate / hydrolases / secretion, Chemotaxis / motility / cell division')
+('lpg2671', 'Protein fate / hydrolases / secretion')
+('lpg2672', 'Protein fate / hydrolases / secretion')
+('lpg2673', 'Metabolism of Cofactors and Vitamins, Lipid Metabolism, Amino Acid Metabolism, Metabolism of Other Amino Acids, Biodegradation of Xenobiotics')
+('lpg2674', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2675', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2676', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2677', 'Metabolism of Cofactors and Vitamins')
+('lpg2680', 'Amino Acid Metabolism, Metabolism of Complex Carbohydrates')
+('lpg2681', 'Carbohydrate Metabolism, Metabolism of Cofactors and Vitamins, Biodegradation of Xenobiotics')
+('lpg2683', 'Amino Acid Metabolism')
+('lpg2685', 'Biodegradation of Xenobiotics')
+('lpg2686', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2687', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2688', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2689', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2691', 'Transport and binding')
+('lpg2694', 'Biosynthesis of Secondary Metabolites')
+('lpg2695', 'Cell envelope synthesis, Metabolism of Complex Carbohydrates')
+('lpg2696', 'DNA/RNA degradation / restriction, Translation')
+('lpg2697', 'Replication and Repair')
+('lpg2698', 'Metabolism of Complex Carbohydrates')
+('lpg2701', 'Toxin production / other pathogen functions, Signal transduction / other regulatory functions')
+('lpg2702', 'Toxin production / other pathogen functions, Transcription factors / DNA binding proteins')
+('lpg2703', 'Energy Metabolism')
+('lpg2704', 'Energy Metabolism')
+('lpg2705', 'Energy Metabolism')
+('lpg2706', 'Translation')
+('lpg2707', 'Translation')
+('lpg2708', 'Energy Metabolism')
+('lpg2709', 'Transcription, Replication and Repair')
+('lpg2710', 'Amino Acid Metabolism, Translation')
+('lpg2711', 'Amino Acid Metabolism, Translation')
+('lpg2712', 'Translation')
+('lpg2713', 'Translation')
+('lpg2714', 'Amino Acid Metabolism, Translation')
+('lpg2721', 'Amino Acid Metabolism, Nucleotide Metabolism')
+('lpg2722', 'Metabolism of Cofactors and Vitamins')
+('lpg2723', 'Transcription factors / DNA binding proteins')
+('lpg2726', 'Cell envelope synthesis, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2727', 'DNA/RNA degradation / restriction, Translation')
+('lpg2730', 'Energy Metabolism')
+('lpg2731', 'Amino Acid Metabolism')
+('lpg2732', 'Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins')
+('lpg2734', 'Signal transduction / other regulatory functions')
+('lpg2735', 'Metabolism of Cofactors and Vitamins')
+('lpg2736', 'Metabolism of Cofactors and Vitamins')
+('lpg2737', 'Metabolism of Cofactors and Vitamins')
+('lpg2738', 'Metabolism of Cofactors and Vitamins')
+('lpg2739', 'Transport and binding')
+('lpg2740', 'Viral functions / Phage / Transposases')
+('lpg2741', 'DNA/RNA degradation / restriction')
+('lpg2742', 'Translation')
+('lpg2743', 'Cell envelope synthesis, Signal transduction / other regulatory functions')
+('lpg2754', 'Nucleotide Metabolism, Replication and Repair')
+('lpg2755', 'Transcription factors / DNA binding proteins')
+('lpg2756', 'Replication and Repair')
+('lpg2760', 'Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins')
+('lpg2763', 'Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion')
+('lpg2765', 'Protein fate / hydrolases / secretion, Transcription factors / DNA binding proteins')
+('lpg2766', 'Metabolism of Cofactors and Vitamins')
+('lpg2767', 'Carbohydrate Metabolism, Lipid Metabolism, Amino Acid Metabolism, Nucleotide Metabolism, Metabolism of Complex Lipids, Biodegradation of Xenobiotics')
+('lpg2768', 'Nucleotide Metabolism')
+('lpg2769', 'Translation')
+('lpg2770', 'DNA/RNA degradation / restriction, Translation')
+('lpg2771', 'Translation')
+('lpg2772', 'Translation')
+('lpg2773', 'Protein fate / hydrolases / secretion, Transcription')
+('lpg2776', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2777', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2778', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2779', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2780', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2781', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2782', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2783', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2784', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2785', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2786', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2787', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2788', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2789', 'Metabolism of Cofactors and Vitamins, Energy Metabolism')
+('lpg2791', 'Protein fate / hydrolases / secretion')
+('lpg2792', 'Carbohydrate Metabolism, Metabolism of Complex Lipids, Energy Metabolism')
+('lpg2794', 'Carbohydrate Metabolism, Biosynthesis of Secondary Metabolites, Metabolism of Complex Carbohydrates')
+('lpg2795', 'Metabolism of Cofactors and Vitamins')
 
-As annotations sao:([['YP_096587.1'], ['YP_096588.1'], ['YP_096589.1'], ['YP_096590.1'], ['YP_096591.1'], ['YP_096592.1'], ['YP_096593.1'], ['YP_096594.1'], ['YP_096595.1'], ['YP_096596.1'], ['YP_096597.1'], ['YP_096598.1'], ['YP_096599.1'], ['YP_096600.1'], ['YP_096601.1'], ['YP_096602.1'], ['YP_096603.1'], ['YP_096604.1'], ['YP_096605.1'], ['YP_096606.1'], ['YP_096607.1'], ['YP_096608.1'], ['YP_096609.1'], ['YP_096610.1'], ['YP_096611.1'], ['YP_096612.1'], ['YP_096613.1'], ['YP_096614.1'], ['YP_096615.1'], ['YP_096616.1'], ['YP_096617.1'], ['YP_096618.1'], ['YP_096619.1'], ['YP_096620.1'], ['YP_096621.1'], ['YP_096622.1'], ['YP_096623.1'], ['YP_096624.1'], ['YP_096625.1'], ['YP_096626.1'], ['YP_096627.1'], ['YP_096628.1'], ['YP_096629.1'], ['YP_096630.1'], ['YP_096631.1'], ['YP_096632.1'], ['YP_096633.1'], ['YP_096634.1'], ['YP_096635.1'], ['YP_096636.1'], ['YP_096637.1'], ['YP_096638.1'], ['YP_096639.1'], ['YP_096640.1'], ['YP_096641.1'], ['YP_096642.1'], ['YP_096643.1'], ['YP_096644.1'], ['YP_096645.1'], ['YP_096646.1'], ['YP_096647.1'], ['YP_096648.1'], ['YP_096649.1'], ['YP_096650.1'], ['YP_096651.1'], ['YP_096652.2'], ['YP_096653.1'], ['YP_096654.2'], ['YP_096655.1'], ['YP_096656.1'], ['YP_096657.1'], ['YP_096658.1'], ['YP_096659.1'], ['YP_096660.1'], ['YP_096661.1'], ['YP_096662.1'], ['YP_096663.1'], ['YP_096664.1'], ['YP_096665.1'], ['YP_096666.1'], ['YP_096667.1'], ['YP_096668.1'], ['YP_096669.1'], ['YP_096670.1'], ['YP_096671.1'], ['YP_096672.1'], ['YP_096673.1'], ['YP_096674.1'], ['YP_096675.1'], ['YP_096676.1'], ['YP_096677.1'], ['YP_096678.1'], ['YP_096679.1'], ['YP_096680.1'], ['YP_096681.1'], ['YP_096682.1'], ['YP_096683.1'], ['YP_096684.1'], ['YP_096685.1'], ['YP_096686.1'], ['YP_096687.1'], ['YP_096688.1'], ['YP_096689.1'], ['YP_096690.1'], ['YP_096691.1'], ['YP_096692.1'], ['YP_096693.1'], ['YP_096694.1'], ['YP_096695.1'], ['YP_096696.1'], ['YP_096697.1'], ['YP_096698.1'], ['YP_096699.1'], ['YP_096700.1'], ['YP_096701.1'], ['YP_096702.1'], ['YP_096703.1'], ['YP_096704.1'], ['YP_096705.1'], ['YP_096706.1'], ['YP_096707.1'], ['YP_096708.1'], ['YP_096709.1'], ['YP_096710.1'], ['YP_096711.1'], ['YP_096712.2'], ['YP_096713.1'], ['YP_096714.1'], ['YP_096715.1'], ['YP_096716.1'], ['YP_096717.1'], ['YP_096718.1'], ['YP_096719.1'], ['YP_096720.1'], ['YP_096721.1'], ['YP_096722.1'], ['YP_096723.1'], ['YP_096724.1'], ['YP_096725.1'], ['YP_096726.1'], ['YP_096727.1'], ['YP_096728.1'], ['YP_096729.1'], ['YP_096730.1'], ['YP_096731.1'], ['YP_096732.1'], ['YP_096733.1'], ['YP_096734.1'], ['YP_096735.1'], ['YP_096736.1'], ['YP_096737.1'], ['YP_096738.1'], ['YP_096739.1'], ['YP_096740.1'], ['YP_096741.1'], ['YP_096742.1'], ['YP_096743.1'], ['YP_096744.1'], ['YP_096745.2'], ['YP_096746.1'], ['YP_096747.1'], ['YP_096748.1'], ['YP_096749.1'], ['YP_096750.1'], ['YP_096751.1'], ['YP_096752.1'], ['YP_096753.1'], ['YP_096754.1'], ['YP_096755.1'], ['YP_096756.1'], ['YP_096757.1'], ['YP_096758.1'], ['YP_096759.1'], ['YP_096760.1'], ['YP_096761.1'], ['YP_096762.1'], ['YP_096763.1'], ['YP_096764.1'], ['YP_096765.1'], ['YP_096766.1'], ['YP_096767.1'], ['YP_096768.1'], ['YP_096769.1'], ['YP_096770.1'], ['YP_096771.1'], ['YP_096772.1'], ['YP_096773.1'], ['YP_096774.1'], ['YP_096775.1'], ['YP_096776.1'], ['YP_096777.1'], ['YP_096778.1'], ['YP_096779.1'], ['YP_096780.1'], ['YP_096781.1'], ['YP_096782.1'], ['YP_096783.1'], ['YP_096784.1'], ['YP_096785.1'], ['YP_096786.1'], ['YP_096787.1'], ['YP_096788.1'], ['YP_096789.1'], ['YP_096790.1'], ['YP_096791.1']], ['-', ['Chemotaxis / motility / cell division'], ['Chemotaxis / motility / cell division, Signal transduction / other regulatory functions'], ['Protein fate / hydrolases / secretion'], ['Protein fate / hydrolases / secretion'], ['Toxin production / other pathogen functions'], ['DNA/RNA degradation / restriction'], ['Cell envelope synthesis, Protein fate / hydrolases / secretion, Biosynthesis of Secondary Metabolites'], ['Chemotaxis / motility / cell division'], '-', '-', ['DNA/RNA degradation / restriction, Translation'], ['Amino Acid Metabolism, Metabolism of Cofactors and Vitamins, Translation'], ['Protein fate / hydrolases / secretion, Translation'], '-', ['DNA/RNA degradation / restriction'], '-', ['Transcription, Replication and Repair'], ['Toxin production / other pathogen functions, Metabolism of Complex Lipids'], '-', '-', '-', '-', '-', ['Amino Acid Metabolism'], ['Protein fate / hydrolases / secretion'], ['Metabolism of Complex Carbohydrates'], ['Chemotaxis / motility / cell division'], ['Chemotaxis / motility / cell division'], ['Chemotaxis / motility / cell division'], ['Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates'], ['Metabolism of Complex Carbohydrates'], ['Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates'], ['Chemotaxis / motility / cell division'], ['Metabolism of Other Amino Acids, Metabolism of Complex Carbohydrates'], ['Metabolism of Complex Carbohydrates'], ['Amino Acid Metabolism, Metabolism of Complex Carbohydrates'], ['Chemotaxis / motility / cell division'], ['Chemotaxis / motility / cell division'], ['Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], '-', '-', ['Transcription'], ['Nucleotide Metabolism, Amino Acid Metabolism'], '-', '-', '-', ['Transport and binding'], ['Transport and binding'], ['Protein fate / hydrolases / secretion'], ['Replication and Repair'], '-', ['Protein fate / hydrolases / secretion'], ['Toxin production / other pathogen functions, Chemotaxis / motility / cell division'], ['Translation'], '-', '-', ['Toxin production / other pathogen functions'], ['Toxin production / other pathogen functions'], ['Toxin production / other pathogen functions'], ['Signal transduction / other regulatory functions'], '-', '-', ['DNA/RNA degradation / restriction'], ['Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins'], ['Amino Acid Metabolism'], ['Toxin production / other pathogen functions, Detoxification / adaptation'], ['Signal transduction / other regulatory functions'], ['Translation'], ['Translation'], ['Translation'], ['DNA/RNA degradation / restriction, Protein fate / hydrolases / secretion'], ['Signal transduction / other regulatory functions'], ['Signal transduction / other regulatory functions'], '-', ['Transport and binding'], ['Transport and binding'], ['Signal transduction / other regulatory functions'], '-', ['Metabolism of Cofactors and Vitamins'], ['Metabolism of Other Amino Acids, Metabolism of Cofactors and Vitamins'], '-', ['Carbohydrate Metabolism, Amino Acid Metabolism'], '-', ['Protein fate / hydrolases / secretion'], ['Transcription factors / DNA binding proteins'], ['Transport and binding, Chemotaxis / motility / cell division'], ['Chemotaxis / motility / cell division'], ['Protein fate / hydrolases / secretion, Chemotaxis / motility / cell division'], ['Protein fate / hydrolases / secretion'], ['Protein fate / hydrolases / secretion'], ['Metabolism of Cofactors and Vitamins, Lipid Metabolism, Amino Acid Metabolism, Metabolism of Other Amino Acids, Biodegradation of Xenobiotics'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['Metabolism of Cofactors and Vitamins'], '-', '-', ['Amino Acid Metabolism, Metabolism of Complex Carbohydrates'], ['Carbohydrate Metabolism, Metabolism of Cofactors and Vitamins, Biodegradation of Xenobiotics'], '-', ['Amino Acid Metabolism'], '-', ['Biodegradation of Xenobiotics'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], '-', ['Transport and binding'], '-', '-', ['Biosynthesis of Secondary Metabolites'], ['Cell envelope synthesis, Metabolism of Complex Carbohydrates'], ['DNA/RNA degradation / restriction, Translation'], ['Replication and Repair'], ['Metabolism of Complex Carbohydrates'], '-', '-', ['Toxin production / other pathogen functions, Signal transduction / other regulatory functions'], ['Toxin production / other pathogen functions, Transcription factors / DNA binding proteins'], ['Energy Metabolism'], ['Energy Metabolism'], ['Energy Metabolism'], ['Translation'], ['Translation'], ['Energy Metabolism'], ['Transcription, Replication and Repair'], ['Amino Acid Metabolism, Translation'], ['Amino Acid Metabolism, Translation'], ['Translation'], ['Translation'], ['Amino Acid Metabolism, Translation'], '-', '-', '-', '-', '-', ['Amino Acid Metabolism, Nucleotide Metabolism'], ['Metabolism of Cofactors and Vitamins'], ['Transcription factors / DNA binding proteins'], '-', '-', ['Cell envelope synthesis, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], ['DNA/RNA degradation / restriction, Translation'], '-', ['Energy Metabolism'], ['Amino Acid Metabolism'], ['Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins'], '-', ['Signal transduction / other regulatory functions'], ['Metabolism of Cofactors and Vitamins'], ['Metabolism of Cofactors and Vitamins'], ['Metabolism of Cofactors and Vitamins'], ['Metabolism of Cofactors and Vitamins'], ['Transport and binding'], ['Viral functions / Phage / Transposases'], ['DNA/RNA degradation / restriction'], ['Translation'], ['Cell envelope synthesis, Signal transduction / other regulatory functions'], '-', '-', '-', '-', '-', ['Nucleotide Metabolism, Replication and Repair'], ['Transcription factors / DNA binding proteins'], ['Replication and Repair'], '-', '-', '-', ['Signal transduction / other regulatory functions, Transcription factors / DNA binding proteins'], '-', '-', ['Transport and binding, Toxin production / other pathogen functions, Protein fate / hydrolases / secretion'], '-', ['Protein fate / hydrolases / secretion, Transcription factors / DNA binding proteins'], ['Metabolism of Cofactors and Vitamins'], ['Carbohydrate Metabolism, Lipid Metabolism, Amino Acid Metabolism, Nucleotide Metabolism, Metabolism of Complex Lipids, Biodegradation of Xenobiotics'], ['Nucleotide Metabolism'], ['Translation'], ['DNA/RNA degradation / restriction, Translation'], ['Translation'], ['Translation'], ['Protein fate / hydrolases / secretion, Transcription'], '-', ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Metabolism of Cofactors and Vitamins, Energy Metabolism'], ['Protein fate / hydrolases / secretion'], ['Carbohydrate Metabolism, Metabolism of Complex Lipids, Energy Metabolism'], '-', ['Carbohydrate Metabolism, Biosynthesis of Secondary Metabolites, Metabolism of Complex Carbohydrates'], ['Metabolism of Cofactors and Vitamins']])
+Gene&Traducao:
 
-
-A traducao e:
-
-
-MSVEMSKTSSARFPPGQEIKLAKPATELYIGQILKTVVVTTLSNDQVLININGQNLNAKASHHFTPGELFEVKVIANHPETILEVQQKTPLPSLLQNALLQYLPKQAPATNLLQTLTQLMAENNLSAPINQVMKTILGNVPVLTQLPNQLMQAISQSGVFLESKLLKGKIPREIQSDFKGLCFKLLHRLGTDSKLPINLPNELESGFLQQAALPLPGAIPQPLAKDTILNLIGLSTEAVHHILREQVTQALARITTNQINYLSQENQEAYLIMLDFPLKTPDGIDVIPIMIKQHKAEPMQLSKWSISFALNLSHLGSIQATVSIYAKNIDIKVNTQQSSTLQLLNDYHKDLEETLYESGLHLREWKLQVGLEENHIDATNLRLLDIKI*
-MEAASWVGRKSYRCHKPSFIGYKNMKRKKPVAVALRYDGNSPPKVTAKGEGLFAQQIINTAKEHGIPLEQNPELTALLSQVRLNEEIPKALYIAVAQILAFLYYINGKHSKE*
-MPRITENIETYVTHLLSDLEPVPSQNQHLAYGYPGERQVFKDPMLDGKQVVVVNSQYDKHGRPVTGQPDVIQEANNYIDNLVAAAKSLIDKDKKGEKDLRKNAIDEMAKTFKKSISETIPSDKAKADLFSSKKSSANKDFLEQLAKVEGSLQQFTQAVAKASGHKLKALDKEGHNIRSHNRDTLIHRFKAPNSKEGEEQFIMYIPCGRYTKRQQRLMGKDESEVNRDHDTTSHKRSDLVLGNSSMARMIAGTRHSDGTVTIHHDSFSGPGARMPYSDFKGADDYKKLAIKAVTLINQEEVIQTLAQRQIDRMTNEDLWNKIPEEYRPDELPPDAEKARAQLIKLYVEHNPLSVTECYTQVVTAGQRVAAENQKEQFEYVRQMMDAFDGSKAKITIQTGSNTEVETAVGYQARMSSWGVNWFRQVGALNPLSDNSVTKNQNARFVNQMTDDVIRNLDKVAQNLGDYDKAGALHTLLKGPDVSDLNQQITEKENALKEVKGAYREALFSYFEEYQKGEGKWDQAKLDQLKNQVDGYEKSIKKQESAIYELHNQIDALRKAYYTEHKGQINKALQELKEQISPVIQNKETDPETKSRLQHFYNSCAYLTQAQELYYENTWHHGKNNFKLQTLMASLSCELDYANTKGCKSNNDRGQRLAQKIVGNALWTAMSEDGLYTGEFLDHRRTHGKEVSNVEQLDRELTTIQALHHTANTGVSGGKFEIQDKANFADNGLFGKVANFAKIKEMGPENAFTKNMGTKIKAGLGLGLLAAGGFVALTLLFPPAGLAVAALGIGVAAGAAIVAGVTFAATYLFGTAIDAINNKIEEGKIKSIVREGMKAASENSPQHKTEQKDHLTVNAKLHQQLGVTRESVLERQSTPKQEFEKPKDMTSKVDLTAAMEDDNRSESTPTPVNF*
-MKEISALFFLYLISTASFSLPKGFVYLHDVAPDIIEDIRYATHNNFIGNPIPGYKRGVCIVTRQTAQQLKKAEEYIKPKGYTLKVYDCYRPQRAVDYFYKWSRNAKDHRMKPEFYPREIKQDLFDRGYIALTSGHTRGSTLDLTLVKLTASREKKSNHPLTRCYDKTPNYLNDDSIDTGTRFDCLDVSANIDYSKLSKNQKANRELLQKLMKRFGFRPYYYEWWHFTLKNEPYPDTYFNFPVE*
-MRVSKLLFLTLALSGNLFAQDIKVVGTLNQTLKAPQNKTLNTKPAIQQIKLLKMQLSNSAIKALARKTDITLKKPNTITTSTALPSKVELGMNNVPVLNQGSFGTCVTFATTAAIDAALNKGDYISQLCQLQLGLYLEKNGHSPSGWDGSLGRIVLSQMENFGIVSKEKQKNLGCGGLTEYPDNEQPTPDHAMSLEQFHEMSEDPETNPVIYTPILDVYQAVLDRTDTNKTINDIKTALNQKDRVTFAVLLLDFDLGVMGAVGTNKTQFDTWVLTPEIARDIYLRPFFGGHEMIITGYDDNAVAVDDNGREHKGLFTLRNSWGEQFGDKGNFYMSYDYFKVLTIEAQRIRALADNESEEESMTA*
-MAQKPTKITHLVVLGDSLSDRGTLNKRELLGFIPMSYLSGLRSKSPKGRFTNGFLWGDYVGATTAEQFEIEHIRRKLRLHNNARDNADIGDELLINDKARRENENSFSLNEDNHILFKGERFARFYCEGGLTSHDYSCSFTFNLVLFFTRLILATLGGKRTQLLADDKKYNISNLEKSETLVVEWSGANDLITANDKPSRAAAEKAVNDRIQNIEALIHNGYRNFVLFNLPNLSLTPRFQRKNAEEQRNASDCTEYFNQQLQTKSLELIKKYKELGIPVNLSVFDVNEQFKEVYSNPEQYGFDRDKLKSPYVESDLFKENQKNPVDQKEHISPAKGYMFWDDVHPTATMHDWLAERFKEKYYDKVFRFEPPLQAKHRHKETADALAKTTDSMVKTDKPVKKLPENIVLMLNAIHSRAQLMCQSTDDQRREKGELLKHFIFEIKCQHGNLENIYGLISAFTLNPDHSKIIKTHQNPIIDFFRNKATTRSEDDIAALQKAVAAYLQPEDNKEHLVKLT*
-LNFSIRVILLLTGFVSLAFSAPKFLTISDIHYGAENIAKDGQDTGKEFLDVTFKRFEELSQNVDFILHLGDLPTHSLFSIPKKEEYEQVVFHGLHEANPGQKPMFYITGNNDSLLGNYQPFSSDNKSPLNLALDWDGACAYCDGLIIDDTHMRKDGYYSSYVIPNNKEIILIALNSVQWTKTPVFLPKYPNQQRDAFVQLFWLEQQLKNHRAKQLLLAMHVPPGTAYNGNRFWHDIYLDRFLTLLDKYHQSYDQITILFSHSHMEEFRKIRLSDGSTIYAFSTPGISRAHHNNPGMKIFDLDKQMRVRNSTTYYTSDLYEWGNEYYQAMNTPDAIFPNCQNKTIPQCLDTLSPEQVCNNLEVGLFYGVKSTRVPYQGCIKTYQIN*
-MKRTLTGAFMWAVWSLSSHAASMQFEVDKLINRLNPHVNLGIVVTDLTSGETLYKRNANRLYIPASNMKLFSEAAALMALGPDYQFKNQLSTSANQLQQGVLHGNLYLHLSGDPSFSREDLKTLLSSLKDWNITTIQGNVIIDSSLMSIPAYPPGWLTSDLSYSYGAPIAPLMVDSNRLTITVNPGAKAGAPAIVEVDDGGGTINLNNQATTKASEKGCGVGFYLDPENNLTVRGCVGLGQWAVQQRIAIKNPFVYAQGMIVSELAKSNIKLNGQVLLGRAPAGTLLIATRYSKPISQLMADTLKPSDNLYADSLYLHAAAKIKGSPVDWKQAQPVIKNFLQQQTGIDLKDSNFTDGSGLSRYNLVTPAQTMALLKFLYQRFPLSYEYIAALPISGRDGTLQKRFKTPNQQGFVRAKTGTMTGMNSLSGYLYTANGHTLAFAMYINRLPGKPAGPGRPLLDALCTYFLQQSPTSSRLARVLSPHSRIKFQFNPTQIELQRVHQAKWRRLETAVRQVLRGQDVNVVYRGNELIVTDNQSNANSVWKALQSIGKKYSFAVALSSKVMPVTPSGKPLLLWVQAPLSENKAERTWIIREAV*
-MQTRFTYLPVTSLQAGQYQPRQDFNVTELQELAQSISSQGLIEPLVVRPIAKERYEIIAGERRWRAAKLAGLNEVPCLIGDYSDQQACALTLIENIQRQDLNLIEEATGYKRLIEEFHYHQDEIAALVGKSRSHVANILRLLTLTDKVKQLVRDKVLSFGHARVLVGLNPEQQEMFAQQIIGEEWSVRHLEQEIKSYKNKDINSPKNPRKDRDIERLQTILAEQVGAPVQIVNDGEDGGWLKVKFFDNDTLAGLLERLGLRYD*
-MAAQLDPSSEFAALVKQLQREPDNPGLKQAVVKRLPEMQLLAKTNSLALFRLAQVYSPSSSQHKQMILQSAAQGCTNAMLSACEILLKSGAANDLITAAHYMRLIQSSKDSYIIGLGKKLLEKYPDFAEELKSKEVPYQSTLRFFGVQSESNKENEEKIINRPTV*
-MIIDWPVIIVLFCLSIPGVLIVMHRLVYFLLADNTERLKKRFSRFVVLQTLFMTFVMSFAGSILSSRTGLGDPLLEGLLQGKASLDSFQVILLPTFLYALLGLVIFCILYYGLFGSILDEKSFKIMSELRSKIGLDGCVLYGGVVEEVIARWGLMNVVCFFALLFTSQINSEIIIISIFLSAFIFAVGQLPAYIAAGCTPSRRFLYSFVLLSLSQSILFGFLFWQYGLTSAILAHMLFHLGWDRYEKLF*
-MKVNDRFNALKILTALIESRKNLSYLMSPQEISPMTKEICYGFCRHYFRLQSIADTLINKRPKDNELWIVLLIGIYQLQYMNKPDYAVVKETVSLLGQVKKSWAKGLVNAVLRNFCRRKDHILEKLAAEPVFIYGQPNWLLQRLQKDWPNDWQFIAAANDRHPPMTLRVNVLKHSVDEYLDLLKKSGIEAFKHPVAPDGITLAIPCDVMTLPGFAQGSVSVQDAAPQLAAYLLSLKPGQRVLDACCAPGGKTCHILEKEPGLASCVALDLDPQRLQRVRDNLNRLDLQATVVQGDVLEPRSWWDGHPFDRILLDAPCSATGVIRRHSDIKLLRTDEEISAISQVQSSMLNSLWPLLAPGGLMVYATCSIMSDENELQIAQFVAEHSDCQVSDGKWSWGRWTGHGQQILPGEHSMDGFFYSVLRKDEK*
-MNGLTVVFAGTPEFGLPCLDALIQSRHHLKAVYTQPDRPAGRGRKLQESPVKEWAINHQIPVYQPLNFKNQEAVDELSALKPDVMVVIAYGLILPKAVLEIPRLGCINVHASLLPRWRGASPIQHAILHGDAESGVTIMQMDVGLDTGPMLCKAACPVTSSDTAGSLHDKLAKMSVKPLLDVLEALASNSAQFELQNNELATYAGKINKEEARINWHQSAVEIDRKIRAFNPWPVAYTLAGELMLRIHQAKATDIMSTEMPGMILNIDKNGMLVATSDNALLVEKIQFPGAKIISVRDWLNSGKTQLHTGLMLQ*
-MAIRKILYLPDERLRKIAKPVETFDESLQTLINDMFDTMYDARGVGLAAPQIGVSLRLSVIDIVGDKKEQIVIVNPEIVSSHGEKEFEEGCLSVPGAYDTVVRAEKVTVKALDRFGKPFEITGEGLLAECLQHEIDHMNGKLFVDMLSPLKRMMARRKLDKFKRLQARKP*
-MRYCLLIFCFIISSITHALSLRPDSPSRYVVQPGDTLWSISSRFLNNPWEWKALWRANPQIKNPDRLYPGAVLALEYYQNIPYLRVLSNGTIKLSPNIRVTPQEDAVPPIPLGDIKPFLDESLILDVNVLNRAPYVVALMSERMLGGQGDEIYVRGLHPSKEMPQGGTIGYSIFRGGRNYFDPITHELLGYKAVLVGYGELVAGGEPATVLLTSINQGIKINDKVLINNHPEFELYFEPETPARQVRGYIIEMPDNMPVGNTQEAVGGVIIINLGETSGIKPGDVLAIYGKERIVNDPQNHLRPITLPQERLGEAMVFRVFTKASYALIVRSTRAIHLLDTVTNP*
-MNNLQPLLALNRMKKIGPRTVLKLQKRWPDLNLMFQLSNVDLEEAGLPSWLAQTIKNFDPGFIKTDLNWLSSSENHHILTWDSPYYPALLKEIADPPFILYAKGELSAMTQPNLAIVGSRNASVTGNENARAFSREISRHGVSIVSGLALGIDAHAHLGCLEGGGKTIAVLGTGIDCIYPRRHLKLAEQITENGLLLSEFPLKSPPIAGHFPLRNRIISGLSLCILVIEAAIKSGSLITARMALEQNRDVLAIPGSIHNPLARGCHYLLQQGAKLVTSVADVLDELKIEHHQFTSNKPIFSLASGKENLVKFIGFETTTIDQIIDRSGYGMEQVTSGLAELELKGAVMAVPGGYIRCEYER*
-MLLNLFEKSLTQLQKSHKSNDQDSQSQLLEEDLLSAEEQSLFIKSAQEKSTRIFTYDEQMKLTKASYQFLMRMKLWNILDIDQFESIVNQLQFSESRIVTLQETKWTIRNALASSLNEEQLTFLDLVLYQTEDELTIH*
-MSKHLVIVESPAKAKTIQKYLGNDYDVLASYGHVRDLPARKGSVNPEKHFSMTYVPIEKNARHIDTIAKTLKKSDSLLLATDPDREGEAISWHIFELMKERNLLKDKSVHRIFFNEITKAAIQDAINHPRSISMDLVNAQQARRALDYLVGFNLSPLLWKKIRRGLSAGRVQSPALRLIVEREEEIERFIAQEYWKIIAKCAHASTEFEARLTHYNEEKLQQFSVTQQEQAHEIKKQLIAQAQGFLTVAQIDKKQRKRKPSPPFITSTLQQEAARKLGFTARKTMMVAQQLYEGIDIGTGTVGLITYMRTDSVNLAKEAIDEIRDYITQRYKGDNCPNSPRIYKTKSKNAQEAHEAIRPTSIKRTPEMVQGSLTSDQLKLYSLIWKRTVASQMADAILDTVSVDFSCGKGNTFRANGSTIAFPGFLSVYEEGRDDSKDEDNEDKILPAFNVGEKIKVSDIETNQHFTEPPPRYSEATLVKALEEYDIGRPSTYASIIHTLQQREYVVVEKKRFLPTDVGRIVNRFLTNYFTRYVDYQFTAGLEDTLDAIARGEKDWIPVLEEFWQPFVQQIQNIDEQVQRKDVTTELLDEKCPKCQKPLSIRLGKRGRFIGCTGYPDCDYTQDISNPEGEKSEPEVVEGRSCPLCHGALHIKTGRYGKFIGCSNYPECKHMEPLEKPSDTGVTCPKCSQAKILQRKSRKGKIFYSCGNYPKCDYALWNEPLDLPCPKCAWPILTLKESKKFGRQILCPREGCDYSAKED*
-VNYRSDIDGLRAIAILFVLFFHGGLTLFPSGFIGVDVFFVISGFLITSIIEKSLQNNRFSFMDFYSRRLWRLQPVFICLIVVTTLVTLFYYLPDDLMLFSKSARKTSIFTSNVFFKNVTSDYFSPDSNQLPLLHMWSLSVEWQCYFILPVGIYLLYRLVGPQHRIKITYLLTITFFALSMYYSWSNPAKTYYQFSSRIFEFLIGSCVASASGSKRFLANKYVLNFITVLAVLTLFYIAMHHDINIGFPNWYTLILCLATAILIAAGQQEPQPIVTYALSLRPLVFIGLISYSLYIWHWPVLALIRYLNIEESNLVLLVTFGLISIIAYLSWRFIEKPARKLHRIRFSYTVVCLLIMPVFVTHLSDYLIKKNAGYPYRFNEAIQVYAELNKYKNPQRPLCLERKNTEVNPQCVLGAKNSDSRTGFMIGDSYSNQHWGFMDTLAKEANVSILAHATVACLALPDIYQFDWNVKNKIYQECHDQTNRYFNMIKTNHYDYVILGQNWNGYFGDRIINQLNDNRSQELSLKRIEKALDKALELITTSGAKPVLIKSIALSKGNPYNCFFEHIKLHKKYNPERCDFNLDVSEQIWFDNLFAKMQRKYKTLVIIDPRVAQCPSGMCKVDINGIPVFRDSGHITDYASYHLAKLYLEKNNNPLVS*
-MAENTTESNVIYFTRLHWIIFFGPFVGLGLVMAIYIYIIQLREVSLFLGFFALIWILITWVTYHFSSITIKRKQVILRTGIIVRQTVDIPLNKIETIDIRQSILGSILSYGTLIITGTGGTRYLINYLYKPLTCRRYIEQLMNEPH*
-MKSISQCLNKQLSTICQHSMQLEELSLKISAFLPSHFISKCQVGSFNKGCLVLTTTNAAFASEIRYLLPELRDKLRKEAGLYQLSSIKITIIAPSSQIENPAQKKSLTLSEKAKATIISESQHCTYEPLKKALLHLAQSE*
-LYSDFFFTIMLKYSTNMLELAMPKINKIVNGTDLTPHYLSEPNKEFKIYRYNNEVYAVRFENDEPMDYVLMWKSHKSEHTQNSEMIKNTEEDYKELGKGEQGTVYEKTEDKAMKVSRGRHPREFYEEINLHIIEQQFFLKYHGIQEHFVLGLWNIKNEENVYFYMPKINAIPINKKIDQPKIEEFVLALKELNDAGYWHPDLANNPYHISPQNLIATEEMVKTIDLDGGFRYDKGRVDELSRKSLVYGKDQWLYVYNFIYPPTDEEDHRIDWRVPIEKWYENNRDESLSDNPHTLLRFYHEGLISLPKKLAHDLHETILEELSQDKKFKKHSHEVGVNRFFSPKKQEIYEGLKGDGLKKVILKELRDSLAEIRTMEQLEEKKLEFLASPEMQILAEGQDKTTKALNLKTSSRKKVMVIFKEAEERILNSPNVSI*
-VIMLKQIVLTGLVIIGIVITLMYLFQRHLIYFPNRHTPKLEDYNASDMKVVSLRTKDNLHLKSWYKPASKHRPTILYLHGNAGHIGYRMPLVREFIDAGLGVFLLEYRGYGGNPGKPGEKGLYEDGETAIEFLIQHGVPSKRVILYGESIGTGVATHLATKYPVCAVILQSPFTSLTRLAQYHYPLNFLKPWDQYNSLARMKKINAPILVLHGKLDQIVPYQEGLNVFNEANEPKKMVSFDDKEHNDLWSADNFSREIIQFALNQCS*
-MSFSLSELLHYKNEKIVTHFCYSHPEYSIQEGLFLFEDLLAWMWLNKQRRLRGKKTYLFGPLLILDEMWHSFILHTRDYIDFSMKYFGEYFHHDVEPVGFEHVLDEEELADYLQDCFQYLNKEWVERRFSIAFAEMDD*
-MREAVMCRFVAYLGRPTLLENVLVRPKNSIIMQSLHARETKYRTNGDGFGLGWYSPEVSSDPALFTSVYPAWNDRNLLHLTAKIQSPCFFAHVRSASAGGVTNYNCHPFIYGDWMLMHNGEINDFIDVKRHIRHLLDDDIYHWVKGQTDSEHLFGLFLQLAKGRDITQLSVAADVLQETINKILEVIGQFGHSGPSYFNICLTNGKKIIATRYCSHEKKKPLTLHYLIGYVLSTQGLWIKEEGNPAYVVVSSERLNDLDEGWEDVPPQHMILIDENKNIQLRPLQTLG*
-MKFKIATCIVTMLSSFIVFSSNSNFSDNNTNDLLHLDWRDTSVSPAVDFYTYANGNWKKNNPIPADYASWGSFYVVNEKVQNIIHQMLINASKNTHAKPGSIEQKVGDFYFSGMDVDSIDKSGITPLKPEFTKIEEIKNLKDLQAEIAHLHKIGVGPLFNFGSMQDFKDSTSMIGAVMQGGLGLPDRDYYLKKEAKFKQVREAYVNHLTKMFGLLGDSPEMAAKEAKIVMDIETQLAKASMSQVEQRDPHAIYHMMTITELDKLTPNFSWSQYLSARGQGKIKKINFAMPDFFKAMNELLQSVSLDEWKIYLRWHLIDAFAPYLSKPFVDQNFKMVSALTGTQKLLPRWKRVVNTENGALGFAIGELYVEKYFSPESKQKVLDILKNIRAVLQEDIKTLSWMSPKTRDAALKKLDLMEERVGYPTKWWDYSSLKIDRGPYVLNVIRANEFLINRDLDKIGKPVDRSEWAMTPQTINAYYDPSMNNLNIPAGILQSPFFDPKAPTAINYGAIGYVIGHEMTHGFDDQGAQFDGYGNLKNWWAPNDLSKFKNATQCIADQFSKYVVDGDLHVQGQLVVGEATADLGGMILAYKAFQRSKEYKNAKTIEGITPDQQFFLGTAHVWAMNVRPEQLRNQVTTDPHPPAVYRVNGSLANMPQFQEAFNIPNGSPMISKNRCIIW*
-MIKQRTPKKVIQATGVGLHSGEKVLLTLRPAPVNTGIVFRRVDLSPVVEIPASYEYVGDTMLCTTLHHGKVKIATVEHLLSALAGLGIDNAYIDVNAPEIPIMDGSAAPFVFLIQSAGIREQNAAKRYIRILKPIRVEENGKYVQFLPHKGYKITFTIGFEHPVFNDRPQTVSFDFSGTSYVKEVCRARTFGFLSDYEKLRECDLAKGGSLDNAIVVDDYRVLNEDGLRFESEFVTHKVLDAIGDLYLLGSSLIGAFEGYKSGHELNNRLLRELMVRQDAWEYTYFDTENYLPAVHPEYYPVEA*
-MFELMESSQQENNAVIKVVGVGGGGGNAVEHMVAENIDGVEFICANTDAQALRGSSAKIHIQLGDALTKGLGAGANPQIGREAAEEDREHIKEILSGADMVFITAGMGGGTGTGAAPVFAEIAKELGILTVAVVTKPFSFEGKQRALAAEEGIRRLAEHVDSLITIPNNKLLSVLGKNISLLNAFKAANNVLLGAVKGISDLITRPGLINVDFADVRTVMSEMGMAMMGTGSAVGEQRARQAAEAAIASPLLEDVNFSGARGILVNITAGLDMSIGEFEEVGDVVKEFISDDATVVVGTVIDPEMTDEMRVTVIVTGLGDNRQRQQQPQQPLRARLVETTRSDGSLDYQQLERPAVIRKQAQTGTATTATKQTNNGNESVPDVDYLDIPAFLRRQEEA*
-VETTNGTIMAKKIEKNIITGLDIGTSKIIALIGEVTSDGTIEIIGIGRHPSRGLKRGVVVDIETTVNSIQRAVQEAELMAGCEVRTVYAGIAGSHIRSLNSHGIVAIRDQEVSQADVERVIDAAKAVAIPADQKILHILPQEFIIDHQGSIREPIGMAGVRLESRVHIVTGSVSAAQNIVKCVRRCGLDVIDIILEQLASSHAVLTEDEKELGVCLIDIGGGTTDIAIFCEGAIQHTSVIPIAGDQVTNDIAMALRTPTKAAEAIKVNHACALPELANPNQMLEVTSVNDRPGRKISAKALADVVSARYEELFSLVRNELRRSGFEDRLAAGIVLTGGASNVRGAIELAELCFEMPVRKGCAHYVSGLTEATENPSFATGVGLLLHGFQQQYESGYNVPAMNDNGKSIWSRMKEWFQGNF*
-MEVNSVGLRYLTIMGLLILSALLLAGRLGYLYLADAERFPITTIKVAATYEHITHKELENVLAKYLDASFFLLSVKGLQSELNSMSWIDTAYVERVWPDTLKIKLTEKKPVAIWGDALMTRDGKLFNQGSVPSDLDIPKLKGPQSQQLEVLQVYEKLSKILSSYGLNASGLYLRDNQSWVLLLNHSVKIYLGKKELEERLLRFCKAYPAVFAEKADQLAGVDLRYPRGMAVQWKQQMGR*
-LETLMSKPVNLVLLYGGKSGEHEVSLVSAASVLKHLDSEKYHIIPIAMDKSGRFHRHDYNDLLACSDKLPVVTEKSTPLEGLLINGRLAVDAKIVFPVVHGPLYEDGCLQGLLELAGVAYVGCDVLSSAIGMDKDMARRLACINGLKSARYKLLSWHANASERQQFCHEVASEFGWPLFVKPCSLGSSVGIHKANNMDELNAAVADALRYDEEILVEEFIVGREIELAVLENSIPCGKPRVSMVGEIKVNHPDGYYSYTAKYLESSQTDLIIPAQLNNSLEEQLKQAAANIFSYLKCKGMARVDFFVNDKTEEIYFNEINTLPGFTSISMYPKLWQATGIAYPDLLDELINLAMVHHNCRQHLVTNYL*
-VRMNMSITGMDSSHVTESQGTLLFNEPLAEYTTWRVGGPAARLYKPANIDDLALFLSRLPFDEPLLWLGLGSNSLIRDGGFSGTVILTQGCLKEMTLLSDNCIRVEAGVSCASMARFSARNNLSGGEFWAGIPGTMGGALRMNAGCHGGETWQSVIEVQTINRRGEIRTRKPEEFEVAYRHVAGLGDEWFISAKLQLSPGNKETSLQLIKDLLAHRAKTQPTNEYNCGSVFRNPPGDFAARLIESCGLKGVSIGGAVVSEKHANFIINHQGTATAANIEALIHLVQTKVREQTSIELIREVHIIGDANVQTR*
-LNNSEQFLSPRMGRVEQIHFVGIGGAGMCGIAEVLHNQGYRITGSDLGESGTVQRLRSLGIQVYIGHRLENIKGADVVVRSSAVDFNNPEIVAARELMIPVIPRAAMLAELMRFRHGIAIAGTHGKTTTTSLVSSLLAEGGLDPSFVIGGKLNSCGANAQLGKSAYFVVEADESDASFLFLKPMMAVVTNIDADHMDTYEGDFEKLRTTFLEFLHHLPFYGLAVVCLEDEEICRILPAIQRPTLTYGFKEEAHYRAINWTQKGMLSEFVVVRPAPHKQLTIQFQYPGRHNVLNALASIAIATELGVDDDSIVRGLQKFQGVGRRFQMLGEKQFEKGAAIIVDDYGHHPQEILSTIDAFRRVWPERRLVHVFQPHRYTRTQSLHRQFVDVLSLSDELLLMDIYAAGETAIPGVTSENLANEIRSRDKRVTIVSEQSLKATLDEFIKDGDVILMQGAGSIGQIAVNLMKNM*
-VNTMRPRHLNQRGKPVSRPISLYDKWLIGAVFGLLIIGLMMVASSSVMISTKYFHQPFHFLIRQACYLFVGLLLALIVVRTDSSFWEKISMPMMIGCVFLLLIVLIPGIGKSVNGSRRWLALGPIGVQVSELTKLAMIFYLSGYLVRQQEAVCESIFGFIKPMAILAVVSVLLLLEPDFGATVVISGTVMAMLFLAGVKLRYYFGLMLVVVTALALLAVSSPYRVARLTAFLDPWADQYNSGYQLTQSLIAFGRGGWFGTGLGESIQKLLYLPEAHTDFLFAVIAEELGLFGILVVITLYSILVIRGLNIGYTAYTQERHFASYTAYGLTIWLALQASINMGVNAGLLPTKGLTLPLLSYGGASMVINCIVIALLLRIDHENRWQSLGLRPLTA*
-MNHSLYLVAGLGKTGLSIARYLKRNNKSFVVFDTRKEAPGLAEFQNEFPDVPIYLQQTPDEVISQVTDVITSPGLALDTPVLERARQAGASIYGDIECLAREISAPVIAITGTNGKSTVTTLVGEMAKAAGFRVAVAGNIGTPVLDMLDDEHHYDLWVLELSSFQLDLTYSLSPVVATILNVTPDHLDRHHTMEAYTQAKQRIYRGAKAVLFNREDVYTVPHQSCQADIKCISFGKDAPSMGNWGLIEQENTTYLAKGMERLLPVESILIKGVHNWMNALAACALAEAAGISMQHILNVLKTFPGLPHRCQWVREVDGVGWINDSKGTNIGATISAINGIGGSMQGKIVLIAGGQGKGADFQELAQPVSEFVRSIVLIGEDADKIESALAKVVPVVRASSLEGAVTIAKTCAKPGDVVLLSPACASLDMFRDFNHRGDVFTSSVRGL*
-LSIILRTRGIIMLYWLTQLLQGQYHAFRVFQYLTFRSILASLTALIVGLLCGPLMIRWLRGLQIGQMVRSDGPQTHLSKAGTPTMGGVLILLAITVSCLLWCDLRQTSLWLVLLVTLANGLVGWVDDYRKLVLKNSKGLPGRWKYFWQSVIALVAVSYLYWNASLPVHTQLTVPFFKTVTWDLGVFFPVLAYFVIVGSSNAVNLTDGLDGLAIMPIVMVAGALGVFAYASSNAVYSNYLGIPYVPNTGELTIFCSSIVGAGLGFLWYNSYPAQVFMGDVGSLALGAALGIVAVVVRQELVLLIMGGLFVIETLSVILQVGYFKYSGGKRLFRMAPLHHHFELKGWSEPKVIVRFWIITVVFVLCGLATLKLR*
-VSLSVSTLVFSTSQNTMNLITIASLLSQSCQINADITGVSIDTRTLKPGNLFFAIVGERFDGHDFIKEAEAKGASAAVVNRSIDGVHIPQFVVASPLMALAKIAAAHRQEMSCPIIALTGSNGKTTVKEMIATILPQPSHATKGNLNNHIGVPLSMLALNKQHRYAVFELGANHPGEIAHTVGIVQPDVSLINNIAPAHVEGFGSIDGVARSKGEIHQGLSPTGVAIVNDDDAYAHFWDDLIADKKILRFSSLHPADIYAQDIRLDTHGRAHFTLVLPNSRVEIELQVPGLHNVRNALAAAACCYAVGISGNDIQRGLAHFGGVKGRMTMLSGQNQSTVIDDTYNANLRSVLTALEVLSGRPGRKIFVFGDMGELGEWTTQHHREVGVAARQLGIDKLMSCGLHSELASQAFGEGGQHFCSQEELIEVVKNDLTPDTTVLVKGSRSSAMENVVHRLVQVEG*
-MQANWSLILNVLLLIGVLVAIGRLMKTRRQSLNQEHYQPSLGQVENNSYGSQSYNDEIIAVRKVNREVPLDFENFDGSEKRQAIRKPSVKTEQPQLIPEEEECELNERTEPNSDCSSSTAMVFLLAKENRQFAGYELLQTVLAAGLRFGERHLFHRHQFTNGQGPVLCSLAAATATGVFDLQNIGAFSVRGLCLFMQISNNPEINAERFSVMLDTAKQLSEGLDAYLLDDQRKPLTEERIARYHRYLKIEHLMDDCVTN*
-MHLKQLKLAGFKSFVDPTTVHFPSRLVAVVGPNGCGKSNIIDAVRWVMGESSAKNLRGESMTDIIFNGSSNRKPVGQASVELVFDNSLGRLTGPFASYGEIAVKRIVTRDGESFYYLNGARCRRKDITDIFLGTGAGARSYSIIGQGTVSRLIEAKPEELRVYLEEAAGVSKYKERRRETLQRIEQTRDNLTRVADIREELGKYLQRLERQAKAAERYTILKEEEKICRAEIQALKWQEYSEKQTVKQRELQELAIRNEQQQSLLTSCYKERAVLNEQLQDAIDQSQSIQDSLYHSGTDIARLEEAIQQQEREKKRLENDRQQMQVDSQLIEEQLKLDNEELHNCKLKAQQLEEHLHHLKMEFKEQESLWQEKQKEQSQWEKIWQEVQINSNTIKNEYQLTQAKLQHLEQKRHQVLVRLEKLNLEQSAISLDDLQKNKIELQEKHFQLKETQEFDEEQLRQANETQSDLQNQLQNTEQQLHTLQDEFHRLNTELAALKAAQIAAKKENRPNKDGIAEWSDKPRLMDVLKVEPQWQSSCEIVLGDDLIAYVLDDFAELWSRWQFCEDHKENVVTMRALNGEKQERPRLADKIQGLVPSTVNHLEHIYAADSLEEAKTWFPDLLAHESIVTVNGIWLGKGWIKLPRQKEQDEVGVLARQQRIIELNLSVESLQQKIESIRLARDSYQARLQENLNFIKLHQLNLNTSNEALRNHIIAVNSQEQAIFHAEKQKDAITNEIIELESSLEELNAEQLEMADKIRELEGQYQASELQFKRFINEKDTWNSVLVEQNKQVESVRALLHQSELEYDREVTKIQQITDRISREKERLQRAQMRLEELTQHYLQSVAPEAEFKNQLAALLIKHGEIELMLTLSREKVSQLKLQLEDQEKLILNYDQEVKRIQELMNQIQMEKQALSVRASSIQETLDEANLQAQSLLERIPSGVTQSIKEDELIAILEKIKRLGAINLAAIEEFAAEQQRKVFLDEQYNDLSQALSTLETAIEKMDNETKSRLENTFDEVNTSFKALFPRLFGGGRAQLELTCDNLLEAGIVVMAQPPGKRNSSIHLLSGGEKAMTAVALVFAIFQLNPSPFCMLDEVDAPLDDLNVSRFCDLVKEMSQFIQFLFITHNKVTMELAEHLVGVTMREPGVSRLVAVDVKQALTME*
-MKQQFYKLPQILISLCLLLILSTPIQAEPPNLSLIRKEIKNYYDSGLYYHELERTIKLAQEYIHQQYLINKNNKHPQKLAIVLDIDETSLSNYDKMVKRDFTGSKEQIHKEILAANSPAIKPMLTLYKNALKQGIKVFFVTGRQESERDATRANLIKAGYTKWAGLYLRPNGYSSPSIIPFKSKAREMIAKKGYTIIASIGDQCSDIQGGYTKKGFKLPNPFYYLP*
-MSKLINLAVLSFSSSLAFAGPLTLKGEVDVHITPKNPSGVAQSLTFKLPKYELSTEAKSYLREQLSEYPKNSINTASFSSELPRKVKLGMQLTPVLDQGYHGSCVTFAVTAAIDAALGAGDYISQLCNLELGSYLAIHDKAKASGWNGSFGYWVLQQISEYGIISQNYQKLNGCAGVREYPLEDENNEGKPMSDSEFLAHSVPVSNLISWEALLKDEESFSAKADMNQIVYQIKEELAKGNRLTIGMLLDVFVGDAGAVGTNRAYNDTWMLTPEIVLDAMNGMIYAGHELVITGYDDDLEVMDEEGHVNKGVFTLRNSWSKFAGDQGDYYVTYDYVKFLAMEVMAIRMKEKAA*
-MRTLLSCFLITLLSFGLIINEASAKRFGGGRSFGVQRSQSSLFSSNKTHNTSSLTQKANKSRWGGVLGGLLVGGLLASLFMGNGLANGLITWLILGSVIFFIISFLRRKMNPGFQATQSGAFRQNSFEQFTQNYGNRNSGGAHFAQQETSFDADNFLRDAKITFIRLQAAYDQKNLQDLQTFTVPEVFAEIKMQLDERGDAPNQTEVISLDAKLLDVSKQSLSMIASVQFTGTIKENGEISNLDEIWHFRQFDNRKEWVVGGIQQEVFQP*
-MSKHPMTVEGAEALKAELHRLKFVDRPRIVEAIATARAHGDLKENAEYHAAREQQSFNEGRIQELEAKLSHAQIIDISKLPNNGKVIFGSTVTICHVATGSELTYKIVGEDEADIKLNKISYSSPIARALIGKELDDAVTVETPGGMVEYEIIQVQYIVE*
-MPKRTDIKSILILGAGPIVIGQACEFDYSGTQAVRALKEEGYRVILVNSNPATIMTDPELADATYIEPVQWKEVARIIEIERPDALLPTMGGQTALNCALDLVREGVLAKYSVEMIGATREAIDRAEDREKFRQLMIKIGLDMPRSAIAHSLEEAIQVQARLGFPAIIRPSFTMGGSGGGIAYNREEFEEICIRGLELSPTHELLIDESVLGWKEYEMEVVRDKNDNCIIVCTIENFDPMGVHTGDSITVAPAQTLTDKEYQRMRDAAIKVLRAVGVDTGGSNVQFAINPEDGRMLVVEMNPRVSRSSALASKATGFPIAKVAAKLAVGYTLDELKNEITGGKTPASFEPSIDYVVTKVPRFNFDKFPQTPDTLTTQMKSVGEVMAIGSNFQESLQKAIRGLEIGRCGLHSLFQKEDMARLRGHLREPTPDRLWYIADAFRQNLSLEEIHLESRVDPWFLAQIQELVLLERSIIGKTIRDLDKTALHLMKHRGFADAYLAKLLGCTEAEVRARRVELEILPVYKRIDSCAGEFPSDTAYMYSCYEGSCEARPESNKKKIMILGGGPNRIGQGIEFDYCCVHAALSLRSAGYQTIMVNCNPETVSTDFDTSDRLYFEPVTLEDVLSIVAMEQPEGVIVHYGGQTPLKLARDLEANGVKIIGTSSDAIDMAEDRERFQQMVKELKLHQPDNGTVRSEAEAIELANKIGYPLVVRPSYVLGGRAMEIVYQEEDLRYYLSHAVEVSNDSPVLLDKFLNDAIEVDIDAVCDGKDVLIGAIMEHIEQAGIHSGDSACTLPPFSLGVVVQQDLIEQIRKMALKLGVVGLINAQFAIQADDIYVLEVNPRASRTVPFVSKATGLPLAKIAALCKVGISLKDQGLNQNHHTPSFYSIKLPVFPFIKFSGVDSILGPEMKSTGEVMGIAKRFGQAYAKAQLGAGCHIAKRRRAFVSVRDADKTRVGEIAKRLIELGFEIIATRGTALALQAAGVDCRRVFKVAEGRPHVLDFIKNNEIDFIVNTTEGKQAIADSFAIRRNALQHKVSYTTTLSGAEAACLAMKYEDRETVTRLQDLH*
-MNEMDILSLFYDEMTARGVTREQVFLSIEEDAAAMLTQKLGKPVSVEEAQKLTDICIANEWLERTTADPYYKYLSLTEAGLQMLLSTLYK*
-MQEIDVLIIGAGAAGLMCAIEASKRKRKVLVLDHANKAGKKILMSGGGRCNFTNYYIEPNKYFSHNPHFFKSALSRYTQWDFIELVNKHKIPFHEKTLGQLFCDNKSKDIVDMLLKECEQYGVAIYLNTVIEKIQKTNDYSFKIGTTKGKFHCHSLVIATGGLSIPTMGASPFAYKVAEQFAIRVWPTRAGLVPFTLDVLEKDRLSILSGIGIDSLVNNERNQFREHILFTHRGLSGPAILQLSSYWNPGESICINLLPEHNLLESLKTARAEAPHKQLNSVLSMYLPKRVVEVFIPQKLGEKKLADSSNKDLETISHLLQNWVVKPNGTEGYRTAEVTIGGVDCHAISSKTMEANNVPGLYFIGEALDVTGWLGGYNFQWAWSSGWAAGQVV*
-MAFIRHLLEYLLHPFFLCLLALGICIFLLYRRLAPTFTKVMLFVVLIVLLAMSTGWLPSYLTYQLESRYPIVKRVNPNVKWVVVLGGGQNIGEEMPANDLLTSASIKRLIEGVRLFRTLPDAKLLLSGGGSAGEQSEALLLTELAKWFAIDSEKVVVETVSINTADQARELAAIVHDQPFYLVTSAIHMPRSMALCQQQGLHPIAAPTDFTFFWSTDTWVKMVIPNSYNLAYTSIALHEILGKIWALGFR*
-MSRKILDRYIAKTVLSAIGLVTLMLVGLQIFILFVNQIDDLGRADYGIVQAGVFVLLQMPYQVYLFFPIASLLGCLVGLGVLANHSELVVMRAAGISIGQITGAVLKASLIVILLITSLGETIVPVMAHYANEYKVSALTGGQALLTPRGVWVRNGNDFVSIASVTHENTLRYVNQFRFDNQHNLKLARQISEVKYVNNSWIAYDVKQTEFAEDHTKAHHFDTLPWDVPVKPEILKITGTNPDEMTLHELNRYLREQQRNHQNVANYKFAFFQRITQPLNTMVMMILAIPFIFGPLRSSTMGSKLLVGAMVGFGFHILNRFFGPVSTVFQWPPELAAFSPTLIFSLIGIYLMRRVR*
-MSNQFIQYLNRAASGSIPGFVIMKLLMLELPNLMGLLLPLGFYVALLLAYGRLYAESEMTVLRACGYGPRQLLKHSFAMATVVLVVVAIVMIWASPVIAVERIKLIRSTGIKTLIQTIMPGRFHAINSGQQIFYVQSMNRDHSQAEQIFMAKHSVQDNRLLWDVLWADKAFAEVNPQTGEEYIVLQNGKEYQGVPGHADYQIAEFASYKSKLPNPTVVMHDDARTAKTRDLWPLNNHDLKKAAELQWRISIPLMVLTLTLVAVPLSRVSPRSGKYSKLLPAIIIYIFYANFMFVSRDAIATGKIPWWIGMWWVHVAVAILGILFIWRNQVKLA*
-LSFSSGAGKNIMNYGLTHTPSLTTSECLVLGVFSDLALPDFANAIDNEQQGLIKKLCQRVPEPGNTVWQTDVEGHSLLIIQCGKKEEFSANSLQKRVGEITEALIKQRFSSATVCLPRLTQESAEWQIEQMIVQIDNLRYQLLDFKTKNAKSHKLESVIFHLPGATEKSLEMAKAIVTGVEFCRDLANMPANICTPTYLGEQAILLSKQFDQISCQVMGPEEIKEMGMGALLAVAQGSDQPPRLIDVHYHGNKNSAPVILVGKGITFDSGGLSIKPANAMDEMKYDMSGAASVLGVIKACALLKLPINLIGIIASAENLISGSAVKSGDIVTTMSGQTVEIINTDAEGRLVLADALTYAERYNPDFVIDIATLTGAIIVALGNIATGYMTRDEQLAKSIERAANESQDKVWRMPLDEAYQDALESPLADMINAGFDRSAGSITAACFLSRFTEKYRWAHLDIAGTAWISGKKRNATGRPVPLLIQLLRHVANSR*
-MSPIRVDFYLLASSLPESRWLVACRLIEKAYTKGHTIFVFCDNQQQAEYLDELLWTFKDDSFIPHNLQGEGPEPPPPVQIGYQKEPRGFTDILLNLSTNIPIFYTRFKRVIELVSNVEHEKEVSRLHYKEYRHKGCELHTHSIE*
-MFVTFSCDAYENITYFENVAKQLLLLMGHGGTIPGAIKSENVPDALHHLQQGLEKIKSENKLLEDDEDSEPDISLAKRAIPLIHLLQAAEKKDCDVLWSHSKSPG*
-MQAEVFYKSCGDRIVPVHLISQSQWDEGIENLTPMERNCFSVRQFKGKLGDYCFILNADGVIEKAFIGSGTGNQESALANAALLLPPGNYQFQDKLSRESGVVWALAQYRFDEYKKYELQPRVLIVEANDMDYILSLANSLFLVRDLINTPTCDMGPESLAHVVEELAKTHKAYFKQWIGEELIKDNFPAIHAVGRASALTPRLLSLQWGNEKHPRVTLIGKGVCFDSGGLDIKPSSGMRLMKKDMGGAAHVIGLAQWIMVQRLPIRLQVLIPAVENAIGPNAFRPGDVLTMRNGLTVEIENTDAEGRLILADALVKACEEKPDLIIDFATLTGAARVAVGTEIAAMFSNHDQLAQDIVAASNKVSDPVWRLPLFSPYEELLNSNIADMSNSSSSSYAGAITAGLFLQRFVTKSIPWVHFDIMAWNAVSKPGKPEGGEAMGLRAVAEYLLQTYG*
-MLTTDIMVPKKQSLIRSTSLVSLMTFISRMVGFARDMVLANFFGAQAGMDAFFVAFRIPNFMRRLFAEGAFSQAFVPVLAEYQKTRSAEDVRTFIARISGYLSSILTLVTVVGIVASPVIIFLFAPGFHHDSVRAELATQMLRITFPYLMLISLTAMAGAILNTYGYFGVPAFTPVLLNISMILAAVYLCPDLPQPVVGLAWGVLIAGIVQLLFQLPFLYQRHLLIRPRVVRDDPGVNKVLKLMIPALFGVSIAQLNLMIDSIFASFLKVGSVSWLYYTDRLTDFPLGVFGVAIATVILPHLSRKHTEQNINQYSRALDWGLRSILLIGIPAGLGLSFFALPLIASCFAYGKFTAYDLLQTQKSLITLAMGVPAFMVVKVLASGFYARQDISTPVKVGAIAMVVNTLLCFIFVWHLAHAGLTLASALAGYVNCVILLFLLIKRGLFKPSPGWLKYSMQLLIANFAIGVYLYFMSGTATYWLGFSPLMRLSLLLAHVFVTVVIYLLVLGIIGLRPSHFRGQIKD*
-VANIKSAIKRARQNVKLRQHNASARSMYRTYIKNVLKAVESGDQEAARAAYTKAQPVIDKAANKGLIHKNKAARIKGRLVARLKAMAA*
-MFLTINDLQSQVQLAKKRLYALAKNWLDTQKEAINSKDKANWLNAFQASTKEAMQEQLKATGFPLIRNAILVNQSEDELPQHSLEQSSSLIHSENFPEQFNSRTVPRVIYVCHSGENNQVIKRLCQLTTLMEQLHTLEELTFEVQTNVHFRGLNLAYRMARSINKEWRDVEKGRETVEYYAERLQIAEKQYKLASDFCHECLGIYKEQLDARIMYFNESLNFFVECLVAAFSSVKDDRYWLTKFLLPSLPWHSMLNEVATWLFTTNGFTNPTIDSIEVNRSHLKAITEQFAKLMMAPFCSLEKELQGKIEKVENEQKIARENVYAMSSELDIVIHMQSQRKLAALLFPAQPLSMLGFFQGVAAAMGRDYFYSTFIKGNQSQEPRITDDEKPLIEASNYSNGLH*
-MKYAVTFCTTDQEVGSNPLWHSCLLLSKMDETSKLLEVVDNWGFYGLPTTNRNSSWLDQLKIKMGLDVDLIGNHGMLRHEELRFLDQGCGLRGVTFELTKDDFELLQKKCLQMATDQETAINEFVETQGIKGKPPEKTRIYPHEQFSRLIYATEKIKAEQQGREARLKPFELRLSWGLFGPSLALSQNCKTQALSLLSYVLSKEQIERLTEYGEHPTVPRRSGPMESIFLHSTGPLREHRKSSGDVVHYRDLKDPGVKLYWTVPPQELEALSEETIKLFQIDGEYCEEVKAIVRKLQRLEWLLINSNLPEKYRPYKDELINKVVGCYKAFSFIEPKQEELKLGGWYGWALSLFSAPRSAEERTLQGKIKKAKSLFNSIYMAIVDNYQIDDNAPMENKNILPYEETSENRFENMVEAVASYLSRKDKINLCKIIGRTYCEDHVELEDNEGKIALSPQPLAT*
-MKSLVPWVCVLVASAGQQAFANEAFNAYRLGNYNEAAEPLIIKSGQDAVAEYYLGRLYLYGYGQLKNNRVAMRYFTKSAEKGYLPAVLLMAKYSLLHEKNPEEAARWFKQAAAVGDMSAQMFMAAAYLYGVGVKKNTDIARRYYIDAAKNGNPIAQYTLAKYFLESKHAGNKKLGIIWLNKAAENGDPKALTELGRFYVAGQMVTKDTAKGVELLNKAASEQYAPAMLELGKLALMQNQYDEAIQWLNKAAKQSTEATLELAHIYLQDKSPVYDPKTGFLFVLKAAQNGSVQAQKELANLYQKGIGVAADEELSKQWTLKAAENEKKNAEPPLLAQAALWLSNDRTDKLEETAYQMNGIFSPWNNPSALRNNSYNQAPKLETISRQDIFKPQFELTQPNSIPISNYYDALISKQVEFQSNQWAYPTYRLNPFVEALERTNSPVVQKLNLPVPYTDANYDDSEVGSFDLMDIWTGDWKRTVNYMSVVNYLYFRAILGNAQTQFEIGQLFQYGIGLMQDDASAIIFYENAAEQKHLGAEYNLGILYLKRGKDENDYQQALNWLTDSAFKGNKRAQYVLARILRQGIVGPDGKEYIKANDEQAMAMLYLSAANDYGPAEYELAEYLARDYNNGLSVDVRKQKIALIRKLYQGAVKNKVAEALLPLAFYNAMDDNRQKQEQAFKVAEEQAETGNENAALLLGMLYDRGIGITADPAKAMYWYQQAGQNPVSQFILGTYITEGKGVAQDKEKGLDLLRQSANSQFSYADFNLAVLKQQSGEDFLPNLIESYKLGNSHAGIVLADYYLSQSSAPEQMNQAKEIYKGLADKGDQYAQLKLAYMLQKGLGAAPDLAGAQHWYTASAEQGNPEAQYLLGQFYQLGETGEPDYNLAKYWYQKAAKHLSKADVALGFIYETVDDDYAQALKAYENAAAKGDMLGAYNLALMYEYGKGVPVTYSKALSLFKEASEKGAPEAMSQLAGMYFYGLGQPRNEQQALVWYKKAASLGNGNALYALGLLSETGVGVKLDFPDALRYYQDASDKGNEKAMLALARMYHYGLGVEKDHKRSASIYQKLAQKQNAYAQYQLGTYYIEGTAGERLPEKGRELLQQASENGSLQARRVLQRLDAQTQGKVSYVEPVLFNNVPKFDGQSADMIYFDALNEWNHGEEVLSRMILQRLVTQYPNFIPAKRAYEQLNQAKLMNNLG*
-MNLKSRSSITAIVVILLTGALNISAYAAKSNKTATAEDKAEKKDNGKFPLGCTAVGYQQNLKVLTLLPGKEGALQSMYFIYNTLPETVSLYQMHDKESLYSYWLNHSIRGNSWAVLATGEKEVKFICTLGDGKKSYGKILDCADVIKVCEYVNVKFGLNNKGNFWIVDSNTRNGAVSQVVHYGIIPGV*
-MKKILLTTFMMSMVTALNAGHFYGTALCAYPQYECIKVTGGQSWEKLFPDPVQRDIVQRVNRTYNYLWSGREIAVPKNLANINIFDVSPFPLKIQSENEKQIIVDQEKLAWGAYDAQGNLVWWGPISSGSDKCSDSNKVCRTLTGIFRVFSKENVRCTSDVFPIGRGGAKMPYCMYFHKGFALHGSDDIPGVRASHGCVRMFIQDAKWLNENFVELSSERNNFMGTKVIVRPLNDSENKK*
-MSPLKSKIKTKSFNKLTKTQDITNTIERLFTNSQDSIIVFNQQGKIIAINEKAAALFKKSPDKLIDKPIWKLFKLNSFAIKRQFIQAKRCFLLANEGIAQQFTWLESKAQKPVLAYHILFNKTEIEDTSIIFTKLTDILKSKTIEWILWSLTKISNHQEINEIIDQILQLTSDVFAADYTSVSFINNQQIARTISYYKFGKKEENISFSLINTPCAKVIQTKAICYFNDVQKQFPNDKLLKKMKINTYLAGPITNTQDEVIGIMTILCKRKVEFDTLNNTLFGLFLSRINSEIERLINLRKLEFLASIPQQNPNPIIRILLNGDVVFTNDEGKIILNYWIKLFKELPVELLKEAQKIQNSNQSTRIEMEIEDKIYLFTLVWIDEFKQINIYGTDITQLKNTQNAMLNLTRRDTLTQIANRQYFEEKLIEKIYEHHLKEKSLALLLIDLDNFKIVNDTLGHPTGDKLLMAVTNRMTRCLRANDFIARLGGDEFIVLLDQCNTDTAVKVAEKIINVLGKPFQFDEYHMTITASIGIAIYPETSEIASDLLKYADIAMYLSKKTGKNKCTVFSKNLHYKENQRNEILKKDIELAALKRELYIDYQPQIDLSDNTIVGIEALLRWSHPTLGLILPTEFIPIAEQTGCIHTISQWFIEQTLLDYSQFQQLSSNIKLSINVSLSQLNDTRFTKILCDSLLQNNLSKSKIILDISERMIAPHFIQISKKLKQIHHIGINISLDNFCCPQISLPELLSLPLDYLKVDQRLLIGIEGKIKLRKLLSGIINLTKDLNIKIIQKGIETAEQHEVIKSLGCQYAQGYFYCKPVALNDLLPLIKKTIH*
-MPFCFSNQPNILNNKLILKIVVLILFFSNSSLAKTINYPWTVSASLGYVNYQYVHEGDHITATGRFAIGRDLLMKGPFLFGLELGLQSGNQMRLQMTEEEVDALGGLLVQTTLKPMVDALATIRITPEFTAPLFLQLKAGTAYRQWQMDRDTINDISQLAGEIMAGCGYSITPNASITLSYQGLFGDKPNFTIDLESGIGHVQKIPVQHAILLGIVLMI*
-MIHRNKVLNSILLILFTSQIAFAKSNPASQAYVDSKVSELKNELTNKINSIPSGPQGPQGPRGDKGEAGPKGDQGEAGPQGLPGPKGDRGEAGPQGLPGPKGDQGEAGPQGLSGPKGDQGEAGPQGLPGPKGDQGEAGPQGLPGPKGDQGEAGPQGLPGPKGDQGEAGPQGLPGPKGDRGEAGPQGLPGPKGDRGEAGPQGLPGPKGDRGEAGPQGLPGPKGDKGEAGPQGLPGPKGDRGEAGPQGLPGPKGDKGEAGPQGLPGPKGDRGEAGPQGLPGPKGDRGEAGSQGLPGPKGDKGEAGPQGLPGPKGDKGETGAVGPQGMPGPKGEAGDDGQGVPAGGETGQVLAKSNDLDFNTMWVDPANSGIRRQLGDKALGGTVIYVNALGTHGLVVANSDQVNASTWWDAHDFISNPAHFDNEGKLYSDWRLPTRFELNLIYMMRNELGNFLAGNYWSSIEKSSANSWVFNSKTGEIKDLAKNKTAAVRAVRAF*
-MNDLQLSAELALFLTKLPSEPGIYRMLDEEGTVLYVGKAANLKKRVNSYFSKQNTGVKTRALVSQIKSIEISVTRSETEALLLESNLIKALRPKYNVLLRDDKSYPYIHLSNHPDFPRIELYRSKKKPPSGNFFGPYPGVAAVRETIVTIQKIFKIRNCRDSYFKARSRPCLQYQIKRCTAPCVHYISPENYKLSVEDAIRFLQGKCQIILDELAERMKQAVSQLNFEEAAVLRDQIKNLRLIQEQQGVVQLRGDADVIAIEVRPGFACIQCVTIREGQVLNSQSFFPTVPYAVLDEELDANSLWQQTFEAFIGFYYLDTSERIPDLIITNQSITESRSLEYILSQRRGKSCKIQINPRGVKSRWMDFAVNNLRISVAEYVSKHSTIRSRYQALKQLLALDKNIERMECFDISHTQGEATVASCVVFDTEGPRPSEYRRFNIEGITPGDDYAAMEQAVTRRFKRLIDVQLLPDVLIIDGGKGQVSIVKRVLTSLGVEDITLLGVSKGPSRKAGWEKLILVNENREFVLPEDSKALHLLQHIRDEAHRFAITAHRKKRQKTRVESTLESIEGVGAKRRQALLQRFGGLRELAKAPLEEICKVQGISEQLAKRIYEHFHP*
-LVKEHYLIKVLIVDDHALVRMGIRRLLEDMSDVDVVADAESGEQALAYVKTHSPDVVLLDMKMPGIDGWEVTRRLKKTNPNIKVIAVTAICSDPLPTRVLQLGAMGYLTKESGAEEMAAAIRKVAKGEKYLSAEIAQKMAINSLQESQDSPFDLLSEREMQVMLMITSGMNVQDIADRLFLSSKTINGYRYRMFEKLGIKNDVELTYLAMKHRIIEHPNDLSQDD*
-MEFSSRYVAHVPDAQGLVDYSAQENRIWNILFERQLKLLPGRACDEFLSGLQTLGLNSSTIPQLPEVSERLKAKTGWQVAPVAALISAREFFELLAEKYFPAATFIRSEEELDYVQEPDIFHELFGHCPMLTDRVYAEFVHDYACKVLTFPEQDWPLLQRMFWFTVEFGLIKTPKGLRAYGGGILSSISETVYCVESDIPVRILFDPVVAFRMPYRIDQLQPVYFVIDSYQNLYDFVLSDMGKFMDRARELGEFPPYFDVDPDNPNIHIRAC*
-MTIAILSTGDEIIHGDTLNTNAHYIAHALCSEGLPLGLQVACSDKENEIIDSLNFLTQHHDILILIGGLGPTKDDITRFALAKFTKEPLLQHADALDHIEKKANIAKISLNQGNLQQCLFPANARLFPNPYGTAMGCSYSWKGKVFILLPGPPRECLPMFNQDVLPLLLQTSRHSNKQILRWRVFGLAESEIAQILEEALEGLDCQTGYRLETPYLEFKVRCKRELIEKITSIIDPILAPHIISSLETKASDQLRSLILKNNEPITIIDEITGGLLQSLLVKPENYHLLNFHNLNRTRLYFHCSGLEDYWSQQAPQGTTKLIIHYSNQMQEGRETHQIPYRSAMVVHYAAEWLSFRLFHLINQLH*
-MKFVDEALIKVEAGKGGNGCLSFRREKFIPRGGPDGGDGGDGGSIYFEASSDLNTLIDFRYTRQYKAENGQSGMGGNCTGKKGDDLTIKVPVGTMVYDADTGELLADISQPGIPVLIAQGGFHGLGNTRYKSSVNRSPRQTTPGSPGESRNLRLELRVLADVGLLGLPNAGKSTLIRAVSSSKAKVADYPFTTLHPGLGVVRVSPYKSFVMADIPGLIEGAAQGAGLGHRFLKHLSRTCVLLHVIDIAPLDGSDPVADAKAILNELTQYNPDLLNKPRWLVLNKIDMLPDEKEREEKIQSIIKGLEWKDKVFSISAIESKGTQELCYALMQLIDEMKESEA*
-MAHKKAGGSTRNGRDSNPKYLGVKRFGGQFVNAGEIIVRQRGTRFHPGPGVGCGRDHTLYALVEGLVQFTTKGEKNRKYVTILPEQREEAAS*
-MYAVIKTGGKQYTVKEGDVLKIEMLPENVGNEIKFSEVLMLVDGDKVTCGTPFVAKATVKAEVLDHGRHKKVKIIKFRRRKHHMKQMGHRQYYSQVKITAIGK*
-MSTIQLEAQSRTDMGKGASRRLRRLENKVPAVIYGGSKKPMAIHFSHNKVIKALETESIYSSVFDITVDGKVEHVILKALQRHPYKPIVLHMDLQRVSSKDILVKLVPVHFINEEQSPGIKAGGIVQHTMTQVEIRCQAKDLPEFIEVDMSKVGMDDVVHLSDLKLPKGVQLTVDVADGSHDAPVVSIHAAKVSSTELEETPEVPASAVPTTDQGESAE*
-MVIKLIVGLRNPGSAYEQTRHNAGAWLVTALAQRHNSHFKIDKKMQAELTEIDINNHPCRLVLPLTFMNHSGQTTRIISQFYKIEPGEILIVHDELDLPVGRIKLKTGGGHGGHNGLRDITAQLGTGEFHRLRIGIGHPGHKDLVHQYVLSRPSMHDRQQIYDAIDRGIAIIPIVLSGDMARAMNQVNA*
-MGFKCGIVGLPNVGKSTLFNALTKAGIEAANYPFCTIEPNVGIVTVPDSRLDNLSDIVKPQQVLHATMQFVDIAGLVKGASSGEGLGNQFLANIRETDAIAHVVRCFDNSDVVHVEGRVDPLSDIEVINTELALADMETLEKSLLKVGKNSKSGNKEAIFELKTLEKIKAHLDAGYPVRTLELTPEEEQVSKRLFLLTAKPVLYIANVDDNGYENNPLLDKVQALASQENASIVALCAATEAELVELDEEDRQEFMVDLGLSEPGLNKVIRAGYELLGLQTYFTAGVKEVRAWTIRKGATAPQAAGVIHTDFEKGFIRAEVISYDDFIRFGGEQGAKEAGKLRLEGKEYIVCDGDVMHFRFNV*
-MSLLKKTREQDYSILVTTQDQQRKRHLLNVISIELLILGLLLIITNLCLLRAWLIITMLIVGIFILLGNLILIKKNFNLALSGHILNILVLSIIIGGNLIVGKTTMSYLGWFYVSPIVAFATLGLTGLVVYGLLAIGAMFLFIFEFYIPIYSISQEYVFFLDNTNHLFIFALIFTVLYHFLVQNLQYELLLKEQNYLLIADKEKFHYLSHHDSLTNLPNRSYFHAHLQTLLENTDTKKEAITLYFMDLDKFKPINDEYGHEFGDQLLLLTSKRLQSCFRKNDFIARLGGDEFTAIIVHKPHDQIAEALTLRIEQEFEQPFVINGQTIHCTISVGIANYPRNAKNAEDLLKWADKAMYDNKRKKYQTLKQTS*
-MTIDRIRALVSEDFNAVNNLIIDKIQSQVGLIQDLSQHIVESGGKRLRPLVVLLASNACGYKGKDHISLAAMVEFFHTATLLHDDVIDESTLRRGRQTANSIWGSKASVLVGDYLFTQSVNLMVEVGIKEILNLLANTSHQITCGEVKQLANRHNPALTLDDYFDVIRAKTALLFAAAACIGPILTNAPIELRNSLYNYGLHLGNAFQLIDDALDYCSDAATLGKNIGDDLADGKATLPLIHALQNGNATQQQQIRESLMKGSLSHLPDILIAIEQTEAIPFTKRIAAQEVDSALSALEILPDSVYKEALVDLAKFALERNY*
-MTHALLIGNPNCGKTTLFNALTNANQRVGNWPGVTVEKKTGEFLLGEHLIEITDLPGVYSLVANAEGISQDEQIAAQSVIDLEYDCIINVIDACHLERHLYLTSQLFELGKPVVVALNMMDIAEHRGISIDTEKLESLLGCSVIPIQAHKNIGIPALQQSLLHCSQKIKPLKLSLSVAAQQILNDLENQLISKGYKNSFAYYFSRRLAEGDTLIGEKAFTESLLIKLQETEQNLDVLLADARYQKIHEIVTLVQKKHSDASEHFTAKLDKLVLHRFLALPIFFAMMYLMFLFAINIGGAFQDFFDISTETIFVQGSGWLLQQLHAPHWVIALVANGVGKGINTTITFIPVIAAMFFFLSLLETSGYMARAAFVVDKAMRAMGLPGKSFVPMIVGFGCNVPAIMAARTLDSERDRLLTVMMSPFMSCSARLAIYAVFVAAFFPSGGHNVVFSLYLIGILMAVFTGYILRKTTLKGHASPLILELPAYHRPSLRRLLRETSMRLRFFVYRAGKLIIPICVILGGLNAITWGGGISSGEANTDSLLSIMGQWITPLFAPMGIHQDNWPATVGLLTGMLAKEVVVGTLNSLYAQVGHVGEIAAAHFDFWGGIKAAFGSIPANLSELGSALWNPVSASAADSELSQSVYGIMSRRFDGAVGAYAYLLFVLLYIPCVSTMAVIRQEANKRFMWTSIVWSFVVAYATSVVFYQGAKFLDHPQQSMVWILAMSLSLLFVLAVFRYSQYGMGRQNAAANT*
-MQISELKQGDKVRLVSFGATDMQYRRRLLSLGITCGVEFSVVRMAPLGCPVQIEVRGTFLTLRKDEASQLVLEHL*
-LPVMSLIEQYEAAIYRGEIDSDPEQREILEHMQRLAEDLQKKSDSWFPWRKKHPIKGLYIYGPVGVGKTYLVDLFYQHIDEEKKARFHFHHFMQQIDAQLRRLQGKKNPLQYIAKEMAKSIRLLCFDEFLVHDVAYAMILAELLQALHHYGVVLVVSSNTRPDELYLNGVHRERFIPAIEIIKKNCEVLNLNQKRDYRLGRQPLLEAYLYPLNEQTQEAMEKQFALITREEDCKGFITVQNRDIPYIKYGTRSIWFAFDVICNFPRSQLDYLEIADRFDNVFLSDVYQLTESHTAQAIMFIHFIDVMYDRGIKLIISADVPAEELYVKGEMKETFKRTLSRLIEMQSVDYLSRHPRRLVKEML*
-MLFTDKLNTPGEHELMLEGLVGPLETVLTVPEDADTRYVAFLGHPHSLQGGTMNNKVVTTMARVFKELHIPSVRFNFRGVGQSGGHYDNGIGESEDMRKLVRQWHSEQPQAQNIFAGFSFGSYVAYRTASHCEHALLITIAPPVHHYDYKEFEPPPHPWLIIQGKEDEVVPFELVSEFASQSSQVLPVIEFVETGHFFHGKLLILKEKLMDAVRDQVCLS*
-LIHETGTCITIILIYSRRILLFRENGMKIHDFKIKKQEQKKISMLTCYDYPSACIVAESNIDCVLVGDSVAMAVHGHPTTIMATIEMMELHTQAVARGLGKQFLITDLPFLGHKSSQGHTVENVKRLLQAGAQAVKIEGADKDTCQTISHLVNAGIPVMGHIGLTPQSIHQLGGYKVQGKNSEQAETLLQQAATLEQAGCFAVVIECVPQELAKTITDSLVIPTIGIGAGPGTDGQVLVWHDMLGLQTSFNPKFVKKYFRAKDHFIEALNSYVQQVQQMHFPANEHSF*
-MQIFHNLNEWIHFRNTLSPDLSLGFAPTMGNLHAGHASLFLASSKENHYTVSSLFVNPTQFNNPDDYKHYPRTVDADLELMTQNGVDFCILPNENEIYTDGYAYQVQENRLGQLMEGKHRPGHFNGVLTIVMKLFNLVKPTRAYFGEKDYQQLLLIQGMVKALFMDIEIKSCPTVREKSGLACSSRNNRLTPSQREIADEFAKIFHQNKSSAMISKELEALGITVEYIEEFQGRRFAAVKIGDIRLIDNYLL*
-MIQTNWCVITGGPSSGKTTLINHLAELGYKTAPEIARFYINQLLSHDKKTLQEIKHDILWLQRKILNIMLRRERNLPKKDLIFFDRGTPDSIGYFRFHHLDETHVVRACRYLRYKKIFFCHPLPVVPDTIRDEDDVTAKKISDCIYNAYVGLNYPVIELPATSIKERLEIILSHVDT*
-MFKKILVANRGEIALRIVRACKEMGIAAVTIHSEVDRFALHVKRASHSHCLSKKPLDAYLNGRRIIECAKVAGCEAIHPGYGFLSENAEFAEDCNKAGIVFIGPSAPVIATMGSKIAAREAMIKAGVPTIPGSKGNLETIDDALHCAETLGYPVMLKATFGGGGRGIRLCHDASQIKQQFARVQSEAEKSFGDSHIYMEKYIANPRHIEVQILADHHGTVLHLFERDCSIQRRHQKLVEIAPSPQLDEATRQVLLGYAVKAAKEVGYTNAGTVEFILDKNNRPYFMEMNTRLQVEHPITEQITGIDLVQEQIRIAAGERLTISQEQIKYNGFAIEFRINAEDPQNDFLPSFGRITRYYAPGGPGVRTDSAIYTGYQIPPDYDSLCAKLTVWAFDWPSVLRRARRALEEMRMFGVKTTIPYYLEMIKSEEFQKGVFNTGLVEAHPEWLKYSNKSLPQHKAAVIAAAIALHKT*
-MYSSNYIYQHDDLELHGFLAHEEGIKQSRPAVIVAHDWSGRGEFACLKAKQLAEMGYIGFALDMYGQGQIGSNNDEKMALMQPLYSDRSLLRGRLYAALEAIKSISVVDNNRIAIIGFCFGGLCALDLARSGADIRGAVSFHGLLNKPENLASGRIKAKILALHGYDDPMAKPEQVHAFCQEMTEANVDWQMHMYGQVKHAFTNPQAHDEHLGLIYDEVAARRSWQAMSQFLQEIFNV*
-VRNVAMMTDSLIHIRDLLHAQFCYQMFITPIHLPIDKKYREFAKMACEFIEGRRDEIIHREYPRHHVLHRFTPASKPNGKKILITHGWMSRAAYMVRLIRLLHKEGYEVYAIDFPAHGEAKGIQLPWTDAIAIIKETINQFGPFYGLVGHSFGGSMILNTLNLAGQLPEWQLNHKPERAILIASPTQMRTPVNKIARRFKLSGQAYLQLRQLIRQQASVDPERIRLSHFISQAPDTYFLCIHGELDATINPKESINFCKYYKNARLSLLPDADHVSVLMDERVEQIALDFLNR*
-VLMTGGSSMSQQLQLAAMNLPVGSLDSYIHRVNQIPMLTLEEEIAYAERFHSEGDIEAARQLVLAHLRYVVRVARGYLGYGLPLSDLIQEGNVGLMKAVKRFDPKMGVRLVSFAVHWIKAEIHEFVLRNWRIVKVATTKAQRKLFFNLRQMKNRLGWFSNEEVDAVAKDLGVSREDVLLMEQRLNVMDSSYDAPDVDDNDDAYKAPERYLFNVNDDPAVLLENEDTGDQGREKLLFAMEQLDERSQDILQQRWLAEEKLTLHDLAEKYGVSAERVRQLEKNAMKKIRQYMEG*
-VLKRSQSLLAYHLQAAANSLNLFCRKPIATMMTVIVIAIALALPTLFWVFTDNLSELTNRWQRGGHISLFLKPSLPEAEQTSLLEKVRTTEGVGQANIKSAADGLSELTQQEGMQDIMRYLPENPLPAVIEVVPALVIDSPAKLDLLSRKLQAFPQVALAKLDMEWINRLHAILGFSGKAANALMALLALAVVFIIGNTLRLDIHNRQEEIKILKLIGATDPYIIRPFLYSGIWYGAAGALLAIFLVNIFILTLGVAVNQLANVYQMHYPLACLSLRQILLLVLFAIILGWLGALLSVKRQLASIEPYK*
-LTQRNLLVRYSMMITFDQVSKRYPGGFEALSQVNFSLQKGEMVFLTGHSGAGKSTLLKLIALLEWPTSGQLTVNGLKLNHLKKRDVAAHRSQLGITFQSPQLLNDRTVFDNVALPLQIQGVAYPMIAKRVHAALDMVGLLSKEKMLPVHLSVGEQQRVGIARAVVHKPALLLADEPTGNLDPKLSSEIMKIFEQFNQVGVSILIATHDLALIAGMKHRIVMLKGGRLC*
-MIEFHIFKELYTKMIKWFKRNQNSEPNLDAEEQQDHAKSSMESRLEEPQELTVKEPSPKESIFARFRKGLSKTRHQLGEGISRLLLGKKEISQELLEELETLLISADLGLDTTQDVLKQLNEGLARKQLSNGEAVYLTLKTNLQTILSQEEKPLSIETEDGSPFVILMVGVNGAGKTTTIGKLAKQFQKQGKKVMLAAGDTFRAAAVEQLHVWGERNGIPVIAQHTGADSASVIFDALQAAKARKIDVLIADTAGRLHTQSNLMEELKKVKRVMQKLDPKAPHETMLVLDASIGQNALAQAKQFHEAVQLTGITMTKLDGTAKGGILFAIANDLGIPFRYLGVGEGIEDLRPFDAAQFVSAIFDDDHI*
-VHKLLISLMMLLSFQAFSQVQEYTLNNGLKVLVKEDHRAPVVVSMIWYNVGSADEPVGITGVSHAIEHMMFKGTSKYPVGVFSKTIAALGGQENAFTNNDYTAYYEKLDAGHLATSFELEADRMNNLLLNSEEFAKEIKVIQEERRLRTDNNPQALAFERFLATAHLTAPYNHPVIGWMNDLKQMKVEDLKKWYESYYAPNNATLVVVGDVNPEKVHALAEHYFGSIAKRPIASRKPQQEPSALGKKMVYINAPAKLPLLLIGYTVPSVKTAKNNWEPYALEIIAGILDAGESARFAKHLVRGNQVATGAEAYYNLYSRYQSQFIVYGAPSQDHQIKDLEKALITELEALKKAPVSNQELQRVKNQIIAQKTFEKDSIFGQAMELGLLETIGLGWKNTETYTKAINEITPEQIQQVAQRYFQENNMTVAELKPIRQEEVRP*
-MSVLRAFIISFSVIFSHNLFANSFKTEKWQTKNGVRVVFYQAMEVPMLDISLAFAAGSAYDGKYFGLSALTTNLINQGNSGKDATNIAEALADTGAQFNAETSRDMVVLSLRTLTSKEALQQSTKTFSQIISHPDFPKEAFAREKDQLLMAVEQTEESPDDVAIQNFFKTLYQEHPYAHPVHGTVESLNAIKENQVIDFYKKYFVAKNGILVMVGAIDSSQAHQLAEQLTQDLPAGEPAPTIPKASQLADAEKINVPFPSSQTVVRLGQIGIDHHNQNYFPLMVGNYILGGGTLVSRLGTEVREKRGLTYGIDSQFVPMLGEGPFIISLSTKNSEARNALHITQDTLIKFIKNGPNQEELASAKQYLTGSFPLSLGSNTNIANLLLRMAFYHLPDNYLDTYVAKINAVTDAEIKQAFQQQVNPEKLLLVTVGQS*
-LKQVIRIIGGLYRGKKIHFPDVDGLRPTPDRVRETLFNWLMNDIKNARCLDAFAGSGALGFEAYSRGASHVVFIEQSPKAHASLQNTIRQFDTPKLHLIKTDTLNYLKQSTEQFDLIFLDPPYALNYVPQCLDHIITNNLLVKGGLVYIESSSPIEVKTELWKQLKLKQAGQVIYGLFEKL*
-MNNNKIVIMFIFSALLAGCAGTMKFKKPPINNPSDDATIKLAEAAVSVSDSMLEMAKVEKVITPPSKDNTLTIPNAYNLQARASVDWSGPIEELTARIAKAAHFRFRVLGKSPSVPVLISISTKDESLAEILRDIDYQAGKKASIHVYPNSQVVELRYAKIYS*
-MRKFILSLSILLSALLVACSSRNHYGDTGSLAGLQAMADSKYTRAQKKQKMGKIREMALKETALSVGAQAGLAWRAKIIDEQLNKQARNLDAIYDFNSLVLEHNILPPVLLEGRNTLNLADAQSIRISDRTYKVAKQAHFITTPPTWRQYLWMDYVKPEAPNVTLLPKTKAEKEIWCIYTERGWKNGIDQANTILEENIARIKEDFGGMILYRKLLAMNMVSPPYVSHTDLGVTGDGSEIHIDDRVLRITALPELNVNSAEWRAAVAKDENALERFKNMEKLANQAKIVITNKSWQPIIAPVS*
-LATYYSTSKLMSMDNINLMPDEPTRFTPVFMDRMLEHAESLNASDITIQTGEPIFAEVYGRLLKITNRRLSNTELGDLINSIYGPNATTQLLSGKDIDTHYEFRPNRGVRYRYRVNATACLVEGHDAIQITLRTIPTTPPKLSTMNLPDNIIEAIAPQEGIVFITGATGSGKSTLLASIIRELIETSDSNRKVLTYESPIEFVYDEIETISAVVSQSEIPRHLPNFADGVRNALRRKPRLIMVGECRDAETISAALEAALTGHPVYTTLHTSGVAETMRRLVTSFSGEERLGRTIDILETIRLCIWQKLVPTVDERRVALREYLVFDEEVRDILLEGDPNEVTSATRKLVRQKGQLMTWDAKMKFEQGIISERVYKLIIAGAKEYQQ*
-MMFHRKSLYHYFNLFILLILGSSLNWASVNQHSTASPTLNIKILGINDFHGQISSGRAVKNEPVGGAAVLAAYLKEAQLGMEDRSIITIMGDLVGASPPSSGLLNDEPSILFINGLGNNQCKPESRMDPLCNIVATVGNHEFDKGQKAMFDLIYGTNNPPTDSWISLPNYPGASYPYVSANIVDAKSEQPLFPPYIIKRIHNTPIAFIGAVLKDAADSMFPANAEGVKFLDEADSINHYIPEIKAKGVNVIIVLIHEGGNQIPYEGDTQTTSAVEGHIKEIVYSLGDEIDVVMGGHTHQFLNAFLPNRNGHKILVTQANSYSAAFAEVTLQIDTKNHTVKNKSAKIITTYANRWPGTNPDTQALEIVKLAEDKIGPMINNHVGTAEYDLLRKQNKDGESSLGNLIADAYRTVMNTDLGITNPNGIRDDLKAGEVNWGNIYSILPFSNRIVTITLTGNDIYDLLEQQWMGSYINMLQISGFAYTYDSHQPLGHKIIEIRHQNKPLLREKMYTIATSDFLASGNGVFSVMKRGKIIHIGQSDHDTVIAYIKSLPQPFHASIEARIKESETGLKTGVG*
-MPSTYILNTNDKARERLSLQHQLYAKSSLDLLSEVGPSAAMTALEIGCGSGDMTLELAKLIGREGSLLTIDLSQDQLDHTQQRTRTYSNIRFKVWDVNHLSDLGEKFDLIYCRMVLHHVADARSVILQMKNCLNSGGFVVCEEPSLFDSTFCSPPSPSYDQFTQWARSCFSKSNRDFQIAHRLEQEFSSCGFEIEHCSLFQPLLRTNKEKLIYSMALDDLTPQLLELGIAKREEIKQLHNELEDLAKTNSTMCWIRMHKIIAKLN*
-MKPFVYLTNQFLEPIIPMLIPDWNIIHGWKMASRVDQSRVVALATTVWDQIDHSFLMQFPNLKIISHLGIGTDNIDINFLKQNHIILHSQPNAGVHDTAELAIALLLTLSRRVILNDRYTRNNEWVEKKPRFLGNHLLGKQLGLVGFGQIGEKIAQFAEPFGLKIAYTARSQKNSPYLYCPTAANLASISDFLIICCSGGIDTQHLINKQVLDNLGPEGYLINVARGSIVDQNALIDALQRHTIAGAALDVYQYEPEVPFALRQLDNVVLSPHMGSSTKENLNQMFQLQAKHLNQYLNESLWQRESHVTLFEEQ*
-LFLPVIPVEEFDGFILKLGKNNYHFCKNETPFNNSCSANIAIDKYCTSKLLEKAGIPVPKAISLNCSEFQRNLHKDKIAQLNFPLVIKPIDGSLGIGVLCNIKTWEELESHLTKYFSSYQCLIIEEFHGKLNSYRVLVFNNRILGIVQRYPAAVTGDRVHPIHELIKQENLNRKRINEALGEITLDEEARIKLQELGITENYIPSFGEQIVLCYTSNATRGGSYVTINKKMCKQNRKLLLQAAKILDLQLVGIDVECSDIINIPIEQSNGVILEVNHKPSIRIHEFPMKGTPQKVTKKIMRSFITRHPLSYLYSIYNNQPTAFYVRSSILIIIMGLILLAVW*
-MNPVSILDASLRDGGHRTNFHFKDDDLKKILLPLDNSGIEYIEIGYRNGSLHPIENIGKAGMCPQDYLLYCQSLIKKAKIAVMVHPHNVNEQDLFELKNCGVKLIRICIAKGDLVNAVPLIKLAKNLNFETSVNIIHISYYTESELDSLIEEVSEHEPDMIYFADSNGSLFPDRINCLYKKYTRQYKVSFGFHAHDNLGLAQANALAAVNAGVHFIDASLAGMGKGTGNLKTEFFIAYLHANNIKKYNLEDVLTAANYVRDALKIGQEPIEMSEFIRGISDLSTADLKSYKPGKL*
-MAKKRLLIIGPVSTQSSSLRHLSQNLSFLNPYYSIECLDPLVKQHECPDEEYYGIWQKQLKQLIKIYDAFVGFSFGGVILQQCFSILNGEKKQIILFSTPTFSDSSLREKLEKVISLCSQNKLEEALSTLYQAVYAPHPIPVTSLRYLNRELAIKRLIFGLTKVLKTDCVSILNHCNVNHFHLIGEKSQLVNTNNVIKPPCGQLIVVPEASMRVLESNPTFCKKIIFKALNHEIH*
-MKSTDPIKIAVLPGDGIGIEVTEATLPVFEVLDVPVILNYGDIGWEFWKKEGAAIPSRTWQLIASSDTVLLGAITSKPQREAKQELSNALKKSNPYYVSPVIQLRQGLDLFANVRPCFSIDDQSKPFNFCIIRENSEGLYCGFDYFPLPKAIHSLLAESQHWQTIPADEASCALRLQSKSGLTRLFDFAFKHAMQTGMPRVTLADKPNVLRESGEFTRKIFESTAQRYPKIQADILNVDAVALWLIKSPEKFGVIVAENMFGDILSDVGAGVMGGLGLAPSANIGDKGSYFEPVHGSGPRIRKNCANPSAMFLTISMLLNHFGYPDRAKKIVNAVMQVIKEKRFITYDLGGHATTTDMANAVIEHCARLNASCLSKDFNPTPKENLIESDTMPNLLQQLINCNSAEISDALDACGIEGGLLSIKPLSQGMKIIGPAYTIQYLPREKKGTAFHNAANYIDKVPKHSVIVIDNNGQIDCTVWGDLLTHTALRNNIMGTVVHGAVRDVESIRSTNYPVFCTGIYMCSGKNRVYKANEQCPLSINGVTINPGDIIFADDNGVLVIPNDRLQEVVNKTIAIRLTEERIKTAIASGSTLEQAREDYCYEQPWLGINKKRES*
-VFSPEKLKFIDIHHHAAPDLYIRRRNAIEAGKLYHSLYGAVVLKSHIGSTGVQATIAQEMGLPVFPSVVLNHINGGINYRVVIRALSEYQPLFSGKMIVDFPTITGRKLQSKLSRELTHDNLKQDTQKGETLFGSKQQLRKEVIDILKMTRDYPIVLTSGLASRDEIYRLIDACNQYDVPSLLLSQPSNPLIGLKFTELNELIKNEWLWVEQTALTFILGYQEKQDFSQILTHLPRVIYSSDLGQLGQMDIPEWLHFSKKIFNELDLSAKRMEELTLSNAIKLLNL*
-LDSLLKRRINMLVTKEVEYEDGDTVCKGFIAYHSSASKPLPCVMVAHDWGGRGEGACNKARQLAGMGYIGFAIDMYGNAKLGKDKAEKRALMTPFRENRGKLITRINAAFNKVVQLPEVDSEKVAAIGYCFGGLCVLDLIRSGAPLKGVVSFHGVLLPLEGESNKSLNAKVLILHGYDDPLVPIEQVNQFAIEMTERKVDWQVHVYGQTAHSFTDPGANDDEMGLHYNKLADQRSWQSTQLFLQELFA*
-MNKLAITVLLCFFPALALAENGALSFAPPASDLSVVFLGNLFGVVDGVLHGTGSQIMGNMFGVFNSAVLALGGIIIMYTLMVSTMNTAHEGQMLGQKWSSIWIPLRSTFGLALLIPKASGYCMMQVFFMWVIVQGVGAADKIWEAALSYLNRGGVIIQAQADPTKSLQAAGSSSSGVAKGALTILGGQICMLGLQKQLQAQRDLYLSQSKSPPCGGNPTPEMNTFCRTAIPDFISTVNFVKKQNDDTPKDLTANQPASFELDMPNFDKSSPFYFLNGICGTVKWNNISALNSTNQSDNKGLVTVGGAGSNSSMGANSLNITSSQLQTARLSRAIAIQQMYVTLSTVAQVMVNNDPAFSTTTSTGNSKNDFSAIAKQQFGVPYKSSGEVCTEYQQVCQTWGSVPSSTGSTTGVLFNGTEFLGAINDYNGIMMPTLNLIRQATSKEFDKKSRDFIAEANAKGWIMAGSYFFDLVKLNGSATEFADQFDTGTGLDKSSFDPTQLTKPFGKTCQDPYSLLCTWFQNKSDKLIQIQSLIDGVPALGQDGVKQPDLSDNPQRQSVSGPLSSTVYGFVNNSMMVQLPGQPGIKPLTFANLINFKVDTSLYYMKHQDFDCGRVKILFFSFCLGRMMGDLFYNYVFRYVYNFFLAIFGEMINSIVMAFLMIPLQGMKDIFIVGVQTLTQPGINPIVALANMGTMYINFSGTLWLTLLNMAVVSSLIPLFGIFIFALIMMAMPLLMAWIGTMVSIGFVTAYYIPVLPYMIFTFGSFAWLIAVIEAMVAAPIVALGVTHPEGNEAFGKGEFAIMILVNVFLRPSLMIIGYIAAIALSYVGVWILNAGFDHAISYIQSDQGIETWEKGTSSNDAKRFFQSAGNWTGAKMDTSQWDNFKDKLTGDYQSTALEGGYTGWAGVYAFFFSILIYTSMYLIIVQKAFTLIAHLPDKVLRWIGGSPESFGQETMQWGEEAKGRVEKAGEATYGAEKAIGDKLGAKGQEMLGKLGPQAKKISENAGDVSGKGKNSGGSQTGPSSKPDTGQQLGGSDSGTPTSTPPPE*
-MKKKSGSRIVRVFTRIINVRKWFDWDRMKSLTLYLVNGIKRLFIPQEPTHIESFDEAARKLKLSEADLVIKQKALFRLSIIMVVAAFMILIYTGYQFLYGSWKATIISLVVVMIALVLAFRYHFWYYQIKQRKLGCTVKEWYRQGLLGEKE*
-MPDLSHEASAKYWFEYLDPMIYRVITFMESVENWTLDGNPELEEAMKQLGQELDDIEKIDLGLLAEEDKFIRIVGNIKSGRGLRLLQAIDTVHPGSASRVLIHAEETSLSSSDPAGFFLKRNIVFERLRLLSRVFCQYRLKLVLRALEGDE*
-MKVLPKLALANLVCFTTLSVFAQPADPSGQQTSTNTSNLVTYLTNLGKYLGYDITQSSKAPNPPYSQLFNSNVVQLVQNYAYNTFLGAIPVDAMSQSLMNFVTDKVQGNSLINNLANTTFKYQNFSAPSSGADGKITANGLIDQSTASAQTPTTPGIFSAPQITTSGTYLNDPVSQAVFNILGTPDYSFCMDNEQKNWLPNCNLMYQNLVMQNVIGTLPPAQTSGSTPAFYSYKYNQPLISQLNSNSLIAPLLMDTSASQSGQDSGLTAKSQAQQALNFIRYASAQVTPPSLPKLSAYSELWNQATAKPNSAGYNEVQQKQAAATLSSYFNNLRVYAAQTSVGVSNLYYILSKRLPQNMSADQSNANITSQALNEFNMATRRLFDPTASNTPGQPNQQWIKQINDASPATVQKEIAILLAEINYQMYLDRQIQERILLTNSIMLLQNLKAAQPTADFSSQGSPSEQ*
-LRALLLPRRKTILVLLIAIYCAYDLMVALYTAWDFTTDDAYISWYYARQLASGKGLLWHATLPPVEGYSNFLWIIIAASVIKLQLPLVSSMKVISCCSLGLSLLFLYRLARLFCSPLLSILPVFLFSHYTGVAWWTVSGLETLFYCALSLALIWQCTLAFGYHTVNDSHWINRFSLDSTNHWIITNVLLLLLSLTRFEGIIWIIPLAVFIGCQYLRDHRELVFKDHKRLFLWVSITFVCFTLPYLVYFIWRLIYFGHWIPNSYRCKALAYGQFLAVDLDYFLFITPLLILSVPYLLSAKKDCRHSLLWLPSVLYSLLLWKANPVVTYGLRLFLSPFALFSILPVLGLNQFIQYFKPFRWDPEYPIAGLMLFITWFFVPGNDLNHLSKSVIEYNERAQNRMTIADLLNRKAKKGDSVLLDDCGIIPFFSREDIRFIDAQCLNNSDLTQKPFKNDLSLYADYLNSKVRPDWVITNYYPMESHGDYLTDLLDAKNFFKNYHLASTLSSGFYLNQNQPQGKKMIDFVYQIFKRAYNKPLELESQEPK*
-MSKPYFFYVSGMNCTSCSNAIESFLRNSNLIKINTFHADMSTPDPKKIVISLSEERENEHESNWKIIKKLIDDTGFTCENHEFPPIKDEKPTLLPEKKQTAAQQEASTLSTIFSSAKKIITSHWLLGGLGCVTGASLMILTMAIGGLPLAVMIPLAGLSILLTIALGAQSYYEAWKKLVQSRTLTMDTLFSISTVSVLIVSLASFFVPWLPMMFEAGLLIYGFRHIGIAIEDTIKDKISSTKFQDRTPQKVRLYRHSDFKKTRIEEIQPNDIIQVKPGELIPLDSVCEQDTLIYPTIITGAVIPKQFRSGEKILAGMRLANDAKPLTLRVLKTAKESYLARLDESIAQSVLEKAPIEIKTGQLLSYFIPSIIALSILSGIIVGLIATPALAIQCAISVLVSACPCTLGLIIPLAVKTGIHKGAEHGVQFKNSRVLQLAEQIDVVIFDLNGTLTTGVPVVKEYAVLNDADLSSEHFLSICNVLEGQSKHPFGKAIQSFTQGINKQKFNIANLDHSNHSGISAEINGIQYTIGSKTLMQEIGISTSSLENQMNLVAGDSLVFLARNKQLLGYLVITDPLRKDAKQTVDALIKMGKEVHLCTGADEKTAYRYAQALGIKKVHANCVATTINTEDRSKPVYIKSLQNQGLKVAMIGDAANDANALAASDFGIAVLSQDSDEITQQHASAIIQSGTILPIANAFAISKQTVNNINQNLLISLGYNLTTVLIAGGLLVALGFALNPAIGVALMVTQACFVLLNVYRFKEQPLQHLQDKVQEKPEPAPSSYEAMKKHSPNFHTAPEINHKPAIQSGKQPTNKNKSPSFWSDYFPELFEEEKDTSTEHLMNNKIG*
-MPTTFEDKSSKVPSLKSLAANVIQKTNANLFFRLHSLETPPEIKKGFIDKELEALTHELTEDYQTKVEARNEKIEECSSNLSSNECFVKCSAFTLTTLMAGVHVGIYYILKAAAVDPSTQIAYISSIPATICFSMCVGVCLNRQITKCLSSCFTPSVPDKITVDLDELGRQSHVSP*
-MDNESLLAILNNWSATNYAKGNYILREISSKFLAKISIDSNDYLLDAGCGDGSFTQMLANLVPDGYVLGLDRSKTMIDYANKHCRSINVRFDIGDIQEPIIYGPFDNILSFWCLHWTDLEKSLSNLYHVLKPGGKICAIFSSGKQSTLFEVLNSLQFQNLYPDVAKNVVQSKMMRENYSVQCRRALDNLPFKSISFVVEHCQVELPDLGLFENFIHGAPLFKDLPGKMYQDIVNGMVQFFDEYCKKKYGGKWVYETTPYFLTITRE*
-LILIFEEHRMQLSSEQCDFFFTNGYLVINNFFSESVCDLLKQRIETLLENNQAEIPKTIFSTQTNEHAKKQYFLDSGDKIHYFFEPGAFDEAGDWLRPFNQSINKIGHALHELDPVFRQYSRDDRIKKIAHQLGLKTLGLVQSMYIFKQPGIGAEVLCHQDSTYIFGEDSDALGFWFAIEDATLENGCLEVIPSPCTTPLKQRMFRRENEIYFENFDSSPWPEENSVPLPVKKGALIILHGRVPHKSQANFSNQSRHAYTLHLVDISLPYPEKNWLQWPNGIPCL*
-VALVLYCRMIKSVCVIRLSALGDVLMLVPLIRTLQNKLPNAQLTWIISKPAFYLVEGMEGVEFIVIDKPKTLADYWRFRKQMLPRQFDVLLAPQASFRTNWLIPFIKAKRKVGYDSHRANDGHRLFIRESISPGLEHTLEGFLKFAEPLGVTEKIIHWDLPITKADYEWAQNHLPEQERPILVVNPAASKPERSWLAERYIEVLKQAQVKWDVKVVLTGGPGDHDKSLAEEIAKEIPVVNLVGKTKPKQLLAVISKAKAVLCPDTGPSHMAAAVGTPVVALHAVTNPSISGPYTFQHLVVNRYSQAIQTVLGVSPEKSVWGTQVHGYEAMKLITVDDVMEKLTEIFSGLMNNT*
-LMIVGCYCMNKLVFCLMGPTASGKTGLACELLTHFPFEIISVDSAMIYRDMNIGTAKPSIHELQRAPHYLIDIKDPVESYSAAQFCTDALSLCAEIIKRGNIPLLVGGTMMYFNALQKGLATLPEADEAVRKRLEEEALSQGWDFLYQKLSQLDPVTAARIHAHDTQRIQRALEVYYLTGSTLSTYLTGPHERPDYYFVNLALFPEQRSWLHERIAQRFDAMLSEGFIEEVQQLQAKWPIQINLPSMRCVGYRQILQHLAGHYDYETMREKGIAATRQLAKRQLTWLRHWEGALFYDSQNVGFNTDIIAKIREILDNTVSN*
-MVLRIHQLSPAIANQIAAGEVIERPASVVKELLENSLDAGASVIGVDVNYGGLLQITVSDNGSGIVGDDLPLAIAAHATSKIRTLDDLYSIDSMGFRGEALASIASVAKVTIISKPEEQDNAMMLRVEGENRTLSPCARNIGTTIDVSDLFYNAPVRKRFLKNEKLEFQAIEMVVKRFALSAPQIALTLKHNKKLIFSLPPALSEQAKAIRMGRILGNTFMREAIFLDVEHSGMRLYGWISNHRLQRSQNDRQWIYVNQRMVKDKLLQHAVKQAYDGLLHAGRFPICLLYFTLPASEVDVNVHPTKHEVRFQQPRLVHDFFTSQLTKALQSTLDHSETMEYAYAASSCNEQQNTVSEPSHICNDRESYEGARALSPSWSDNSLSSSITCKGYKKTSSVYHPETEFQWVILNERFILVLIKQQPYLVDIVTLFQEWIEKQLMQKALPLESRPLLISIRYPLPNQWIHKLDHLKHELTRVGIQIEYPNADDLLIRSIPLNAPYLDVRRFFNVLCELDFFDTEQLIALISRSQMFDPKQLTVEERIEMNQLLLELSLQEEKCNTCKALTIDDCRMLLHE*
-MMMRAWVLSLLLYLPSSFAVFSAQLKNITVSQQPTMTSLYLSIQGSFTHKLFTLSQPNRVVLDLSDTQLAVNISQLGLINSLIQQVRSGSPSKNTLRLVMDVKQPVKVRSSSWKPKGELNGIRIDLVNDTPLVINNRRQLSSPVKTIKAPVQQTQSKISSQPSEQRITVHKTPVQVPHNPSKKPLRDVVVVLDAGHGGKDPGARGPRRSNEKDVVLAITLKLKRLIDRQPGMRAVLTRSGDYYVGLRQRLDIARKYNGDVFISIHADAFNNPHSNGASVFALSQRGATSEAARWLAEKENYSELGGVNLGELDDSNGVVRSVLIDLSQTATINAGLEMGGKVLGQLDNFTNLHNNKVEQARFVVLKSPDIPSILVETGFISNPREERNLTNPAYQERLSQAIFQGLKNYFWDHPPHGTRIEAMISPNFHIVKKGETLPAIAARYRVSVNALQSINRLQARARLMPGQKLVIPGTWS*
-MAIEDNDNFITLDLVSEQESKRFAEKLAFCISAPLVITLSGDIGAGKTTIIRAMLKSLGVISAIKSPTFSLVESYNCGQFHIHHFDLYRIHQEEELEYLGFRDYFSNQSVCCIEWPEHGGKTLPPVDIQFNLIIKGTGRLIQIAALSVAGKRILACLAGE*
-VNKLENALYRCDQIKACEQQAATLYQKDENALMALAGAEAFSFLQKLYPHVRHIAVFCGAGNNAGDGYVLARLAHEQGFSVTVYQCKSIEDLPSAARNAARQALASGVHCQSADEPLDGDAELIVDALLGIGLQGAVYGVIANAIHQINASGLPVLSIDIPSGLNADTGLVENICVNATATITFIGLKTGMYTLDGPDYCGVIHCAHLNLEACTTKLTRFASLLRDSTLPLPLAARKKNSHKGDYGHVLVIGGGPGMPGAVSLAAKAALKTGAGVVTVATWPDYAKSALPLIPEAMIWGVKTAGELMPLLAKATVCVIGPGLGDSDWAKTLFLTAITTQLPMIIDASALRLLSQHPQMDDNWILTPHPGEAASLLSCTARDVQMDRYHAASAIQKQYGGVVVLKGAGTVIQTAEKNIFVCPQGNPGMATAGMGDILSGIIAAFCAQGFTLSDAAKLGVWVHAVAGDKVAEKSGEVGVLASDLLDEIPSILNCI*
-MAMTSNKPYLIRAFYDWIVDNDLTPYILVDASNPNVQVPREHVQHDRIVLNISPSATRGLLLENDRIVFTARFSGQTEQIFVAPNAVLEIYAKENGRGIAFSVDEDDEPPPKTSSSSESATKNKPSLKLVK*
-MAIVAKRTIMSLFSDVDDVYSHQVRIVLAEKGVNVEILAVKQDEPGADLLSINPYGTVPTLIDRELVLYEARIIMEYLDERFPHPPLLPVYPVARAEARKMMHRIEQDWYYLMNAILREESVEQARANLLESLTSLDPVFADKPYFLSDEFSLLDCALAPLLWRLPKLGLEIAPNFKGIISYMQRVFKRDSFQTSLTDAERQIRAA*
-MMKIKVLLVAALAFLMSNAAFTENLTMDYVPVDINDKESLQRGAKMFMNYCSGCHSLKYMRYNRMAQDLGLTTFDGQIAEDLLKNNLIFTQANIYDPIQIAMSPEDAKQWFGMVPPDLSLSARDRGPVWIYNYLKSFYSDPSRPFGANNLLMPDVAMPNVLEPLIGKVILVKDKNSHANSLLVVKRGEMFEGQFDSALRDLVNFLVYVGEPAKLIRYKLGVFVLLFFCIFLIAAYSLKKAYWKQLK*
-MNGLVNWLDERFPLVSTWKAHFSNYYAPKNFNFLYFFGSLALIVLVNQIITGLWLTMFYTPNAEQAFSSVEFIMRDINFGWLLRYMHSTGASAFFVVIYLHMFRGLLYGSYQKPRELVWLLGMFLYLLLMAEAFFGYLLPWGQMSYWGAEVITSLFGAIPYIGKGLAVWLRGDYSVANPTLQRFFALHVIGIPILMIILVFLHIVALHKVGSNNPEGIDIKKALDKDGKPLDGIPFHPYYTVKDFVGIIVFSILFFAVVFFAPEMGGYFLEHANFVPANPMVTPDHIAPVWYLAPFYAILRAIPDKLIGVVCMAAAILLLFFLPWLDKSNVRSVRYKGMYSRISITLFAFSFLLLGYLGTTPVTPVRLFLARIAAVIYFSYFILMPIYSRFEKTRPVPTRIGEK*
-VSEMTDLNQDVSNHNQDEQLDEERRRFLLHTTCVLGGVGAACALTPFITSWLPSSKAQAAGAPVKVDVSRMEPGEQAIIEWRGKPVWIIKRSKDMLNQLQKEDESQLRDPDSLVDQQPEYAQNKFRSINPEFLVLIGICTHLGCSPKYKPSLGELGPDWPGGFFCPCHGSMFDLSGRVFKGVPAPINLEVPPYHFLDEHTIVIGEDAK*
-MAEMKQYYGTGRRKSSIARVFLRPGKGDIKVNDRTLQEYFCRETSCMIVMQPLETVDLLNKFDVYITVTGGGISGQAGAVRLGIARALVAYDEDGLAEGAEPSPDSFRRKLRARGLLTRDSRRVERKKVGLHKARRATQYSKR*
-MKTFSAKGNEVKRDWFVVDASEKVLGRLATEIARRLRGKHKAEYTPHVDTGDYIIVTNAEKVIVTGRKFKNKMYHHHTGFPGGIKSASFEKLQDKNPTKIIELAVKGMLPKNPLGREMYRKLKVYAGSEHPHTAQQPKQLEIEE*
-MKSKLLEFDLHGPGKIRVSKSGCLGRCGSGPCIVIYPEGVWYTYSSFEDIEQIIKYHLIDGKIVAPLLLDR*
-MIVNALSKAIMAETLCDELKLNKPVAKEMVENFFEELRHALENGQHVKLSGFGNFTLRDKPQRPGRNPKTGEEIPVEARRVVTFKPGLKLKTKIEKIGK*
-MKVSKLWLREWVNFSLTEQELAEQLTMAGLEVDAVNPVAGQFTHVIVAEVLDTKPHPDADKLTLCEVNINKDKPLKIVCGAANVRPGLRVALAMIGAHLPGGLQIKESKLRGELSQGMLCSATELGLAEHSEGIMELSDEAPIGMDLREYLALDDHVFDIDLTPNRADCFSILGVAREVAVLNKLPLIEQPIVTVPPAIDDGLRVNLIHSEACPRYCGRIIRNLNLEAKTPLWMAERLRRGGIRTLHPVVDVMNYVMLELGQPMHAFDLAKINGEINVRYGVSGEQLELLDGQEVVLNDNVLVIADKEKPLAMAGIMGGANSAVQEQTQHVFLESAYFNPVTIAGVARKYGLFSDSSQRFERGVDPCLQSKALERATELILSISGGEAGPVIESFDKKFLPGTVSFLFDTTKVKKLTGLSIPLNEMKNLLEGLGVVIIKETNHFFEVTIPSHRVDLQQDADLVEEIIRLYGYDKLQAQPMQTSVQAGLISAKEKIATHVSSWFSAKGYHETISYSFVDPELQEALYPQKEFMELLNPISSELSQMRAGMWPGLIASMIYNSHRQQTAVKFFEIGVVFDLDGGQLKERSCIAGLLMGEQGNLNWSESARLFDFYDLKGDLQSLFASLKLDDVEFIQSSHHALHPGQSAQIVINGKHSGWIGVLHPRLSDAFDLDQDVVLFELNLESLINPTIPLYKPISKYPQIRRDLSFLVDRQISAMQIERVIRNTVKEDWLKSFDVFDVYMGKGIPEDKKSIAVAMTLQDDTRTLVDAEINLTISAIIKKLENEFSILLRE*
-VGRTMLVLINTIQEQASEAIKQATDIVALEQIRVDFLGKKGKLTELLKGLANLSAEEKPKVGQLVNQAKQGISALIETKMIELKEKQLLAKLAAEQIDVTLPGRNHSTGSLHPVTQVKHRINDYFSRLGFDIVEGPEIETEFYNFEALNIPGHHPARAMHDTFYFGDGRLLRTHTSPVQIRTMEQRKPPFRLIAPGRVYRCDSDVTHTPMFHQVEGLLIDKQATLAGLKGLLQDFFAYFFGRELALRFRPSYFPFTEPSAEVDIECTQCNGKGCRSCKFTGWLEVLGCGMVHPNVLIAVNIDPNEYHGWAFGMGMDRLAMLYYGIDDLRMLFENDLTFLRQF*
-MPRVKRGVTAKARHKKILDQAKGYYGARSRTYRVAKQAVIKAGQYAYRDRRQKKRQFRALWITRINAQARECGLSYSRLIDGLKKASIELDRKILADMAVHDKVAFAAIAEQAKAALAG*
-LDLVEISPTAKPPVCRIMDYGKFLFELSKKQAEARKKQKQIQVKELKFRPTTEDGDYQVKLRNLIRFLNHGDKVKITLRFRGREMAHQELGMKILERLQADTADVAIVEQHAKREGRQLLMVLSPKKTK*
-LKDGKTDKIMPNVKLPDGNVKHFEAPLTIYDVAHHISPGLAKAAIAGRVDGVLVDTSYLIKEDCSLIIVTEKHEDSLEIIRHSTAHLLAQAVKALFPSAQVTIGPVIEDGFYYDFAFERSFTPDDLSLIEAKMHELAKANLSITRRELPRNEAIQYFKDLGEEYKAKIIADIPENEALSLYRQGDFEDLCRGPHVPSTGFLKAFKLTKVAGAYWRGDSNNEMLQRIYGTAWADKKSLEEYLFRLEEAEKRDHRKLGKALDLFHFQDIAPGMVFWHPKGWTIYQELEHYMRNRLVDFGYQEIRTPQLVDRSLWEKSGHWANFRDEMFVTETENRHYAVKPMSCPCHVQIYNHGLKSYRDLPLRLSEFGNCHRCEPSGALHGLMRVRNMVQDDAHIFCTEDQIQSEVAMMLELVQSVYKDFGFTEIKYRLALRPEKRVGSDDVWDKAETALKLAMQGRNIEWVDAPGEGAFYGPKIECSLSDCLGRIWQCGTIQVDFSMPARLEASYVAEDGSKQTPVMLHRAILGSFERFMGILIEHYAGKLPLWLSPVQAIVLTISEKQNEYAEKVRKTLQKRGIRANFDLRNEKIGFKIREHTLQKIPYLLVVGDKEVENCQVAVRTRDGIDLGVMTIDTICDTLTQEIIRKGSI*
-MWFKIIHSHVEIAIYAKPNAKKSKLMAISDDRLHIALHAKPQEGEANNELLFFISQFFKIPKTQIELIKGKSSRHKLIRLPLSESVFCFLNNPKI*
-MEKVNLTKQFAYRLRDAMIAAGHNSQRSPSGVCIHKLAEMTGYSLQICRKYLRGEVIPDPVKLIEIASKLNVSPGWLLFGETHNDPGTSKEHITISKSLLHHIFTKAACLYNRELVEDDVSDFLMDLINDISLINATEEQSKKIIDLAISSVSHFRHSQRT*
-MPKRLINKNIDIYNYPNEFEDNLGSISLGDLHGNAIKLIHFLFRHKIIKFKTEIINFHEAYQQFVTIYEQYDDMVQEYLEIRTLLQLIQIKITNAQQRILDIEQKLSLATDHQKEFSQSLLQLKKPIEANLQMAEKSKAGLEEKLSGLKTRLPSCIERFNKFMTQIEINDIKTLIRLLGDEVADRGSCDYFTLRILDFLYQNQIAIKIILSNHGYEFIHAYEKLVVGQPFKPKGYIGDIQIKSFWGLQLLLEQSVITEEELRSLVERAYKPTLKIIDYSLSEDGITLYSHAPIRFDSIRMAASQLGVTYNDSTKEALAETIDQLNAQLQIYMKNNMLHLLFENNEINDPTNMTDEERNASPLIYLVWNRWNESKEVENARPGKYNGYFVTYVHGHDPFQSPLTYVYNLDTLCGKYSRVGEEEQINKAFQFLTENRHTNVDKTASESLLRNISRYKVLDSDEYTLKHKIPKTSLELATDILDCKIKESLIKLSLLGKPKAVSGSLSVDQNISIPNQASLGK*
-MRLLSFKKSKIVSIGTELEFQIIDCSSLSLVSRSKELMRALKDMRYRDQIKPEITQSMIEINSSIHQSAKEMYDELLELQKILVETAASIDIAFCGGGTHPFQQWTMQKIFPSKRFKKKFNQYRYLSKRATVFGQHIHIGCPTGDDAIYLTHALARYVPHFIAISASSPFYLGINTNYCSSRSTIFNAFPLSGVIPYLRNWQEFSDYYRKMYRWKIIENMKDFYWDIRPKPELGTIEIRVCDTPLTLRKSILITAYIQALALYLLEEKSVQLSHDLYYVYNYNRFQASRHGLEGELTVTDKDRPIPIMDDILETIKKIEQYINGLGNSEYIEELYSDVINKQNDSVLINKIYKQDGSFSKLVAAQCELWLSDSKDRKWMTQPS*
-MDDTTFLSTKEKILEIKPLMESAFGNILGYQELENMLAICTLVPFSNNQILFHQGDRIKGIYIIIKGTVDLIARTLGKGITKIETCLASDFLGETSFLLNEPSATSAVAKDNVTCLFIPSAYFELMPAFSPEAKYKIMKAIGYQACGRLKQLHDKIIDFISHSDMQSLSFLGRVIQTFTQPKIHTLDESGVDKDQIYKKTLFNSFTQDETDELLEHAIPLTANKNCVLIHENETIPVCYIVIYGAVQSNVIQNSKIAKLSVIGPDSLFASTACFLSDTKFSITFITCESATLLKISEAELQYFQKNKPMIWYKLFNLICGSIISLARSLKKLDVRLNIEKYNQ*
-LGMAAWDRNSINPLQAYVYKTSKLPFYDENLHNLAEKIAPHCLLAHLRGVSYHDKQVVTDQNVHPFLYPVTSIALAHNGMLHNFETMRYDLLKYVKTEYRKYIKGTTDSEWIYAVFLSQLENPKGHFDASEIINAVIATLKILKTVRQQNNIVINSPVNLFLTNGDFIAATRFCLDYGWKPKDATQSTHFTYHSLWYTYGERYGFYENEYKMKGGTINSSIIIASEPLTENTTTWLEVPEYTLIFANQVDGEIKITSQDINI*
-MTCRRFIMVNSDLILSPYQLNDKITLKNRVIMAPMTRNMANDDFSPTRQMADYYARRADAGLIITEGTIISPDGQGYSNAPGIFTQTHIDGWKMVTDAVHERGGKIFLQIWHVGRVSHPIFLHGNLPISASETMMTGKVRRADDLYYGKSRAATLEEINELIQNYALAARRAMIAGFDGIEIHGANGYLIDQFLHYHTNQRHDQYGQYPENMGRFALEVVKACINEIGGQSVGLRLSPGAYLNEIVGDERDAMVFRYVLEELNHYGIAYVHTGNFDDGIQFKELGFKTMTEFMRAHFKGTLIASGSYTLHQARKDIQNKKYDLIALGRPFIANPDLMNRIKWNADFLPYENRMLDTLF*
-MNVINILKALSNEKRLQIIRWLKEPDKHFSSSHCDVSKDGVCVGLIEKKSGLSQSTVSQYLSQLQQAGLIFTERRGQWTYCKANASLINEFINELKVMI*
-MNNTIDNQSQEELTHFDANTPQSIIQLDRKLREMKSEVDMKINDPSSYNGDDKEVYFQKLSKLSEEINEAIKSLDALVKMVDIQDEEFKKDFYESDVMKEFNESVMKSFDKLPE*
-MLLHYLFIVGICVEAITGALAAGRKKMDFFGVLLIASITALGGGTVRDTLFNTYPLTWVAHPEYLLYTSVCAFLTIFIAHSLVRIMKVFLILDALGLSTFVIIGTQKVLAHGMPPSVAVISGMITGICGGMLRDILCNDIPLVLRKELYAVIALAGALLFITLDYFHIPHNLNIIITLLCIFTARLLAIFFHIEIPIFDYSESIKRRKK*
-MVLISTSMGDIHIKLDTENTPLTAENFLNYVRKGFYNDTIFHRVIDGFMIQGGGLNTNMEQKTTASPIQNEAKGAKPNKRGTIAMARTMDPHSATAQFFINVADNGFLNYSGDHPQGYGYCVFGEVVEGMDVVDAIAKVKTGQRNGHADVPVEEISIIEVRELA*
-LPFLRMNTFSCEVLYQHSGTKARVTRVVTPHGEFITPVFMPVGTRAGVNNMMPSELSAAGTQIILGGNTYHMLCAPGMKVIENAGGMHRFMGWHGPMLTDSGGFQVFSLSKNKEICSIDESGAHFKLPGSKGIIHMTPEMSLETQKIIGADIIMAFDQCTPDSCSKDEVSQIMLRTHRWLKQSIDYHQQYPNSRYGYKQALFGIVQGGVFQDLRRESADFVSAMNTDGIAIGGETVGFDMDTTVEVIRWVYEYLPGNKPRYTMGVGMSPQDLLDVVAEGIDMFDCVAPTRNARHGALYCGKLVREGNWLKFQSEHENGRIQIKKSCFADDLAPVMESCSCYTCLNYSRSYLHHLSKQKANLFTALASIHNVHVLHDVCNHMRHLIINS*
-LDYVWNFYAWVGCHVFSVYGDNGAFSVFSNPNDQLIPGIKRVLSLSFFVLSCRFCE*
-MIFKLTIRGRINMRLNIALILSFFSIMLFAMDEVDEQQILQRIQPVGKVRVQEEQGNNIEAGATKTTVVDSKSKKEPGQDIYDKYCSVCHRDGLAGAPKFQSEADWKPRLASKKIDDLLASAIKGLNAMPAKGTCMDCSDAELKAAIQYMLPKS*
-MSNTEYQTIDNKTQYINGKEKHQNHAYPEYINHSMEKYYEGRVNKSWQGKHILKGKTPTANSLIFSSNDYLNISQHPQLIKAQIAAMQKYGNGQMQSAVFLNNSSFLLSQCEKKFSSFLNYSAALLTQSGWSANVGLIQTLAKYNTPVYLDFYAHMSFWSGVKAARAKSIPFLHNSVDSLKKRIEHHGPGIIAVDSIYSTLGTISPLADYADIARKFKCLLIVDESHSLGTHGSQGKGMVAKLGLSSQIDIITASLAKALSGRGGIITGDRQLIEYIRYSSLPSIFSSALMPHDLAGFSASLEIITQEEWRRAKLQTNADFLREALSCEGINIGSSGSQIVPLVTGSEANTLWLRDELEKEDIFGAVFCSPATPKNKCLIRLSISAHHEKSDLLRVIECLVRLARKRPDIPLFKGN*
-MQHFSIPTCYFPSTAVFVDDSRDFLLNFVLQLDEGLAYRVFDSPFEALDCIKQKRCELELLSERCLSEYTEAKNCPLTNHTINLDLAAIHAEVYNSRRFSEISVVVVDYAMPGMDGLEFCRRIEDTNIKKILLTGQADEKLAIAAFNEGLIHRYIKKSDPDVASLITQSIHDLQLQYFQSMSDMIVRMLSVTSPNCLHDKKYAELFWRLCREKGIVEFYLADNSGSFLMLDDDANISFLIVKNEADMQLHYDLALDNGASGDVLDQLHNGEKIPCFWQSNLVTPQWNEWSNCLVPANRFVSDETYFYAYVQGAVLFDVRLDKILSYHQYLEELDAEEMFLN*
-MANSQEFNQPPVDELKRNWGWILGFGIFFLILGCVGLGMVVGLTLVSMFFFGALLIVGGISHIIDVFKYKEWKGMIWQALIAVLYIAAGCIVLYDPFLASTLITAFLAAVLIVIGLTRMIMAFALKDSTGWGWLLLAGITAIILGILILMQWPVSGLWIIGLFIAIELIVTGWTYIFIAISVKTAKL*
-MSQLKKIVKHLDESMQRSLSNSAHQLVAVGAIAFVGFPLFYVIWAFWLPQPYENLPLRLIGSLLGLGLMLTPYWPLKWKQYLSWYWFLTLLFTLPYFFTFLFLMNQASVISAMSLLCGVFLLVLLVDLLSLSIVLILGFSLALVSYYLVSPQMYFGEEHIQMTLVIIFTIIAGSTLNYKTAMLQQQKLAGMAAAAGMIAHELRSPLLGIKSGAQALVQYLPRLIDGYQLAKKQELISSPLRDRLLLQLGGVSNRIVSEIDYANTIIDMLLVKASRDNILQNCILETCSIAECLSEAITRYPFQSPRERTLITWTGDFQFKGSKLLMQHILFNLIKNALYVIAMAQRGEINIWTESGDKYHYLYFKDTAKGMSKQQLNRLFNHFYTTTFMGTGIGLSFCKLVMNAFGGDIVCESKEGEYALFILSFPGSV*
-MIFTQRTYTVYSMSAKIIRIATRQSPLALWQANHVREMLVKQWPNLSIELLPMITSGDRFLKDKLLSAGGKGLFVKELEEALLDKRADLAVHSTKDMPAQLPDGLLLTAICKRDNPFDALISPQFKSLAALPKNAIIGTSSLRRQSQLLAYNPNLQIKTLRGNIHTRLSKLESGEYQAIILAAAGLERMGLAHHITQLIPDDIMLPTCAQGALCIECRTDDLEIQELVHGLNDPISALCVHTERRVNAKLGGNCHIPFAVYCTITEEKLLLLRAKVLNMDGSQMIDDEQQGKIAEAEVIADRCTESLMTKGAMSLLSTIPS*
-MTKSLNGLRILNTRPREQAQVLNKKIIESGGIPIDCPTMEIMASETNWINNLPDLTSVNQAIFVSTNAVRYFMMELASKNINWPNSIRVTAIGKGTSRVLNEFNIQVSDVPELPDSEHLLTLNSLQQIRNQTILLVKGEGGRQLIEEYLMLKGAKLCLLSVYKRVMPAIDQEFINSLWRDDLVDIILLTSEQSIHNLFKMFSIEGQMWLQNKPCLVISDRLAKVASLFGIKKILISHPERMIGALFDYKD*
-MANSNEEQKKTIQPQQPSKVEPDINQQMKASFFGSKYLSLIISLTSLLAFLAIIVSIYSIQLEKQFQNHQLVENKNLTDELERIKVEQNTVQKLLDNNANHLQQIQSDLTSKMDSLNKELQTAMKQKLYQNNDWLLLKARYYLELAQINVHWSDNFNTSVALLQQADALLKGMNIPKIFTIRQTIAKEIAQLKSISVVDITGILSQLDAAQAAINNLSIQSVVDQQEVLNHITKSEESGKTGWRNRLQDSVNFLEKLVVIRRHNENIQPLISPLYESAIKENIRLNLQEAQWAILNNNPAVYQFALNQAIANLKRVFNESSQNTDVLIKQLSTLQNVKLTQEKPVVGQAIPLINQMIDNKELLVDQANSKKGEN*
-MIRVLFAFIILLLSVFLGIQLNKDPGYVLIAINNWTIETTLWVSVFGLFFLFFLIYGLVQFCNKITRMPGMVNKWHSRRLAQKAQATTRKGLIEYSEGYWQKAKNHLIQALPNTDTPLLNYLTAARAAQKMGDSKLRDHYLREAQQSMPEAKIAVELTQAQLQLANHQWEQALATLKHLQDLAPRHPYVLKLLMNLYEEIKDWQQLIALLPDLKKNHIISDQAFEQLQKNTYLQAMIDLAKHNQSDGITKLYQTLPKTLVNDTAITAEYARFLIRNQDYDQAEYHLKRCLRKELDNRLIELYSLLPCEENQLLFAESLLKKNPHSAALYLCLGRMCLSRHLWGKAKHYLEQSIELNPTPVAFIELGKLHEKLNDPLSSGSCYKKGLELITKDELS*
-MSKHSHDGAHHHEHGEVTYDRAFIIAITANGLFVVMQIIFAYLANSTSLLADAFHNLGDVLGLILAWVATGLMKRKPTHKATYGFKKTSILAALANGALLVFTCGIIATDAMYKLFSPTEIQAVSVMIVAAIGIVVNFSTALLFLRGSDDLNIRGAYLHLFYDALISVGVVLSAGVLYLTGWLWIDPVVGLLIALVILKGTWSLFADSFRLIIDGVPRDISWIKVSDFLLAIPGVKSIHDLHIWAISTKENALSVHLFMPEESLSDDLRRELVEKLKHDFSIQHVTIQVEKTETECNDACHNPRIII*
-MTNRERLELPNGAKKLLLHSCCAPCSGEVMEALIFSEIDFTIFFYNPNIHPLQEYEIRKEENIKFAQKHNIPFIDADYDKENWFARAKGLEWEPERGKRCTMCFDMRFERTALYAYEHDFPVISSSLGISRWKDMNQINDCGVRAASHYPDLIYWTYNWRKNGGSERMYEIAKREAFYKQEYCGCVYSLRDTNAWRKQNTRDRIKIGLNYYSASKNEGDL*
-MKNNQNLIWIDLEMTGLEPEQDRIIEMATIVTDPQLNILAEGPVIAVSQPKILLDSMDAWNTKQHNQSGLVKRVLESNVSESQAEQLTIEFLKQYVDKGKSPMCGNSICQDRRFLYKYMPELAAYFHYRNLDVSSLKELVLRWRPELMNGVVKESKHLALDDIKDSINELIYYRQHFINLPEVKNDK*
-MKVYLVGGAVRDRLLGIPVQEQDWVVVGATPEELLKRKYRQVGRDFPVFLHPETKEEYALARTERKSAPGYYGFICDFSESVTLEEDLARRDLTINAMAMDEQGNLIDPYQGQRDLEEKLLRHVSSAFVEDPVRVLRVARFASRFHHLGFRIANETRLLMYSMVKQGELAHLIPERVWQEWQKSLEEKNPEQFILSLRSCDALRVILPEINSLFGVPNPHQYHQEIDTGIHSLMTLRASSELSEEPLVRFAALVHDLGKASTPIQAWPKHHGHEEEGTKLIRALCARLRIPNDYRDLAVTVARAHLNIHRLCELRPNTIVKLLEQVDAFRRPQLFHKILIACQADAESCGKTVVYRQTQLWNEILSECVKVTPQTFIVQGYEGKAIKEAMHQSRVACVERIMTSWKSNEK*
-MSKRRINKQQSARIAKIQKNYHEYMGNNSDNLADGLVITRFSRHAEIEDNQGKRILCSIRPNLDTLVAGDRVIWQIEGEKQGVVVSIYPRGSLLARPSQKGLKRPVAANITQLVVVIAPKPEISWPLLDSYLIMAEILQVHVVIVLNKIDLPCQTLQQRLMMDYQLLNYPVIMASNQTPDTIVPLKQALNNQISVFVGQSGVGKSSLISSLLPHEENIAIDKISMVSELGKHTTRNSRYYHLPSGGALIDSPGVREFSLWDIDCSMIAQGYKEFKPYLSQCKFRNCTHINTPQCAIIDALNKGKISTQRYENFTKLCAQFNSLKE*
-MSNLIELALRNAALDRTKLLSQVQKIEFLNGYDPRFVEGLISLEMIGDIDEYVASLMYVKMTDKYTQEEKEQLTDTILTINNDRLISCQYRFPQLYQKLMQDQFLSTFFSSSHLLPNIAPGTNNQSYETVSTNNKMKMESAKLYGHYEYYQCVVALITQIDGSRYFYHLNPNRIFGDYMGSAPLKLSGSELKDVKDITFILHPRSMVDYREFQRLQERNIVFKTVMLPVGAKSVSLSYDTDKDVLTVNNLEAGQTVTYNNLLQTPQYNRYQYTPEQYFMTQLYRGQTWAEALGEALDKYIVTRQEGATWWDLKPLFFNRKTTKNNMIAAARIKKEIEAGATSFDFTGVSRNGLLNQLLTTAVDYQLEYQRGLQNGVLSAEDLTTSAALR*
-MLVGSIWFIKDRLQTLMLVQDIRRFLDELRESKTILPCDKRLSAILQEHFSHRENHEELTSNDIQFVLQCFSERWIADSECDYLLYPSQANQVWIKLAHEIEPFTDKNYLQILLPHVTNQFDFNNLTPLTETVRLENFYLGYDGKTLYRKRGLCEHLLDNQFELSTCRTLKTKQCEVMTIEELTRLYKGKYCNGEFSIDKEKFDNFWDFLYKKTFPRMQSRGEIPLEVLPHLLMLIESYYHLKNSGADFKLFTAEIHKFFKILYQFKLENINFLYGVKILYHGKEYYLLELFVLINMAQSYDVDEQLKAIMSWLYQFNPILKASNKGLLSFYAELEPKFHSEGHLEKRVETGTDNLLYRIKTFLVSLFVTPFEVFPFSGKTISFWDIKNVIFSEGQEIYNQFAPFIMTNKLDALIAVYKKTMDEHIILCQKNKHICKWLTHYQSTLDWYQLVEAGDLSKMDVYWFDPELLFHVLVHFRLINKSLGEKIVNFLDELIHTYAQNNNEFQIQLRVNILFSRFLKSLDEQQRRKLILTLSLFDPVEAKSKFLTNCIHYVTNRLCQISMHQLDSSPNFFGTYQCIDSKKLLINKTDVKQVSAILEAFKEMLHSLEERCNPEQLENMLIFLRNISRPILTVAEIEEAQQSARVIDYIGAPT*
-MNSWAVSACYPRSTFYPLSDGPSIQNHRITKTNFRSCSSRHSRSQAPFCLYTLGTMSDRTEGTFVLLRYSLGGDRPSQTTHHTLSSSRITGPS*
-MALPFRTTGSLRPTFVPARAVTLAVKHPFAFTLLVRCPTVPRVPLCSSVTLWEETAPVKLPIIHCPHPGLLDQVRTSITTGWYFKGGSMRTSVLTSQPPTYPTQSSSKSSAKL*
-MASSFSWKPGINDFSVPKGQNHFAPQSYGKPDLPSLPPYMQVPGQPTPGSPSLLRPHFTTYKKSRNINLVPIDYALQPRLRGRLTLLRLTSCRKPGTSGVWAFHPHYRYSCQHSHF*
-MSYLALARKWRPRTFSQLVGQEHINKALINALNQQRLHHAYLFTGTRGVGKTSVARILAKALNCEKGITSEPCLHCDTCIAIEQGRYIDLIEIDGASKTRVEDTRDLLDNIQYAPTNGRFKVYLIDEVHMLSQHSFNALLKTLEEPPSHVKFILATTDPQKLPVTVLSRCLQFNLKHLPAELINQQLQLILQEERLDFEIQALDILAQAARGSMRDALSLLDQAITSCETKLLASDVKMLLGHTQQDYALLLLQALAKQEAPIMLVLSQQIIAEGGNFQYVLDEILSYLHQITVYQCLGDNNPLISPKAEIKELAKQFSAADTQLFYQIGIKGREEMHLAPTLAIGFNMTMLRMYTFKPASHVTTPPLAFEQNNKTCSLIVDDNTPAQNPIGIEPIPVIKATDNTVAYQQTQSLSTDDKKSANSGESMSCDWNEIIPQLKLSGLALNAIENAEFLGKKEREITFGVHKGHQSLFTPTTINRIETALAGYYKSPVKIILNTQDAVHASPAQQKEKASQEKLEQAEAALHADPVFQQLQQEFSAELVKNSIVLLKDDL*
-MDINQNLGNLMKEAQKMQQRMQEAQQQLSQLVVSGESGGGMVTIKMNGRHDVTEVKIKPTLMDEDIEMLEDLIAAAVNDAVRKIEKASKEKISQLTAGLNIPTDLMGDKEGE*
-LTMDALSRLVEALRCLPGVGPKSAQRMVFHLLQHQRQRGLHLASCLEQAMKHISHCQQCNNYTEQTLCALCQNPNRDSTLLCVVESPADVSAIEQSNSFQGKYFVLMGKISPLDGLGPDDIGLPKLKELITREKIQEVILALSPSVESQTTIHFIHQLLKDETVNISQLAHGIPSGGELEFLDGNTISSALKNRAVINV*
-MSKSIFILCRKKILVLLLLSLCFITSTASASFYRSLWPKWLVNTPLSKQSISHQAWQHFLDHHVITNEEDINLVDYTNINEKELASLKEYIKNLSQIDIDNYNRQEQLAYWINLYNALTVLTVANYYPIANIQEINISPGLFSVGPWGANIITIKNTNLSLDDINNRIIRPIWNDPRTHYALNNATIGAPNLSKQAYQGPLLEQQLNDAAFKYINSLRGVHVIEGKLIVSKLYDWYEEDFGGTKKYVIKHLLQFAKEPLRNQLKHINTIDSYIYNWHINCPADNQS*
-MKKKHLIFAYFSQFLLFNLCFFGLQLLLLYSHAESLISSIKLPLPIYFEIIGTLVIQFSLYIIISMIQALLLIGILNRSWHYFSTEQWQIIIWSLFACAILSANAYYFPLSVFSKLFSPPIPEFIFLILLYFSLACLGLLLLNCLFYRTTARLLSIALPIGICIFLLNNYWKSSLNPNVDSEPNVIILGIDSLSPESVTSRNMPFLHQVLLDSFQFTNTISPLARTYPAWSSILTGLYPKHHLAEENLVERSRVKSQLSIVWDLNKLGYNTIYATDDRRFNSIDENFGFKKIIGPKTGVNDVMLGSYNDFPLGNLLVNFRISSWLFPYNFSNRASFISYYPETFTNELKRELSLQQNSPVFLAVHFALPHWPYAWAASLPDQVENEFSLSKRDALYLRALKAVDNQFKVIFCYLKKHGYFKNSLVIILSDHGEVLYYPNSRLTSYQKYQSSLTSKLAEYFKAKTATELDKSAGHGSDILSPMQYHSLLAFNVYKDGKLLTKTNKIKTRVALFDLAPTILDFLNITKKQKMDGISLLPTVLNPDTPLPHRTFFIESGMYPNQDFTKEKAIELGKKIYKVNPDTGQLELKPDELIQVNNQKLYGVISGNWILALYPDDNTYIPVILNLSTGEWIDNLQSDFAKSSPAEKLKRQLQEFYGKKLAYPIQ*
-MLEEKGMTQKTLTLPNGFVTDNDRAKARIKYELKQLETQLGKCVKQPDDTAFSKNKHSLYMALADKYSEYLKLIDIDSKFKQFVGVEIPKDISYPEACNRIMHLKQKRSAAVNLLEEAKIIIEISSLYQCLAKAIEPNEVSDVSNHLILNQFDKLKQLFKKENLELWLSTLVDLWNHNSTLLREPAKLFRNWDLEEQTIALCFFSESEVVNLVNAIFFYKLYPDKLFNELIHPEKLVSVRMRLGFLHEFIELLQKQLHSNALQYGLNPGIDFLFHGEELPQGIMIEVNEVYRDIIQLAVKNLRVQFTPENNEKVTLERLHDLGRAYKFWFNPNRLIDAVMVLQQRLVKESISQEEDLEKFHQEMLVLYRQLTTTECLDLYGYFANNDSRYLLYTLYSINNGYSLDWLPSLNSSERNAIARVYQALKCVMEALRVELKNRFITTEPYLYDLGKKEIHTGRRNREAVFRIIAIYGCERIVMSDSLERLFNLIEEPN*
-LMSQRHYLLFIDNEPVSEELKDYFEKFNLDIIQQKKLFPIHVEKGLPTAILINWSILRAEPEVIEQFYNMYPVPLIVINNKPDEESSVAMLEAGADDFMTKPIYPRELHARIGAISRRVMRAQQKLDHGKEVLMFANWRLYPASRQVFGENNEELQLSAGEYDLLLTFVQQPQRVLDREFLLQITKNTDLVPFDRRIDVQISRLRQKIEIDKKKPALIKTIRNGGYMFTARVVTLKESDATL*
-LQHMESVMKEQFFQTKDLNTLLRSVEKPIQDLLELNFKTLKTVSYVTPIELFNVLKPEEVLEKNMNVFIQNSQKAMSYMLNVFQIMEHHWINIYDQMAENPNEKKANPAIDKANRKVDTSTPKSSASKKAVTAKGKTKPAAVQSKAKTSKAKPKISSPIKVKTNTQERPAAVKQQSQMPLSSLQKDMEKQGINTPVALKNSVAILKNETKDIVPSNNKLK*
-MKILYVPFSRHQAGDLKSMVELWKKNDEQFSPDRIEIIYFNDDINYDQLDEKIEIYICAHGSDDDNVTKLFNHSNPLVAESLDIKEVAERFERDILPISYWISTIHLYCCGTNNKNQMMAELLGHSLLRPEKPIYHYSGSVSIVDEYGKQWSFANHVKIPVHLVAKRIFVLNFFDEEQPHRAFVKKAFQSKTYKELLAKKEDSFFAKVKENRASVLLSKRLGKKSQDGEENSLLRKGN*
-VQLPLSTLLVLLFFLICLSAFFSGSEIGMMSINRYKLRHLVKSNDKQAMRVNSMLARPDKLLSVVLIGNTLANIVASTLATLIGQRFYGDAGVAIATALLTILILVFAEMTPKTLAAIYPQQVAFASSLPLSILQWIFSPLVHLISLITNGILRLFNISVKRMQKETLTGEELRSVVHEAGGLMPVEHKSMLISLLDLEQATVEDIMVPKADIVGIDLDLPWIELLEQLETAQHTRLPIYHGSIDHLAGMIHVRNILNLALENKLDMENLLNSAEVPYFIPEATPLNIQILNFRKMKRRSCFVVDEYGDILGLVTMEDILEEIVGEFTTDIAALSRDITPQQDGSVIVDASITIRHLNRMMGWSLPLIGPRTLSGLIIEHLGYIPPPDSCLVIDHYHIEILRVSDNMIRGVKMIKTNKKRK*
-MSLMEIQSGRDVPNEVNVIIEIPMHGEPVKYEVDKKTGALFVDRFMTTAMFYPTNYGYIPNTLSEDGDPVDVLVITPVPLISGAVISCRAVGMLKMTDESGVDAKILAVPTTKLSKMYQSMQTYQDIPQHLLLSIEHFFKHYKDLEEGKWVKVEGWVGPDAAREEITSSINRYNHTKK*
-MNCLFCKIAQGEIPATVVFEDKNILAFRDIRPQAPTHLLIIPKKHIATINDVNDDDSELLANILIRAKKLAQAEGLSEMGYRLVFNVNSGGGQEVYHIHLHLLGGRQMTWPPG*
-LAARLGILAMEKLYSNLLKELGEDINREGLKDTPGRAANALRYLTKGYNENLDEIINGALFDSDMSEMVIVKDIELYSLCEHHLLPFLGKCHVGYLPDGKVIGLSKIARIVDFYARRLQIQERLTGEIAHCIESTTGARGVAVVIEAKHLCMMMRGVEKQNSVMTTSVMLGEMRNNSSCRLEFLNLIR*
-MKLFSFFLVLISSASLGQSLPLHLLKYPSKFSINIYAAPVSDAREMALGSKDIVFVGSRSAGKVYAVIPDKKNSHGTRVLTIASGLNMPNGVAFHKGALYVAEIGRILRFDNIESNLNNPPEPVVVTTKLPKEKAHGWRFISFGPDDKLYIGIGAPCNVCLMEDPRYATIMRMNTYGQDLEIYARGIRNTVGFDWDPLHHNLWFTDNGRDWLGDNLPPDELNVAPRKGMDFGFPYCYGKSTVDPVYGKIHSCSEFTPAVFEFPAHVAPLGMSFYTGKLFPSNYWGQIFISEHGSWNRSHKIGYQVTTVKIKNNHVTEVKPFISGWLQGEKAWGRPVDTLVMPDGSLLISDDYANVIYRVSYQQ*
-VAKITKEIVFGNHKLILETGEVARQADGAVMASMNGTQVLVTVVWKKDGGESNDFFPLTVNYQEKFYAIGKIPGGFNKREGRPSDNETLISRLIDRPIRPLFPDNFFNEVQIIATVLSLNPEVSPDIIAMIGASAALSISGVPFNGPIGAARVGYKDGVYLLNPSRKEQEESKLDLVIAGTKDAILMVESEAQELSEDIMRGAMLYGHEMMKNVIKSIEELARDVGKSKPEWKAPEIDTVLKARINDVARNEVEAAYLIKDKQQRYQRLDELREQTISALLAENDELNADVIANMFGELERSIVRNRILDGEPRIDGRDHRTVRPISIRTKFLERTHGSCLFTRGETQAIVVATLGNERDAQILDGISGESRDRFMLHYNFPPYSVGETGQVGSPKRREIGHGRLAKRALMAVLPDANEFPYVLRIVSEITESNGSSSMATVCGTSLALMDAGVPLKAPVAGVAMGLIKEGDRYAVLTDILGDEDHLGDMDFKVAGTEKGITALQMDIKISGITNEIMEQALEQALEGRTHILGVMNNALAEHRTELSQHAPRITTMKVAEDKIRTIIGKGGATIKGLIESTGVSIDIDDSGVVQLFSPDKMALEEAQKQIKALIAEIEVGQTYQGKVSKIVDFGAFINLLPGKDGLLHISQICADRTQKVEEVLQEGQEIEVFVAGIDKQGRVKLEWKDKPQAEAKEVEDAPVSATFLTMEEQSEEINSGNKISEEEE*
-MSLNSAEKAEIINEYKRGDKDTGSPEVQVSLITSRIKYLTDHFKENKKDFHSRRGLQELVNKRRKLLKYLKRNDQDRYQTLIQNLGLRDSY*
-LIQVVMTTIESQCSIDGILLLNKPQGMTSNAALQKTKHLFGAKKAGHTGSLDPLATGMLPLCFGEATKICQYLLNADKSYETIGRLGIKTNTADCTGEVIFCIENYTVSHEEMIATLEKYKGKIKQIPSMFSALKHKGTPLYRLAREGIEIERKARDIVISQLNLEQFDGECFTLTVSCSKGTYIRNLVEDIGDTLKAGAHMTKLHRLYTAGFENNRMYTLDELQDMPLSQRLACLIPIDQAVQHLTPVILSDSEVTAIRQGKVISNKTGAVEGEDLRLYGEQSQFIGIGQALIHGDIKAKRLVSFAL*
-MSNNFKRTDRIAEMIQRKLALIIPQEIKDPRLKGFVTISAVKVAADLGHAKIYFTVLNEDKSVVTNILNGAASYLRSALARSITLRTVPQLHFIYDESIEYGQRLSRLIDEVNPPDSSSDDNN*
-MADVTVKQLAQVVGIPVERLLNQLQEAGLSFTDDQQTVNEEQKRILLNHLKGSSNRDISAAPERITLRRKSMSQVTVGHDMHSGKTVNIEVRKKKTFIKRSAIPEQAEVEEPVVPPVVEEPVHEEITVVSEVSAETPELKETEEHPVIEPVAELDETVKEEEKINSEENTAESQDELTHANTDVIENLVDVVEETIPVSKKEEVKPEKVSKKKHLEQTDSDISEFKKGKKKPKYHTFEHDEEEQELHRRGGRSKFKKKKGTEKSDKYREAEETLTHGFALPTAPIVREVLIPETITVAELAKRMSVKAAEVIKVMMSLGAMATINQVIDQETSVIVVEEMGHKPIIIKEDAVETGLGEAISKGTKTEGRAPVVTIMGHVDHGKTSLLDYIRRTKVAAGEAGGITQHIGAYHVSTPKGNITFLDTPGHAAFTAMRARGAQATDIVILIVAADDGVKPQTIEAIQHAKAAKVPIIVAINKMDKPDADPERVMNELSVQEVIPEAWGGDTMFVNISAKSGMGIDDLLDAILLQSEVLELKAVTDGAAKGVVIESRLDKGRGPVATVLVQSGTLHKGDILLAGFQYGRVRALVSDNGDLVDSAGPSIPVEVLGLSAIPHAGDEAVVVPDEKKAREVALFRQGRFRDVKLARRQKTTIEGIMENMTATESKVLNIVLKADVQGSLEAISDALTKLSTDEVKVDVISSGVGGITESDVHLAIASNAILIGFNVRADGTAKRLAEQESVSIHYYSVIYDIVDQIKGALTGMLAPQFKEEIVGIAEVRDVFKSPKIGAIAGCMVIEGVVKRNNPIRVLRSNVVIYEGTLESLRRFKDDVLEVRQGFECGIGVKNYNDVKPGDLIEVFETVEIKRDL*
-MSKELLLVAEALSNERGVSKDVIILAIQAALESATRKILGLDIGVRIKIDSKTGDYETFRYWDVVNEEELEFPDRQLSLEQAKERKPSAAVGDRIEEIIPSIEFGRIEAQTARQVIMQKVREAERELIIDQFRSKLGQLIYGTVKKVTRDNIIIDLGGKAEAFLPRSEMLPHEMFRPNDRVRAYLYEITPQARGPQLFVSRTRNEMLIELFRIEVPEIGENIIDIKAAARDPGNRAKIAVKTNDGRIDPIGACVGMRGARVQAVSSELGGERVDIILWDDNPAQLVINAMAPADITSIVVDEDTHTMDLAVAKEQLSQAIGRNGQNVRLASQLTGWTLNVMTTEEFESKNQEESSKIVNLFTSALEIDEEIATLLVAHGFSSLEEVAYVPKEELLAIEEFDEEIVEELRNRANDKLLEMALSSGKGLSGTPDDSLINMEGMTEDLANKLASKGITTMEDLAEQSVDELMEIEGISEEKAGALIMKAREPWFQ*
-MINDDLIVLLEPIIKNMGYELWGCEYLSQGKHSLLRIYIDKPDGIGIDDCQEVSKQVSAMLDVEDPIPGHYSLEISSPGIPRPLFSIWQYQRYLGYEIHVKTFKPVNGKRKLSGIIVSASEDTIVLDINNEHQEILLSNIVKANLTV*
-LQSSSLARLNMMTLLENIHVAIPEMIILITACLALLSDLFFRHKLKSIAFYISCVGIIVSAAVSFVFIGSYKLLIFNKLFISDDISHLMKLFIDITVLLSFVYSQNYLDERQMPTGDYYVLGLFSTLGMMILVSAHSLLSLYLGLELMSLPLYAMTAIRRTDSDASEAAMKYFVMGAIASGMLLYGISLVYGATGKLDLLDVANAVAVNWQQQNTLFAFAMVFILAGVGFKLAAVPFHMWAPDVYQGAPSSVTLFISTAPKIAALGMALRFLTIGLVDITMQWQQIILVMALLSTGIGNLLAVIQTRIKRLLAYSAISHIGYALFGVLAASSAGYAAALYYILVYAVMSAAAFGLIVLMSNHGMEIDSIDDLKGLNKRNPWLAFMMLLVMFSMAGVPPTVGFFTKLLVLKALVDVHMTWLAVVGLLFTVIGAYYYLRIVKIMYFDQPENEEIVRIGTGNTIVYSLNCLSLLYLGIFPGALIAACINAFAN*
-MHYLLNLLIWLPILGGVFVLLTGDDKNPNVSRYLTLFTILLCLVLCIPLVKGFDLQSFGMQFIEEIPWMPALGINYTLGIDGLSLLLIVLSIFTNLIVILATWDSISKKVSQYLSAFLIMQGLLVGIFSAMDAIVFYIFWEATLIPMYLIIGIWGSDNRVYAAIKFFLYTFLGSVLMLASFLYMGYIAGSFKIETFYAIKLGMTAQTLIFIAFFLGFAIKIPMFPVHTWLPDAHTEAPAGGSVVLAAILLKLGAYGFIRFSLPIVPDACSKYAPLMVALSLIAVVYIGLIAIIQKDMKKLIAYSSISHMGFVTLGCFAIFAIARHGGLSNAGLILEGAIVVMISHAFVSSAMFAGVGFIYDRMHTRQLADFGGIVNTMPIFASFFMLFAMANAGLPGTSGFVGEFMVILGSIKAGFWVAFWAATTLIIGAAYTLWMYKRVIFGPVANKKVAALKDISGFELSAYVLLAIMVIALGVYPKPMLEFVHQTVSHTLALADKSKL*
-VSIQQVCLVIVLTPLVGSAIAGFFRNQIGRVGAHTVTILGVAISLACSIFLAWGLFSGSIPNTNSLVYHWASGGALIPYEFNIGFLIDPLSVVMLVIVNFVSLLVHVYSIGYMADDDGYQRFFSYISLFTFMMLMLVSANNFLQLFFGWEGVGLVSYLLIGFWYQKESAIEGSLKAFLVNRVGDFGFVLGIGLIFAYSGSLDYEKVFTSANYLASQNIELFSGYSWSLITVICLLLFVGAMGKSAQVPLHVWLPESMEGPTPISALIHAATMVTAGVFMIARISPLIELSTAALSTVLVIGATGALFTGILALVMNDIKRVVAYSTLSQLGYMMVAMGASAYSAGMFHLLTHACFKALLFLGAGSVIIGMHHEQDMRKMGGLWNKMPITYVTYVIGSLALCAFPPFAGFYSKDTIIEAAQLSQIPGSSYAYFCVTAGAMVTALYTFRSLFMTFHGKPRMDEHTLSHLHESPWVVWLPLVLLAIPSIILGYVLYMPILFDTPSLLGSSIFVLPEHNVLAELAHEVSSPFASAVHAIYSLPFWITVLGAVIAWICYIAVPSIPGYLARYFSIIYSILLNKYGFDRFNELFFVKGARGLGIAFYKIGDQKLIDGAVVNGSGRLVRWFSGKGRKIQSGYIYHYATVMVFGLLAFLCWLILD*
-MIPVYDYLVLGVILFGLSLVGIMLNRKNIILLLVCVELMLLAVNTNFIAFSHYYNEVGGQVFVFFILTVAAAEAAIGLAIVMLLYRNRGNIDVDKMNHLKG*
-MHEWVIQAIFYVFALLTVLSAVMVISQNNPVRCVLFLVLTFFTSAVLWVLAEAEFLALILILVYVGAVMTLFLFVVMMLNIDIESMKSHLIKYLPFGLIIVALLTGLLMVAIPKDLFKNSVQTQEKPLSVNSQLMDLSTEDGLVTPEKATSNTEKLGMVLYTDYILAFEIAAVILLVAIVSAITLVHRGAIRSKRQDITQQIMTRRAERVKLISMKSEK*
-MKKVYHYIIHYVRTYLLLELLAGLWLTVKYFFRKKITVQFPEEQTPLSPRFRGLLALRRYPNGEERCIACKLCEAVCPALAITIESEQRDDGSRRTTRYDIDMFKCINCGLCEESCPVDSIVVTPIHHYHISERGQNIMTKEKLLAVGDLMESQLAADRAADEKYR*
-MLHTIGILIWIIIKILVIVVPLLISVAYLTYAERKVIGYIQVRIGPNRVGLKGLLQPFADLLKLITKEIIVPTRSNKYLFVIAPLFALVPSLVGWAVIPFQEGIVLANINAGVLYLFAMSSLGVYGVLIAGWASNSKYAMFGALRSTAQTVSYEIAMGFALVGVLLAAGSMNLTDIVNSQKGGMLHWWFIPLLPLFLVFWISGIAETNRAPFDLAEGESEIVAGFHVEYSGIGFALFFLSEYASMILISTVLAILFMGGWLSPFEGITFLDQIFFIVPGFVWLLLKISFFLFVYLWVRATFPRYRYDQLMRLGWKVLIPVTIVWLIVTALMVVAHVKPWF*
-MATIEIDGKTFEAENGKMIIEVADEAGIYIPRFCYHKKLSVAANCRMCLVEVENGRKPVPACATPITNGMKVFTKSEQAIHSQKVVMEFLLINHPLDCPICDQGGECELQDISMGFGADKSEYTETKRAVDDENLGTLISTEMTRCIHCTRCVRFGEEIAGVRELGATGRGEKTQIGTYVEHSMTSEVSGNIIDLCPVGALTSKPYRFKARAWELTQHDSVAPHDCLGSNVHIHTRNNKLMRVVPRENESINETWLSDRDRFSYLGLNAVSRASKPQIKKNGQWEAVDWETALKFAAEGISRVIKQHGPEQMAAFASSSSTLEEMYLLQKLMRELGVQNLDHRLQQIDFRDQAFLPTTPVSTLPYAEIDHQHSILLIGCNIHREVPLAGTRVRKAFRNGAKIYALNPVDFDYHFDLSGRVIISPLEMPMQLAKLALALTTELASLPEEVQKLLIGLEVDKQTKQIAQSLKEEKACLITGAIVENHPEASLLRTLVAIVQKLSGAKLVRLTTGANSAGACIAGMLPHRTVAGKSIAEPGFNVQEALNSKLKGYLLMGVEPGYDFANPAGARQSMLAAEFVVLLSAYEHESMHDYADVILPIAPYAETSGTYINIDNTWQTVKGAMLPFGESRPAWKVLRVLGNLLHCKKFDYTSTEDILEEVKEAVSMTMEHEYEPYYPESLPVINQSLVRVGEWPLYRIDAITRNAKELQLCAASESACIRIHPSTADRLKLEEIATVSQGDIEITLPLKRDERIAVDVVWVANAMPETVDLGHSFAAITIKR*
-VFAMVELNQVCYRTFHLPESWSLSTYESIGGYSAWRKILKEQTSPQLIIEELKTSALRGRGGAGFPTGLKWSFMNRNSPVQKYVVCNSDEGEPGTCKDREILTLNPHQLIEGMAIAGYVMGATVGYNYIRGEFWLPFERTEAAIKEAYDAGLLGKNILGSGFDFDLYNHLGAGAYICGEETALLNSIEGKKGMPRFKPPFPANYGLYGKPTTINNTETFASVPVIMEKGGEWFLKLGKPNNGGAKCFSVSGHVNKPGNYEIPLGTPFKTLLDLAGGVIKGRKIKAVIPGGSSMPVLPGDVMLGLDMDYDSIQKAGSGLGSGAVIIMDETTCMVDALYRISEFYMDESCGQCTPCREGTGWLVRLLHRIINGHGEPGDVEKLVNVANNIEGRTICALGEAAAWPVQSFVKHFYDEFEYFIKHKRSIVAA*
-MSANSAKILSQLMPANRMLDIDHWISKYPKDQKQSAVMSALRIVQEEHGHLTTELMNAVAEYLDMPPIAVYEVASFYTMYEHKPVGRHLINVCTNISCMLRDSAGVVEHLEKKLGVNLGGTTEDGRFTLRSVECLGACVNAPMMQVDKDYHENLTAESIDKVLEQYQ*
-MKVAKMIELKNYTLNFGPQHPAAHGVLRLVLELEGETIVRADPHIGLLHRATEKLAETKPYIQSIGYMDRLDYVSMMCNEHAYVMAIEKLLGIEPPLRAKYIRTMFDEVTRILNHLLWLGATALDIGAMTVFLYCFREREDLFDCYEAVSGARMHATYYRPGGVARDLPDTMPQYKPSRWHSEREIEKKNHNRQGSLLDFLWDFTERFPHCVDEYETLLTDNRIWKQRTVDIGVVSPENALQWGFTGPMLRGSGIAWDLRKKQSYAAYDRVEFDIPVGKTGDCYDRYLVRVEELRQSNRIIRQCIEWLRKHPGPVKVDDYKVSPPRRVVMKHDMEALIHHFKLFTEGFCLPRGEVYSSVEAPKGEFGIYMVSDGANKPYRLKIRAPGFAHLSSFDDMVRGHMLADGVAILASQDIVFGEIDR*
-MTKNEYLIEKLQADLANHITELTSAYGEVTIECEVQNLLPVMIELRDREEFSFDQLIDLCGVDYLHYGDYDWETESATEHGFSRGVERQEAKAYAVNKPRFAVVYHLLSTKKNHRLRVKLFVEESHLIVPSVHHLWKSANWFEREAYDLYGILFDGHPDLRRLLTDYGFIGHPFRKDFPLSGEVEMRYDAKLQKVIYAPVDIVPRIVVPKVIRNDNRYIGNEGSKND*
-MAVAELEKKGFELTTVEKLVGWARSGSMWPMTFGLACCAVEMMHVGAARYDLDRFGIIFRPSPRQSDVMIVAGTLCNKMAPALRKVYDQMPEPRWVISMGSCANGGGYYHYSYSVVRGCDRIVPVDVYVPGCPPTAEALLYGIIQLQNKIRRKPVLEA*
-MLSQYLPVLVFIIVALILGAVMIGAGSLLSKHSPDSAKNSPYECGFGAFESSHIPFDVRFYLVAILFIIFDLETAFFFPWALALRKIGWFGFYAMMLFLGLLVIGFIYEWKRGALEWE*
-MIHVLIAVILIGLVLIQHGKGADIGAAFGSGASNTLFGSQGTGGFLFKLTGGLAITFFITSLMLSYMVSTQNQKAGQLAIPQQTGAPVSSVPVPVEKNNKK*
-VRQKIVAGNWKMNGQIQQVTELVSQIEELIGFDCAAQVAVMPPSIYIPKVRDCLRTGKIVVGAQNVYPKDYGAYTGELSAPMLKDFDCRYVLVGHSERRQFFHEDENFVAQKFHHVKDHGMIPVLCVGETLSERENGKTEQVIAQQVLAVSAKGKDCFRDCVVAYEPVWAIGTGKTATPEQAQKIHQFIRDLVGEINDSDAKHLTLIYGGSVNENNAKALFSMPDIDGGLVGGASLNAKQFVEIVKCIN*
-MNEIILHLMNEISTLTPPINPLNLKQIFSSTLLPEGKAPVEVESQLNLLLLIKKYVDEYSSLAEEQEEYKRKKHKLDEVMKKGEELQRKISDLAKKIEHAKNELNPLYKEIEPKANEVLSKQNPLAPPYKFPEYGEVQKSIVVGHYSYLFKTSKEIETTRAKLKLVLLKNKWNALMADLSQFGIQPPVEEDAVDSLQKFIAAVELEIKKLTRACEKWDELQKRFAKQLSATDINKKETELEKQIELLLKDLGRIETVVTNHSLAPDLKAELTRKFQESEDTQGLIQEYQNQIDGLLSNFNPSSWLSWYSDSNYSDNQQKLKNSVSFLQLLAQQKELKIKHHELVKQQELLIKAIPETPSNEEDISIYKKLVPDAIDLINEIPIESIPNFVLPSGLSYDSSPADFYLVLLILMPKVSEKKEQFSQALEKLQEMPALGKQIQQLRSGYDLPITMDVQLPSLQEAEESKDSLNEEDPLKEELKSQIKLCQSYLETAKQIDLLMKDHGQTTNEAKALIEQLRLISNQPLKNEDINSIKEDLSTLANQIQSLVSELNQLPLPNLSGEKIDPPLEKQEIAVDKTIPLTVELMHPAQVIQIGNDSPIEKQQLDNEEETPVVLESLRPRPVIHKESESITQKLQVDNGQEMPVVLDSTCTPQAIHKELESTTEKLQVDNGHEIPVVLESTRSPQIIHTESESVGKKQHVEVEQEIPVTLELIRPSSMVEKDSVATVEKQQVTERQETPIVLESTRLSPMVQKDTGLSGEKQHKEIEQEISVVTELTPHTQVVRQGSESSLEQQVPNGQETLAVVKSSPSEPLRPSTPEVPAISRKPNGLSLFNGHDELSEDNILAFFDEAGNQISISSEEDSETFTVDRGKVISSGIDKAFKEKPVSTGHELDKLSNPQHQESAPSISPLPPSSILLKQKLDSFHVQNMEYIKQHSEEIQLWYKGLYDAAQSSCVNEALGLKALHLLKDILFELKNQNDLSVLLAYKRMCPNPLQDIQNILRLKPALPIVDESIDEEQQLKNWPEELQKFHQQYVKLKKEHPLEAELFIQAIHSLISIKHLMELPDAKTSNREAMPLITQDPRYEPLKRHRGFIRAWEYIEDFFRMLIGKLTGQDEYEYSKRPCFFKTRSHRLLEEVDTILHSMAPTSS*
-MSQRKYFGTDGIRGHVGLSNINPEFVLKLGWAVGCVLANGARKKVVIGKDTRVSGYMLESALEAGLSAAGVDVALLGPMPTPGIAYLTQTLRANAGIVISASHNLFEDNGIKFFSADGGKLPDSVELAIEAQLEKQLQTVPSAKLGKATRINDAAGRYIEFCKSTIPSLSRLSNLKIVVDCANGATYHIAPNVFSELGADVVPIGIKPDGFNINQECGSTAPELLREKVIAVGADIGIGLDGDGDRVILVDSLGNLVDGDQIIYIIAKDRHQRGVLHGGVVGTLMSNYGLELAITSLGVPFQRSKVGDRYVLETLREKDWKIGGETSGHIVCLDKTTTGDGIVAALQVLSIMVKQNKALHELTAGIQLLPQTLVNLKTNNAALLASNPDVIQAVKNLEKHLNGEGRVLLRPSGTEPLLRVMVEGANASIVKQQAQMLCDDISQIDKKMTESLPST*
-VNSEQFLGWLERKSQPPSSLVFEKPLIMGVLNVTSDSFYDGGKYLSVDSACDQALKLIACGADLIDIGGESTKPGAPPVPLDVELSRVLPVIKQLRVLADVCISIDTNKPEVMEAAIDAGANVINDVYALRRDGALNVAAQLDVPVCLMHMKGEPRTMQENPSYPEGIMKELQHFFKERIDKCQKAGLNKNKLILDPGFGFGKRVKDNLKLIYHLNELRSFGLPILLGVSRKSTIGAVLNNEVEQRLIGSITLGIYAALKGTAIIRTHDVDETNQALTMINAIYQAAKEIG*
+('lpg2582', 'MSVEMSKTSSARFPPGQEIKLAKPATELYIGQILKTVVVTTLSNDQVLININGQNLNAKASHHFTPGELFEVKVIANHPETILEVQQKTPLPSLLQNALLQYLPKQAPATNLLQTLTQLMAENNLSAPINQVMKTILGNVPVLTQLPNQLMQAISQSGVFLESKLLKGKIPREIQSDFKGLCFKLLHRLGTDSKLPINLPNELESGFLQQAALPLPGAIPQPLAKDTILNLIGLSTEAVHHILREQVTQALARITTNQINYLSQENQEAYLIMLDFPLKTPDGIDVIPIMIKQHKAEPMQLSKWSISFALNLSHLGSIQATVSIYAKNIDIKVNTQQSSTLQLLNDYHKDLEETLYESGLHLREWKLQVGLEENHIDATNLRLLDIKI')
+('lpg2583', 'MEAASWVGRKSYRCHKPSFIGYKNMKRKKPVAVALRYDGNSPPKVTAKGEGLFAQQIINTAKEHGIPLEQNPELTALLSQVRLNEEIPKALYIAVAQILAFLYYINGKHSKE')
+('lpg2584', 'MPRITENIETYVTHLLSDLEPVPSQNQHLAYGYPGERQVFKDPMLDGKQVVVVNSQYDKHGRPVTGQPDVIQEANNYIDNLVAAAKSLIDKDKKGEKDLRKNAIDEMAKTFKKSISETIPSDKAKADLFSSKKSSANKDFLEQLAKVEGSLQQFTQAVAKASGHKLKALDKEGHNIRSHNRDTLIHRFKAPNSKEGEEQFIMYIPCGRYTKRQQRLMGKDESEVNRDHDTTSHKRSDLVLGNSSMARMIAGTRHSDGTVTIHHDSFSGPGARMPYSDFKGADDYKKLAIKAVTLINQEEVIQTLAQRQIDRMTNEDLWNKIPEEYRPDELPPDAEKARAQLIKLYVEHNPLSVTECYTQVVTAGQRVAAENQKEQFEYVRQMMDAFDGSKAKITIQTGSNTEVETAVGYQARMSSWGVNWFRQVGALNPLSDNSVTKNQNARFVNQMTDDVIRNLDKVAQNLGDYDKAGALHTLLKGPDVSDLNQQITEKENALKEVKGAYREALFSYFEEYQKGEGKWDQAKLDQLKNQVDGYEKSIKKQESAIYELHNQIDALRKAYYTEHKGQINKALQELKEQISPVIQNKETDPETKSRLQHFYNSCAYLTQAQELYYENTWHHGKNNFKLQTLMASLSCELDYANTKGCKSNNDRGQRLAQKIVGNALWTAMSEDGLYTGEFLDHRRTHGKEVSNVEQLDRELTTIQALHHTANTGVSGGKFEIQDKANFADNGLFGKVANFAKIKEMGPENAFTKNMGTKIKAGLGLGLLAAGGFVALTLLFPPAGLAVAALGIGVAAGAAIVAGVTFAATYLFGTAIDAINNKIEEGKIKSIVREGMKAASENSPQHKTEQKDHLTVNAKLHQQLGVTRESVLERQSTPKQEFEKPKDMTSKVDLTAAMEDDNRSESTPTPVNF')
+('lpg2585', 'MKEISALFFLYLISTASFSLPKGFVYLHDVAPDIIEDIRYATHNNFIGNPIPGYKRGVCIVTRQTAQQLKKAEEYIKPKGYTLKVYDCYRPQRAVDYFYKWSRNAKDHRMKPEFYPREIKQDLFDRGYIALTSGHTRGSTLDLTLVKLTASREKKSNHPLTRCYDKTPNYLNDDSIDTGTRFDCLDVSANIDYSKLSKNQKANRELLQKLMKRFGFRPYYYEWWHFTLKNEPYPDTYFNFPVE')
+('lpg2586', 'MRVSKLLFLTLALSGNLFAQDIKVVGTLNQTLKAPQNKTLNTKPAIQQIKLLKMQLSNSAIKALARKTDITLKKPNTITTSTALPSKVELGMNNVPVLNQGSFGTCVTFATTAAIDAALNKGDYISQLCQLQLGLYLEKNGHSPSGWDGSLGRIVLSQMENFGIVSKEKQKNLGCGGLTEYPDNEQPTPDHAMSLEQFHEMSEDPETNPVIYTPILDVYQAVLDRTDTNKTINDIKTALNQKDRVTFAVLLLDFDLGVMGAVGTNKTQFDTWVLTPEIARDIYLRPFFGGHEMIITGYDDNAVAVDDNGREHKGLFTLRNSWGEQFGDKGNFYMSYDYFKVLTIEAQRIRALADNESEEESMTA')
+('lpg2587', 'MAQKPTKITHLVVLGDSLSDRGTLNKRELLGFIPMSYLSGLRSKSPKGRFTNGFLWGDYVGATTAEQFEIEHIRRKLRLHNNARDNADIGDELLINDKARRENENSFSLNEDNHILFKGERFARFYCEGGLTSHDYSCSFTFNLVLFFTRLILATLGGKRTQLLADDKKYNISNLEKSETLVVEWSGANDLITANDKPSRAAAEKAVNDRIQNIEALIHNGYRNFVLFNLPNLSLTPRFQRKNAEEQRNASDCTEYFNQQLQTKSLELIKKYKELGIPVNLSVFDVNEQFKEVYSNPEQYGFDRDKLKSPYVESDLFKENQKNPVDQKEHISPAKGYMFWDDVHPTATMHDWLAERFKEKYYDKVFRFEPPLQAKHRHKETADALAKTTDSMVKTDKPVKKLPENIVLMLNAIHSRAQLMCQSTDDQRREKGELLKHFIFEIKCQHGNLENIYGLISAFTLNPDHSKIIKTHQNPIIDFFRNKATTRSEDDIAALQKAVAAYLQPEDNKEHLVKLT')
+('lpg2588', 'MNFSIRVILLLTGFVSLAFSAPKFLTISDIHYGAENIAKDGQDTGKEFLDVTFKRFEELSQNVDFILHLGDLPTHSLFSIPKKEEYEQVVFHGLHEANPGQKPMFYITGNNDSLLGNYQPFSSDNKSPLNLALDWDGACAYCDGLIIDDTHMRKDGYYSSYVIPNNKEIILIALNSVQWTKTPVFLPKYPNQQRDAFVQLFWLEQQLKNHRAKQLLLAMHVPPGTAYNGNRFWHDIYLDRFLTLLDKYHQSYDQITILFSHSHMEEFRKIRLSDGSTIYAFSTPGISRAHHNNPGMKIFDLDKQMRVRNSTTYYTSDLYEWGNEYYQAMNTPDAIFPNCQNKTIPQCLDTLSPEQVCNNLEVGLFYGVKSTRVPYQGCIKTYQIN')
+('lpg2589', 'MKRTLTGAFMWAVWSLSSHAASMQFEVDKLINRLNPHVNLGIVVTDLTSGETLYKRNANRLYIPASNMKLFSEAAALMALGPDYQFKNQLSTSANQLQQGVLHGNLYLHLSGDPSFSREDLKTLLSSLKDWNITTIQGNVIIDSSLMSIPAYPPGWLTSDLSYSYGAPIAPLMVDSNRLTITVNPGAKAGAPAIVEVDDGGGTINLNNQATTKASEKGCGVGFYLDPENNLTVRGCVGLGQWAVQQRIAIKNPFVYAQGMIVSELAKSNIKLNGQVLLGRAPAGTLLIATRYSKPISQLMADTLKPSDNLYADSLYLHAAAKIKGSPVDWKQAQPVIKNFLQQQTGIDLKDSNFTDGSGLSRYNLVTPAQTMALLKFLYQRFPLSYEYIAALPISGRDGTLQKRFKTPNQQGFVRAKTGTMTGMNSLSGYLYTANGHTLAFAMYINRLPGKPAGPGRPLLDALCTYFLQQSPTSSRLARVLSPHSRIKFQFNPTQIELQRVHQAKWRRLETAVRQVLRGQDVNVVYRGNELIVTDNQSNANSVWKALQSIGKKYSFAVALSSKVMPVTPSGKPLLLWVQAPLSENKAERTWIIREAV')
+('lpg2590', 'MQTRFTYLPVTSLQAGQYQPRQDFNVTELQELAQSISSQGLIEPLVVRPIAKERYEIIAGERRWRAAKLAGLNEVPCLIGDYSDQQACALTLIENIQRQDLNLIEEATGYKRLIEEFHYHQDEIAALVGKSRSHVANILRLLTLTDKVKQLVRDKVLSFGHARVLVGLNPEQQEMFAQQIIGEEWSVRHLEQEIKSYKNKDINSPKNPRKDRDIERLQTILAEQVGAPVQIVNDGEDGGWLKVKFFDNDTLAGLLERLGLRYD')
+('lpg2591', 'MAAQLDPSSEFAALVKQLQREPDNPGLKQAVVKRLPEMQLLAKTNSLALFRLAQVYSPSSSQHKQMILQSAAQGCTNAMLSACEILLKSGAANDLITAAHYMRLIQSSKDSYIIGLGKKLLEKYPDFAEELKSKEVPYQSTLRFFGVQSESNKENEEKIINRPTV')
+('lpg2592', 'MIIDWPVIIVLFCLSIPGVLIVMHRLVYFLLADNTERLKKRFSRFVVLQTLFMTFVMSFAGSILSSRTGLGDPLLEGLLQGKASLDSFQVILLPTFLYALLGLVIFCILYYGLFGSILDEKSFKIMSELRSKIGLDGCVLYGGVVEEVIARWGLMNVVCFFALLFTSQINSEIIIISIFLSAFIFAVGQLPAYIAAGCTPSRRFLYSFVLLSLSQSILFGFLFWQYGLTSAILAHMLFHLGWDRYEKLF')
+('lpg2593', 'MKVNDRFNALKILTALIESRKNLSYLMSPQEISPMTKEICYGFCRHYFRLQSIADTLINKRPKDNELWIVLLIGIYQLQYMNKPDYAVVKETVSLLGQVKKSWAKGLVNAVLRNFCRRKDHILEKLAAEPVFIYGQPNWLLQRLQKDWPNDWQFIAAANDRHPPMTLRVNVLKHSVDEYLDLLKKSGIEAFKHPVAPDGITLAIPCDVMTLPGFAQGSVSVQDAAPQLAAYLLSLKPGQRVLDACCAPGGKTCHILEKEPGLASCVALDLDPQRLQRVRDNLNRLDLQATVVQGDVLEPRSWWDGHPFDRILLDAPCSATGVIRRHSDIKLLRTDEEISAISQVQSSMLNSLWPLLAPGGLMVYATCSIMSDENELQIAQFVAEHSDCQVSDGKWSWGRWTGHGQQILPGEHSMDGFFYSVLRKDEK')
+('lpg2594', 'MNGLTVVFAGTPEFGLPCLDALIQSRHHLKAVYTQPDRPAGRGRKLQESPVKEWAINHQIPVYQPLNFKNQEAVDELSALKPDVMVVIAYGLILPKAVLEIPRLGCINVHASLLPRWRGASPIQHAILHGDAESGVTIMQMDVGLDTGPMLCKAACPVTSSDTAGSLHDKLAKMSVKPLLDVLEALASNSAQFELQNNELATYAGKINKEEARINWHQSAVEIDRKIRAFNPWPVAYTLAGELMLRIHQAKATDIMSTEMPGMILNIDKNGMLVATSDNALLVEKIQFPGAKIISVRDWLNSGKTQLHTGLMLQ')
+('lpg2595', 'MAIRKILYLPDERLRKIAKPVETFDESLQTLINDMFDTMYDARGVGLAAPQIGVSLRLSVIDIVGDKKEQIVIVNPEIVSSHGEKEFEEGCLSVPGAYDTVVRAEKVTVKALDRFGKPFEITGEGLLAECLQHEIDHMNGKLFVDMLSPLKRMMARRKLDKFKRLQARKP')
+('lpg2596', 'MRYCLLIFCFIISSITHALSLRPDSPSRYVVQPGDTLWSISSRFLNNPWEWKALWRANPQIKNPDRLYPGAVLALEYYQNIPYLRVLSNGTIKLSPNIRVTPQEDAVPPIPLGDIKPFLDESLILDVNVLNRAPYVVALMSERMLGGQGDEIYVRGLHPSKEMPQGGTIGYSIFRGGRNYFDPITHELLGYKAVLVGYGELVAGGEPATVLLTSINQGIKINDKVLINNHPEFELYFEPETPARQVRGYIIEMPDNMPVGNTQEAVGGVIIINLGETSGIKPGDVLAIYGKERIVNDPQNHLRPITLPQERLGEAMVFRVFTKASYALIVRSTRAIHLLDTVTNP')
+('lpg2597', 'MNNLQPLLALNRMKKIGPRTVLKLQKRWPDLNLMFQLSNVDLEEAGLPSWLAQTIKNFDPGFIKTDLNWLSSSENHHILTWDSPYYPALLKEIADPPFILYAKGELSAMTQPNLAIVGSRNASVTGNENARAFSREISRHGVSIVSGLALGIDAHAHLGCLEGGGKTIAVLGTGIDCIYPRRHLKLAEQITENGLLLSEFPLKSPPIAGHFPLRNRIISGLSLCILVIEAAIKSGSLITARMALEQNRDVLAIPGSIHNPLARGCHYLLQQGAKLVTSVADVLDELKIEHHQFTSNKPIFSLASGKENLVKFIGFETTTIDQIIDRSGYGMEQVTSGLAELELKGAVMAVPGGYIRCEYER')
+('lpg2598', 'MLLNLFEKSLTQLQKSHKSNDQDSQSQLLEEDLLSAEEQSLFIKSAQEKSTRIFTYDEQMKLTKASYQFLMRMKLWNILDIDQFESIVNQLQFSESRIVTLQETKWTIRNALASSLNEEQLTFLDLVLYQTEDELTIH')
+('lpg2599', 'MSKHLVIVESPAKAKTIQKYLGNDYDVLASYGHVRDLPARKGSVNPEKHFSMTYVPIEKNARHIDTIAKTLKKSDSLLLATDPDREGEAISWHIFELMKERNLLKDKSVHRIFFNEITKAAIQDAINHPRSISMDLVNAQQARRALDYLVGFNLSPLLWKKIRRGLSAGRVQSPALRLIVEREEEIERFIAQEYWKIIAKCAHASTEFEARLTHYNEEKLQQFSVTQQEQAHEIKKQLIAQAQGFLTVAQIDKKQRKRKPSPPFITSTLQQEAARKLGFTARKTMMVAQQLYEGIDIGTGTVGLITYMRTDSVNLAKEAIDEIRDYITQRYKGDNCPNSPRIYKTKSKNAQEAHEAIRPTSIKRTPEMVQGSLTSDQLKLYSLIWKRTVASQMADAILDTVSVDFSCGKGNTFRANGSTIAFPGFLSVYEEGRDDSKDEDNEDKILPAFNVGEKIKVSDIETNQHFTEPPPRYSEATLVKALEEYDIGRPSTYASIIHTLQQREYVVVEKKRFLPTDVGRIVNRFLTNYFTRYVDYQFTAGLEDTLDAIARGEKDWIPVLEEFWQPFVQQIQNIDEQVQRKDVTTELLDEKCPKCQKPLSIRLGKRGRFIGCTGYPDCDYTQDISNPEGEKSEPEVVEGRSCPLCHGALHIKTGRYGKFIGCSNYPECKHMEPLEKPSDTGVTCPKCSQAKILQRKSRKGKIFYSCGNYPKCDYALWNEPLDLPCPKCAWPILTLKESKKFGRQILCPREGCDYSAKED')
+('lpg2600', 'MNYRSDIDGLRAIAILFVLFFHGGLTLFPSGFIGVDVFFVISGFLITSIIEKSLQNNRFSFMDFYSRRLWRLQPVFICLIVVTTLVTLFYYLPDDLMLFSKSARKTSIFTSNVFFKNVTSDYFSPDSNQLPLLHMWSLSVEWQCYFILPVGIYLLYRLVGPQHRIKITYLLTITFFALSMYYSWSNPAKTYYQFSSRIFEFLIGSCVASASGSKRFLANKYVLNFITVLAVLTLFYIAMHHDINIGFPNWYTLILCLATAILIAAGQQEPQPIVTYALSLRPLVFIGLISYSLYIWHWPVLALIRYLNIEESNLVLLVTFGLISIIAYLSWRFIEKPARKLHRIRFSYTVVCLLIMPVFVTHLSDYLIKKNAGYPYRFNEAIQVYAELNKYKNPQRPLCLERKNTEVNPQCVLGAKNSDSRTGFMIGDSYSNQHWGFMDTLAKEANVSILAHATVACLALPDIYQFDWNVKNKIYQECHDQTNRYFNMIKTNHYDYVILGQNWNGYFGDRIINQLNDNRSQELSLKRIEKALDKALELITTSGAKPVLIKSIALSKGNPYNCFFEHIKLHKKYNPERCDFNLDVSEQIWFDNLFAKMQRKYKTLVIIDPRVAQCPSGMCKVDINGIPVFRDSGHITDYASYHLAKLYLEKNNNPLVS')
+('lpg2601', 'MAENTTESNVIYFTRLHWIIFFGPFVGLGLVMAIYIYIIQLREVSLFLGFFALIWILITWVTYHFSSITIKRKQVILRTGIIVRQTVDIPLNKIETIDIRQSILGSILSYGTLIITGTGGTRYLINYLYKPLTCRRYIEQLMNEPH')
+('lpg2602', 'MKSISQCLNKQLSTICQHSMQLEELSLKISAFLPSHFISKCQVGSFNKGCLVLTTTNAAFASEIRYLLPELRDKLRKEAGLYQLSSIKITIIAPSSQIENPAQKKSLTLSEKAKATIISESQHCTYEPLKKALLHLAQSE')
+('lpg2603', 'MYSDFFFTIMLKYSTNMLELAMPKINKIVNGTDLTPHYLSEPNKEFKIYRYNNEVYAVRFENDEPMDYVLMWKSHKSEHTQNSEMIKNTEEDYKELGKGEQGTVYEKTEDKAMKVSRGRHPREFYEEINLHIIEQQFFLKYHGIQEHFVLGLWNIKNEENVYFYMPKINAIPINKKIDQPKIEEFVLALKELNDAGYWHPDLANNPYHISPQNLIATEEMVKTIDLDGGFRYDKGRVDELSRKSLVYGKDQWLYVYNFIYPPTDEEDHRIDWRVPIEKWYENNRDESLSDNPHTLLRFYHEGLISLPKKLAHDLHETILEELSQDKKFKKHSHEVGVNRFFSPKKQEIYEGLKGDGLKKVILKELRDSLAEIRTMEQLEEKKLEFLASPEMQILAEGQDKTTKALNLKTSSRKKVMVIFKEAEERILNSPNVSI')
+('lpg2604', 'MIMLKQIVLTGLVIIGIVITLMYLFQRHLIYFPNRHTPKLEDYNASDMKVVSLRTKDNLHLKSWYKPASKHRPTILYLHGNAGHIGYRMPLVREFIDAGLGVFLLEYRGYGGNPGKPGEKGLYEDGETAIEFLIQHGVPSKRVILYGESIGTGVATHLATKYPVCAVILQSPFTSLTRLAQYHYPLNFLKPWDQYNSLARMKKINAPILVLHGKLDQIVPYQEGLNVFNEANEPKKMVSFDDKEHNDLWSADNFSREIIQFALNQCS')
+('lpg2605', 'MSFSLSELLHYKNEKIVTHFCYSHPEYSIQEGLFLFEDLLAWMWLNKQRRLRGKKTYLFGPLLILDEMWHSFILHTRDYIDFSMKYFGEYFHHDVEPVGFEHVLDEEELADYLQDCFQYLNKEWVERRFSIAFAEMDD')
+('lpg2606', 'MREAVMCRFVAYLGRPTLLENVLVRPKNSIIMQSLHARETKYRTNGDGFGLGWYSPEVSSDPALFTSVYPAWNDRNLLHLTAKIQSPCFFAHVRSASAGGVTNYNCHPFIYGDWMLMHNGEINDFIDVKRHIRHLLDDDIYHWVKGQTDSEHLFGLFLQLAKGRDITQLSVAADVLQETINKILEVIGQFGHSGPSYFNICLTNGKKIIATRYCSHEKKKPLTLHYLIGYVLSTQGLWIKEEGNPAYVVVSSERLNDLDEGWEDVPPQHMILIDENKNIQLRPLQTLG')
+('lpg2607', 'MKFKIATCIVTMLSSFIVFSSNSNFSDNNTNDLLHLDWRDTSVSPAVDFYTYANGNWKKNNPIPADYASWGSFYVVNEKVQNIIHQMLINASKNTHAKPGSIEQKVGDFYFSGMDVDSIDKSGITPLKPEFTKIEEIKNLKDLQAEIAHLHKIGVGPLFNFGSMQDFKDSTSMIGAVMQGGLGLPDRDYYLKKEAKFKQVREAYVNHLTKMFGLLGDSPEMAAKEAKIVMDIETQLAKASMSQVEQRDPHAIYHMMTITELDKLTPNFSWSQYLSARGQGKIKKINFAMPDFFKAMNELLQSVSLDEWKIYLRWHLIDAFAPYLSKPFVDQNFKMVSALTGTQKLLPRWKRVVNTENGALGFAIGELYVEKYFSPESKQKVLDILKNIRAVLQEDIKTLSWMSPKTRDAALKKLDLMEERVGYPTKWWDYSSLKIDRGPYVLNVIRANEFLINRDLDKIGKPVDRSEWAMTPQTINAYYDPSMNNLNIPAGILQSPFFDPKAPTAINYGAIGYVIGHEMTHGFDDQGAQFDGYGNLKNWWAPNDLSKFKNATQCIADQFSKYVVDGDLHVQGQLVVGEATADLGGMILAYKAFQRSKEYKNAKTIEGITPDQQFFLGTAHVWAMNVRPEQLRNQVTTDPHPPAVYRVNGSLANMPQFQEAFNIPNGSPMISKNRCIIW')
+('lpg2608', 'MIKQRTPKKVIQATGVGLHSGEKVLLTLRPAPVNTGIVFRRVDLSPVVEIPASYEYVGDTMLCTTLHHGKVKIATVEHLLSALAGLGIDNAYIDVNAPEIPIMDGSAAPFVFLIQSAGIREQNAAKRYIRILKPIRVEENGKYVQFLPHKGYKITFTIGFEHPVFNDRPQTVSFDFSGTSYVKEVCRARTFGFLSDYEKLRECDLAKGGSLDNAIVVDDYRVLNEDGLRFESEFVTHKVLDAIGDLYLLGSSLIGAFEGYKSGHELNNRLLRELMVRQDAWEYTYFDTENYLPAVHPEYYPVEA')
+('lpg2609', 'MFELMESSQQENNAVIKVVGVGGGGGNAVEHMVAENIDGVEFICANTDAQALRGSSAKIHIQLGDALTKGLGAGANPQIGREAAEEDREHIKEILSGADMVFITAGMGGGTGTGAAPVFAEIAKELGILTVAVVTKPFSFEGKQRALAAEEGIRRLAEHVDSLITIPNNKLLSVLGKNISLLNAFKAANNVLLGAVKGISDLITRPGLINVDFADVRTVMSEMGMAMMGTGSAVGEQRARQAAEAAIASPLLEDVNFSGARGILVNITAGLDMSIGEFEEVGDVVKEFISDDATVVVGTVIDPEMTDEMRVTVIVTGLGDNRQRQQQPQQPLRARLVETTRSDGSLDYQQLERPAVIRKQAQTGTATTATKQTNNGNESVPDVDYLDIPAFLRRQEEA')
+('lpg2610', 'METTNGTIMAKKIEKNIITGLDIGTSKIIALIGEVTSDGTIEIIGIGRHPSRGLKRGVVVDIETTVNSIQRAVQEAELMAGCEVRTVYAGIAGSHIRSLNSHGIVAIRDQEVSQADVERVIDAAKAVAIPADQKILHILPQEFIIDHQGSIREPIGMAGVRLESRVHIVTGSVSAAQNIVKCVRRCGLDVIDIILEQLASSHAVLTEDEKELGVCLIDIGGGTTDIAIFCEGAIQHTSVIPIAGDQVTNDIAMALRTPTKAAEAIKVNHACALPELANPNQMLEVTSVNDRPGRKISAKALADVVSARYEELFSLVRNELRRSGFEDRLAAGIVLTGGASNVRGAIELAELCFEMPVRKGCAHYVSGLTEATENPSFATGVGLLLHGFQQQYESGYNVPAMNDNGKSIWSRMKEWFQGNF')
+('lpg2611', 'MEVNSVGLRYLTIMGLLILSALLLAGRLGYLYLADAERFPITTIKVAATYEHITHKELENVLAKYLDASFFLLSVKGLQSELNSMSWIDTAYVERVWPDTLKIKLTEKKPVAIWGDALMTRDGKLFNQGSVPSDLDIPKLKGPQSQQLEVLQVYEKLSKILSSYGLNASGLYLRDNQSWVLLLNHSVKIYLGKKELEERLLRFCKAYPAVFAEKADQLAGVDLRYPRGMAVQWKQQMGR')
+('lpg2612', 'METLMSKPVNLVLLYGGKSGEHEVSLVSAASVLKHLDSEKYHIIPIAMDKSGRFHRHDYNDLLACSDKLPVVTEKSTPLEGLLINGRLAVDAKIVFPVVHGPLYEDGCLQGLLELAGVAYVGCDVLSSAIGMDKDMARRLACINGLKSARYKLLSWHANASERQQFCHEVASEFGWPLFVKPCSLGSSVGIHKANNMDELNAAVADALRYDEEILVEEFIVGREIELAVLENSIPCGKPRVSMVGEIKVNHPDGYYSYTAKYLESSQTDLIIPAQLNNSLEEQLKQAAANIFSYLKCKGMARVDFFVNDKTEEIYFNEINTLPGFTSISMYPKLWQATGIAYPDLLDELINLAMVHHNCRQHLVTNYL')
+('lpg2613', 'MRMNMSITGMDSSHVTESQGTLLFNEPLAEYTTWRVGGPAARLYKPANIDDLALFLSRLPFDEPLLWLGLGSNSLIRDGGFSGTVILTQGCLKEMTLLSDNCIRVEAGVSCASMARFSARNNLSGGEFWAGIPGTMGGALRMNAGCHGGETWQSVIEVQTINRRGEIRTRKPEEFEVAYRHVAGLGDEWFISAKLQLSPGNKETSLQLIKDLLAHRAKTQPTNEYNCGSVFRNPPGDFAARLIESCGLKGVSIGGAVVSEKHANFIINHQGTATAANIEALIHLVQTKVREQTSIELIREVHIIGDANVQTR')
+('lpg2614', 'MNNSEQFLSPRMGRVEQIHFVGIGGAGMCGIAEVLHNQGYRITGSDLGESGTVQRLRSLGIQVYIGHRLENIKGADVVVRSSAVDFNNPEIVAARELMIPVIPRAAMLAELMRFRHGIAIAGTHGKTTTTSLVSSLLAEGGLDPSFVIGGKLNSCGANAQLGKSAYFVVEADESDASFLFLKPMMAVVTNIDADHMDTYEGDFEKLRTTFLEFLHHLPFYGLAVVCLEDEEICRILPAIQRPTLTYGFKEEAHYRAINWTQKGMLSEFVVVRPAPHKQLTIQFQYPGRHNVLNALASIAIATELGVDDDSIVRGLQKFQGVGRRFQMLGEKQFEKGAAIIVDDYGHHPQEILSTIDAFRRVWPERRLVHVFQPHRYTRTQSLHRQFVDVLSLSDELLLMDIYAAGETAIPGVTSENLANEIRSRDKRVTIVSEQSLKATLDEFIKDGDVILMQGAGSIGQIAVNLMKNM')
+('lpg2615', 'MNTMRPRHLNQRGKPVSRPISLYDKWLIGAVFGLLIIGLMMVASSSVMISTKYFHQPFHFLIRQACYLFVGLLLALIVVRTDSSFWEKISMPMMIGCVFLLLIVLIPGIGKSVNGSRRWLALGPIGVQVSELTKLAMIFYLSGYLVRQQEAVCESIFGFIKPMAILAVVSVLLLLEPDFGATVVISGTVMAMLFLAGVKLRYYFGLMLVVVTALALLAVSSPYRVARLTAFLDPWADQYNSGYQLTQSLIAFGRGGWFGTGLGESIQKLLYLPEAHTDFLFAVIAEELGLFGILVVITLYSILVIRGLNIGYTAYTQERHFASYTAYGLTIWLALQASINMGVNAGLLPTKGLTLPLLSYGGASMVINCIVIALLLRIDHENRWQSLGLRPLTA')
+('lpg2616', 'MNHSLYLVAGLGKTGLSIARYLKRNNKSFVVFDTRKEAPGLAEFQNEFPDVPIYLQQTPDEVISQVTDVITSPGLALDTPVLERARQAGASIYGDIECLAREISAPVIAITGTNGKSTVTTLVGEMAKAAGFRVAVAGNIGTPVLDMLDDEHHYDLWVLELSSFQLDLTYSLSPVVATILNVTPDHLDRHHTMEAYTQAKQRIYRGAKAVLFNREDVYTVPHQSCQADIKCISFGKDAPSMGNWGLIEQENTTYLAKGMERLLPVESILIKGVHNWMNALAACALAEAAGISMQHILNVLKTFPGLPHRCQWVREVDGVGWINDSKGTNIGATISAINGIGGSMQGKIVLIAGGQGKGADFQELAQPVSEFVRSIVLIGEDADKIESALAKVVPVVRASSLEGAVTIAKTCAKPGDVVLLSPACASLDMFRDFNHRGDVFTSSVRGL')
+('lpg2617', 'MSIILRTRGIIMLYWLTQLLQGQYHAFRVFQYLTFRSILASLTALIVGLLCGPLMIRWLRGLQIGQMVRSDGPQTHLSKAGTPTMGGVLILLAITVSCLLWCDLRQTSLWLVLLVTLANGLVGWVDDYRKLVLKNSKGLPGRWKYFWQSVIALVAVSYLYWNASLPVHTQLTVPFFKTVTWDLGVFFPVLAYFVIVGSSNAVNLTDGLDGLAIMPIVMVAGALGVFAYASSNAVYSNYLGIPYVPNTGELTIFCSSIVGAGLGFLWYNSYPAQVFMGDVGSLALGAALGIVAVVVRQELVLLIMGGLFVIETLSVILQVGYFKYSGGKRLFRMAPLHHHFELKGWSEPKVIVRFWIITVVFVLCGLATLKLR')
+('lpg2618', 'MSLSVSTLVFSTSQNTMNLITIASLLSQSCQINADITGVSIDTRTLKPGNLFFAIVGERFDGHDFIKEAEAKGASAAVVNRSIDGVHIPQFVVASPLMALAKIAAAHRQEMSCPIIALTGSNGKTTVKEMIATILPQPSHATKGNLNNHIGVPLSMLALNKQHRYAVFELGANHPGEIAHTVGIVQPDVSLINNIAPAHVEGFGSIDGVARSKGEIHQGLSPTGVAIVNDDDAYAHFWDDLIADKKILRFSSLHPADIYAQDIRLDTHGRAHFTLVLPNSRVEIELQVPGLHNVRNALAAAACCYAVGISGNDIQRGLAHFGGVKGRMTMLSGQNQSTVIDDTYNANLRSVLTALEVLSGRPGRKIFVFGDMGELGEWTTQHHREVGVAARQLGIDKLMSCGLHSELASQAFGEGGQHFCSQEELIEVVKNDLTPDTTVLVKGSRSSAMENVVHRLVQVEG')
+('lpg2619', 'MQANWSLILNVLLLIGVLVAIGRLMKTRRQSLNQEHYQPSLGQVENNSYGSQSYNDEIIAVRKVNREVPLDFENFDGSEKRQAIRKPSVKTEQPQLIPEEEECELNERTEPNSDCSSSTAMVFLLAKENRQFAGYELLQTVLAAGLRFGERHLFHRHQFTNGQGPVLCSLAAATATGVFDLQNIGAFSVRGLCLFMQISNNPEINAERFSVMLDTAKQLSEGLDAYLLDDQRKPLTEERIARYHRYLKIEHLMDDCVTN')
+('lpg2620', 'MHLKQLKLAGFKSFVDPTTVHFPSRLVAVVGPNGCGKSNIIDAVRWVMGESSAKNLRGESMTDIIFNGSSNRKPVGQASVELVFDNSLGRLTGPFASYGEIAVKRIVTRDGESFYYLNGARCRRKDITDIFLGTGAGARSYSIIGQGTVSRLIEAKPEELRVYLEEAAGVSKYKERRRETLQRIEQTRDNLTRVADIREELGKYLQRLERQAKAAERYTILKEEEKICRAEIQALKWQEYSEKQTVKQRELQELAIRNEQQQSLLTSCYKERAVLNEQLQDAIDQSQSIQDSLYHSGTDIARLEEAIQQQEREKKRLENDRQQMQVDSQLIEEQLKLDNEELHNCKLKAQQLEEHLHHLKMEFKEQESLWQEKQKEQSQWEKIWQEVQINSNTIKNEYQLTQAKLQHLEQKRHQVLVRLEKLNLEQSAISLDDLQKNKIELQEKHFQLKETQEFDEEQLRQANETQSDLQNQLQNTEQQLHTLQDEFHRLNTELAALKAAQIAAKKENRPNKDGIAEWSDKPRLMDVLKVEPQWQSSCEIVLGDDLIAYVLDDFAELWSRWQFCEDHKENVVTMRALNGEKQERPRLADKIQGLVPSTVNHLEHIYAADSLEEAKTWFPDLLAHESIVTVNGIWLGKGWIKLPRQKEQDEVGVLARQQRIIELNLSVESLQQKIESIRLARDSYQARLQENLNFIKLHQLNLNTSNEALRNHIIAVNSQEQAIFHAEKQKDAITNEIIELESSLEELNAEQLEMADKIRELEGQYQASELQFKRFINEKDTWNSVLVEQNKQVESVRALLHQSELEYDREVTKIQQITDRISREKERLQRAQMRLEELTQHYLQSVAPEAEFKNQLAALLIKHGEIELMLTLSREKVSQLKLQLEDQEKLILNYDQEVKRIQELMNQIQMEKQALSVRASSIQETLDEANLQAQSLLERIPSGVTQSIKEDELIAILEKIKRLGAINLAAIEEFAAEQQRKVFLDEQYNDLSQALSTLETAIEKMDNETKSRLENTFDEVNTSFKALFPRLFGGGRAQLELTCDNLLEAGIVVMAQPPGKRNSSIHLLSGGEKAMTAVALVFAIFQLNPSPFCMLDEVDAPLDDLNVSRFCDLVKEMSQFIQFLFITHNKVTMELAEHLVGVTMREPGVSRLVAVDVKQALTME')
+('lpg2621', 'MKQQFYKLPQILISLCLLLILSTPIQAEPPNLSLIRKEIKNYYDSGLYYHELERTIKLAQEYIHQQYLINKNNKHPQKLAIVLDIDETSLSNYDKMVKRDFTGSKEQIHKEILAANSPAIKPMLTLYKNALKQGIKVFFVTGRQESERDATRANLIKAGYTKWAGLYLRPNGYSSPSIIPFKSKAREMIAKKGYTIIASIGDQCSDIQGGYTKKGFKLPNPFYYLP')
+('lpg2622', 'MSKLINLAVLSFSSSLAFAGPLTLKGEVDVHITPKNPSGVAQSLTFKLPKYELSTEAKSYLREQLSEYPKNSINTASFSSELPRKVKLGMQLTPVLDQGYHGSCVTFAVTAAIDAALGAGDYISQLCNLELGSYLAIHDKAKASGWNGSFGYWVLQQISEYGIISQNYQKLNGCAGVREYPLEDENNEGKPMSDSEFLAHSVPVSNLISWEALLKDEESFSAKADMNQIVYQIKEELAKGNRLTIGMLLDVFVGDAGAVGTNRAYNDTWMLTPEIVLDAMNGMIYAGHELVITGYDDDLEVMDEEGHVNKGVFTLRNSWSKFAGDQGDYYVTYDYVKFLAMEVMAIRMKEKAA')
+('lpg2623', 'MRTLLSCFLITLLSFGLIINEASAKRFGGGRSFGVQRSQSSLFSSNKTHNTSSLTQKANKSRWGGVLGGLLVGGLLASLFMGNGLANGLITWLILGSVIFFIISFLRRKMNPGFQATQSGAFRQNSFEQFTQNYGNRNSGGAHFAQQETSFDADNFLRDAKITFIRLQAAYDQKNLQDLQTFTVPEVFAEIKMQLDERGDAPNQTEVISLDAKLLDVSKQSLSMIASVQFTGTIKENGEISNLDEIWHFRQFDNRKEWVVGGIQQEVFQP')
+('lpg2624', 'MSKHPMTVEGAEALKAELHRLKFVDRPRIVEAIATARAHGDLKENAEYHAAREQQSFNEGRIQELEAKLSHAQIIDISKLPNNGKVIFGSTVTICHVATGSELTYKIVGEDEADIKLNKISYSSPIARALIGKELDDAVTVETPGGMVEYEIIQVQYIVE')
+('lpg2625', 'MPKRTDIKSILILGAGPIVIGQACEFDYSGTQAVRALKEEGYRVILVNSNPATIMTDPELADATYIEPVQWKEVARIIEIERPDALLPTMGGQTALNCALDLVREGVLAKYSVEMIGATREAIDRAEDREKFRQLMIKIGLDMPRSAIAHSLEEAIQVQARLGFPAIIRPSFTMGGSGGGIAYNREEFEEICIRGLELSPTHELLIDESVLGWKEYEMEVVRDKNDNCIIVCTIENFDPMGVHTGDSITVAPAQTLTDKEYQRMRDAAIKVLRAVGVDTGGSNVQFAINPEDGRMLVVEMNPRVSRSSALASKATGFPIAKVAAKLAVGYTLDELKNEITGGKTPASFEPSIDYVVTKVPRFNFDKFPQTPDTLTTQMKSVGEVMAIGSNFQESLQKAIRGLEIGRCGLHSLFQKEDMARLRGHLREPTPDRLWYIADAFRQNLSLEEIHLESRVDPWFLAQIQELVLLERSIIGKTIRDLDKTALHLMKHRGFADAYLAKLLGCTEAEVRARRVELEILPVYKRIDSCAGEFPSDTAYMYSCYEGSCEARPESNKKKIMILGGGPNRIGQGIEFDYCCVHAALSLRSAGYQTIMVNCNPETVSTDFDTSDRLYFEPVTLEDVLSIVAMEQPEGVIVHYGGQTPLKLARDLEANGVKIIGTSSDAIDMAEDRERFQQMVKELKLHQPDNGTVRSEAEAIELANKIGYPLVVRPSYVLGGRAMEIVYQEEDLRYYLSHAVEVSNDSPVLLDKFLNDAIEVDIDAVCDGKDVLIGAIMEHIEQAGIHSGDSACTLPPFSLGVVVQQDLIEQIRKMALKLGVVGLINAQFAIQADDIYVLEVNPRASRTVPFVSKATGLPLAKIAALCKVGISLKDQGLNQNHHTPSFYSIKLPVFPFIKFSGVDSILGPEMKSTGEVMGIAKRFGQAYAKAQLGAGCHIAKRRRAFVSVRDADKTRVGEIAKRLIELGFEIIATRGTALALQAAGVDCRRVFKVAEGRPHVLDFIKNNEIDFIVNTTEGKQAIADSFAIRRNALQHKVSYTTTLSGAEAACLAMKYEDRETVTRLQDLH')
+('lpg2626', 'MNEMDILSLFYDEMTARGVTREQVFLSIEEDAAAMLTQKLGKPVSVEEAQKLTDICIANEWLERTTADPYYKYLSLTEAGLQMLLSTLYK')
+('lpg2627', 'MQEIDVLIIGAGAAGLMCAIEASKRKRKVLVLDHANKAGKKILMSGGGRCNFTNYYIEPNKYFSHNPHFFKSALSRYTQWDFIELVNKHKIPFHEKTLGQLFCDNKSKDIVDMLLKECEQYGVAIYLNTVIEKIQKTNDYSFKIGTTKGKFHCHSLVIATGGLSIPTMGASPFAYKVAEQFAIRVWPTRAGLVPFTLDVLEKDRLSILSGIGIDSLVNNERNQFREHILFTHRGLSGPAILQLSSYWNPGESICINLLPEHNLLESLKTARAEAPHKQLNSVLSMYLPKRVVEVFIPQKLGEKKLADSSNKDLETISHLLQNWVVKPNGTEGYRTAEVTIGGVDCHAISSKTMEANNVPGLYFIGEALDVTGWLGGYNFQWAWSSGWAAGQVV')
+('lpg2628', 'MAFIRHLLEYLLHPFFLCLLALGICIFLLYRRLAPTFTKVMLFVVLIVLLAMSTGWLPSYLTYQLESRYPIVKRVNPNVKWVVVLGGGQNIGEEMPANDLLTSASIKRLIEGVRLFRTLPDAKLLLSGGGSAGEQSEALLLTELAKWFAIDSEKVVVETVSINTADQARELAAIVHDQPFYLVTSAIHMPRSMALCQQQGLHPIAAPTDFTFFWSTDTWVKMVIPNSYNLAYTSIALHEILGKIWALGFR')
+('lpg2629', 'MSRKILDRYIAKTVLSAIGLVTLMLVGLQIFILFVNQIDDLGRADYGIVQAGVFVLLQMPYQVYLFFPIASLLGCLVGLGVLANHSELVVMRAAGISIGQITGAVLKASLIVILLITSLGETIVPVMAHYANEYKVSALTGGQALLTPRGVWVRNGNDFVSIASVTHENTLRYVNQFRFDNQHNLKLARQISEVKYVNNSWIAYDVKQTEFAEDHTKAHHFDTLPWDVPVKPEILKITGTNPDEMTLHELNRYLREQQRNHQNVANYKFAFFQRITQPLNTMVMMILAIPFIFGPLRSSTMGSKLLVGAMVGFGFHILNRFFGPVSTVFQWPPELAAFSPTLIFSLIGIYLMRRVR')
+('lpg2630', 'MSNQFIQYLNRAASGSIPGFVIMKLLMLELPNLMGLLLPLGFYVALLLAYGRLYAESEMTVLRACGYGPRQLLKHSFAMATVVLVVVAIVMIWASPVIAVERIKLIRSTGIKTLIQTIMPGRFHAINSGQQIFYVQSMNRDHSQAEQIFMAKHSVQDNRLLWDVLWADKAFAEVNPQTGEEYIVLQNGKEYQGVPGHADYQIAEFASYKSKLPNPTVVMHDDARTAKTRDLWPLNNHDLKKAAELQWRISIPLMVLTLTLVAVPLSRVSPRSGKYSKLLPAIIIYIFYANFMFVSRDAIATGKIPWWIGMWWVHVAVAILGILFIWRNQVKLA')
+('lpg2631', 'MSFSSGAGKNIMNYGLTHTPSLTTSECLVLGVFSDLALPDFANAIDNEQQGLIKKLCQRVPEPGNTVWQTDVEGHSLLIIQCGKKEEFSANSLQKRVGEITEALIKQRFSSATVCLPRLTQESAEWQIEQMIVQIDNLRYQLLDFKTKNAKSHKLESVIFHLPGATEKSLEMAKAIVTGVEFCRDLANMPANICTPTYLGEQAILLSKQFDQISCQVMGPEEIKEMGMGALLAVAQGSDQPPRLIDVHYHGNKNSAPVILVGKGITFDSGGLSIKPANAMDEMKYDMSGAASVLGVIKACALLKLPINLIGIIASAENLISGSAVKSGDIVTTMSGQTVEIINTDAEGRLVLADALTYAERYNPDFVIDIATLTGAIIVALGNIATGYMTRDEQLAKSIERAANESQDKVWRMPLDEAYQDALESPLADMINAGFDRSAGSITAACFLSRFTEKYRWAHLDIAGTAWISGKKRNATGRPVPLLIQLLRHVANSR')
+('lpg2632', 'MSPIRVDFYLLASSLPESRWLVACRLIEKAYTKGHTIFVFCDNQQQAEYLDELLWTFKDDSFIPHNLQGEGPEPPPPVQIGYQKEPRGFTDILLNLSTNIPIFYTRFKRVIELVSNVEHEKEVSRLHYKEYRHKGCELHTHSIE')
+('lpg2633', 'MFVTFSCDAYENITYFENVAKQLLLLMGHGGTIPGAIKSENVPDALHHLQQGLEKIKSENKLLEDDEDSEPDISLAKRAIPLIHLLQAAEKKDCDVLWSHSKSPG')
+('lpg2634', 'MQAEVFYKSCGDRIVPVHLISQSQWDEGIENLTPMERNCFSVRQFKGKLGDYCFILNADGVIEKAFIGSGTGNQESALANAALLLPPGNYQFQDKLSRESGVVWALAQYRFDEYKKYELQPRVLIVEANDMDYILSLANSLFLVRDLINTPTCDMGPESLAHVVEELAKTHKAYFKQWIGEELIKDNFPAIHAVGRASALTPRLLSLQWGNEKHPRVTLIGKGVCFDSGGLDIKPSSGMRLMKKDMGGAAHVIGLAQWIMVQRLPIRLQVLIPAVENAIGPNAFRPGDVLTMRNGLTVEIENTDAEGRLILADALVKACEEKPDLIIDFATLTGAARVAVGTEIAAMFSNHDQLAQDIVAASNKVSDPVWRLPLFSPYEELLNSNIADMSNSSSSSYAGAITAGLFLQRFVTKSIPWVHFDIMAWNAVSKPGKPEGGEAMGLRAVAEYLLQTYG')
+('lpg2635', 'MLTTDIMVPKKQSLIRSTSLVSLMTFISRMVGFARDMVLANFFGAQAGMDAFFVAFRIPNFMRRLFAEGAFSQAFVPVLAEYQKTRSAEDVRTFIARISGYLSSILTLVTVVGIVASPVIIFLFAPGFHHDSVRAELATQMLRITFPYLMLISLTAMAGAILNTYGYFGVPAFTPVLLNISMILAAVYLCPDLPQPVVGLAWGVLIAGIVQLLFQLPFLYQRHLLIRPRVVRDDPGVNKVLKLMIPALFGVSIAQLNLMIDSIFASFLKVGSVSWLYYTDRLTDFPLGVFGVAIATVILPHLSRKHTEQNINQYSRALDWGLRSILLIGIPAGLGLSFFALPLIASCFAYGKFTAYDLLQTQKSLITLAMGVPAFMVVKVLASGFYARQDISTPVKVGAIAMVVNTLLCFIFVWHLAHAGLTLASALAGYVNCVILLFLLIKRGLFKPSPGWLKYSMQLLIANFAIGVYLYFMSGTATYWLGFSPLMRLSLLLAHVFVTVVIYLLVLGIIGLRPSHFRGQIKD')
+('lpg2636', 'MANIKSAIKRARQNVKLRQHNASARSMYRTYIKNVLKAVESGDQEAARAAYTKAQPVIDKAANKGLIHKNKAARIKGRLVARLKAMAA')
+('lpg2637', 'MFLTINDLQSQVQLAKKRLYALAKNWLDTQKEAINSKDKANWLNAFQASTKEAMQEQLKATGFPLIRNAILVNQSEDELPQHSLEQSSSLIHSENFPEQFNSRTVPRVIYVCHSGENNQVIKRLCQLTTLMEQLHTLEELTFEVQTNVHFRGLNLAYRMARSINKEWRDVEKGRETVEYYAERLQIAEKQYKLASDFCHECLGIYKEQLDARIMYFNESLNFFVECLVAAFSSVKDDRYWLTKFLLPSLPWHSMLNEVATWLFTTNGFTNPTIDSIEVNRSHLKAITEQFAKLMMAPFCSLEKELQGKIEKVENEQKIARENVYAMSSELDIVIHMQSQRKLAALLFPAQPLSMLGFFQGVAAAMGRDYFYSTFIKGNQSQEPRITDDEKPLIEASNYSNGLH')
+('lpg2638', 'MKYAVTFCTTDQEVGSNPLWHSCLLLSKMDETSKLLEVVDNWGFYGLPTTNRNSSWLDQLKIKMGLDVDLIGNHGMLRHEELRFLDQGCGLRGVTFELTKDDFELLQKKCLQMATDQETAINEFVETQGIKGKPPEKTRIYPHEQFSRLIYATEKIKAEQQGREARLKPFELRLSWGLFGPSLALSQNCKTQALSLLSYVLSKEQIERLTEYGEHPTVPRRSGPMESIFLHSTGPLREHRKSSGDVVHYRDLKDPGVKLYWTVPPQELEALSEETIKLFQIDGEYCEEVKAIVRKLQRLEWLLINSNLPEKYRPYKDELINKVVGCYKAFSFIEPKQEELKLGGWYGWALSLFSAPRSAEERTLQGKIKKAKSLFNSIYMAIVDNYQIDDNAPMENKNILPYEETSENRFENMVEAVASYLSRKDKINLCKIIGRTYCEDHVELEDNEGKIALSPQPLAT')
+('lpg2639', 'MKSLVPWVCVLVASAGQQAFANEAFNAYRLGNYNEAAEPLIIKSGQDAVAEYYLGRLYLYGYGQLKNNRVAMRYFTKSAEKGYLPAVLLMAKYSLLHEKNPEEAARWFKQAAAVGDMSAQMFMAAAYLYGVGVKKNTDIARRYYIDAAKNGNPIAQYTLAKYFLESKHAGNKKLGIIWLNKAAENGDPKALTELGRFYVAGQMVTKDTAKGVELLNKAASEQYAPAMLELGKLALMQNQYDEAIQWLNKAAKQSTEATLELAHIYLQDKSPVYDPKTGFLFVLKAAQNGSVQAQKELANLYQKGIGVAADEELSKQWTLKAAENEKKNAEPPLLAQAALWLSNDRTDKLEETAYQMNGIFSPWNNPSALRNNSYNQAPKLETISRQDIFKPQFELTQPNSIPISNYYDALISKQVEFQSNQWAYPTYRLNPFVEALERTNSPVVQKLNLPVPYTDANYDDSEVGSFDLMDIWTGDWKRTVNYMSVVNYLYFRAILGNAQTQFEIGQLFQYGIGLMQDDASAIIFYENAAEQKHLGAEYNLGILYLKRGKDENDYQQALNWLTDSAFKGNKRAQYVLARILRQGIVGPDGKEYIKANDEQAMAMLYLSAANDYGPAEYELAEYLARDYNNGLSVDVRKQKIALIRKLYQGAVKNKVAEALLPLAFYNAMDDNRQKQEQAFKVAEEQAETGNENAALLLGMLYDRGIGITADPAKAMYWYQQAGQNPVSQFILGTYITEGKGVAQDKEKGLDLLRQSANSQFSYADFNLAVLKQQSGEDFLPNLIESYKLGNSHAGIVLADYYLSQSSAPEQMNQAKEIYKGLADKGDQYAQLKLAYMLQKGLGAAPDLAGAQHWYTASAEQGNPEAQYLLGQFYQLGETGEPDYNLAKYWYQKAAKHLSKADVALGFIYETVDDDYAQALKAYENAAAKGDMLGAYNLALMYEYGKGVPVTYSKALSLFKEASEKGAPEAMSQLAGMYFYGLGQPRNEQQALVWYKKAASLGNGNALYALGLLSETGVGVKLDFPDALRYYQDASDKGNEKAMLALARMYHYGLGVEKDHKRSASIYQKLAQKQNAYAQYQLGTYYIEGTAGERLPEKGRELLQQASENGSLQARRVLQRLDAQTQGKVSYVEPVLFNNVPKFDGQSADMIYFDALNEWNHGEEVLSRMILQRLVTQYPNFIPAKRAYEQLNQAKLMNNLG')
+('lpg2640', 'MNLKSRSSITAIVVILLTGALNISAYAAKSNKTATAEDKAEKKDNGKFPLGCTAVGYQQNLKVLTLLPGKEGALQSMYFIYNTLPETVSLYQMHDKESLYSYWLNHSIRGNSWAVLATGEKEVKFICTLGDGKKSYGKILDCADVIKVCEYVNVKFGLNNKGNFWIVDSNTRNGAVSQVVHYGIIPGV')
+('lpg2641', 'MKKILLTTFMMSMVTALNAGHFYGTALCAYPQYECIKVTGGQSWEKLFPDPVQRDIVQRVNRTYNYLWSGREIAVPKNLANINIFDVSPFPLKIQSENEKQIIVDQEKLAWGAYDAQGNLVWWGPISSGSDKCSDSNKVCRTLTGIFRVFSKENVRCTSDVFPIGRGGAKMPYCMYFHKGFALHGSDDIPGVRASHGCVRMFIQDAKWLNENFVELSSERNNFMGTKVIVRPLNDSENKK')
+('lpg2642', 'MSPLKSKIKTKSFNKLTKTQDITNTIERLFTNSQDSIIVFNQQGKIIAINEKAAALFKKSPDKLIDKPIWKLFKLNSFAIKRQFIQAKRCFLLANEGIAQQFTWLESKAQKPVLAYHILFNKTEIEDTSIIFTKLTDILKSKTIEWILWSLTKISNHQEINEIIDQILQLTSDVFAADYTSVSFINNQQIARTISYYKFGKKEENISFSLINTPCAKVIQTKAICYFNDVQKQFPNDKLLKKMKINTYLAGPITNTQDEVIGIMTILCKRKVEFDTLNNTLFGLFLSRINSEIERLINLRKLEFLASIPQQNPNPIIRILLNGDVVFTNDEGKIILNYWIKLFKELPVELLKEAQKIQNSNQSTRIEMEIEDKIYLFTLVWIDEFKQINIYGTDITQLKNTQNAMLNLTRRDTLTQIANRQYFEEKLIEKIYEHHLKEKSLALLLIDLDNFKIVNDTLGHPTGDKLLMAVTNRMTRCLRANDFIARLGGDEFIVLLDQCNTDTAVKVAEKIINVLGKPFQFDEYHMTITASIGIAIYPETSEIASDLLKYADIAMYLSKKTGKNKCTVFSKNLHYKENQRNEILKKDIELAALKRELYIDYQPQIDLSDNTIVGIEALLRWSHPTLGLILPTEFIPIAEQTGCIHTISQWFIEQTLLDYSQFQQLSSNIKLSINVSLSQLNDTRFTKILCDSLLQNNLSKSKIILDISERMIAPHFIQISKKLKQIHHIGINISLDNFCCPQISLPELLSLPLDYLKVDQRLLIGIEGKIKLRKLLSGIINLTKDLNIKIIQKGIETAEQHEVIKSLGCQYAQGYFYCKPVALNDLLPLIKKTIH')
+('lpg2643', 'MPFCFSNQPNILNNKLILKIVVLILFFSNSSLAKTINYPWTVSASLGYVNYQYVHEGDHITATGRFAIGRDLLMKGPFLFGLELGLQSGNQMRLQMTEEEVDALGGLLVQTTLKPMVDALATIRITPEFTAPLFLQLKAGTAYRQWQMDRDTINDISQLAGEIMAGCGYSITPNASITLSYQGLFGDKPNFTIDLESGIGHVQKIPVQHAILLGIVLMI')
+('lpg2644', 'MIHRNKVLNSILLILFTSQIAFAKSNPASQAYVDSKVSELKNELTNKINSIPSGPQGPQGPRGDKGEAGPKGDQGEAGPQGLPGPKGDRGEAGPQGLPGPKGDQGEAGPQGLSGPKGDQGEAGPQGLPGPKGDQGEAGPQGLPGPKGDQGEAGPQGLPGPKGDQGEAGPQGLPGPKGDRGEAGPQGLPGPKGDRGEAGPQGLPGPKGDRGEAGPQGLPGPKGDKGEAGPQGLPGPKGDRGEAGPQGLPGPKGDKGEAGPQGLPGPKGDRGEAGPQGLPGPKGDRGEAGSQGLPGPKGDKGEAGPQGLPGPKGDKGETGAVGPQGMPGPKGEAGDDGQGVPAGGETGQVLAKSNDLDFNTMWVDPANSGIRRQLGDKALGGTVIYVNALGTHGLVVANSDQVNASTWWDAHDFISNPAHFDNEGKLYSDWRLPTRFELNLIYMMRNELGNFLAGNYWSSIEKSSANSWVFNSKTGEIKDLAKNKTAAVRAVRAF')
+('lpg2645', 'MNDLQLSAELALFLTKLPSEPGIYRMLDEEGTVLYVGKAANLKKRVNSYFSKQNTGVKTRALVSQIKSIEISVTRSETEALLLESNLIKALRPKYNVLLRDDKSYPYIHLSNHPDFPRIELYRSKKKPPSGNFFGPYPGVAAVRETIVTIQKIFKIRNCRDSYFKARSRPCLQYQIKRCTAPCVHYISPENYKLSVEDAIRFLQGKCQIILDELAERMKQAVSQLNFEEAAVLRDQIKNLRLIQEQQGVVQLRGDADVIAIEVRPGFACIQCVTIREGQVLNSQSFFPTVPYAVLDEELDANSLWQQTFEAFIGFYYLDTSERIPDLIITNQSITESRSLEYILSQRRGKSCKIQINPRGVKSRWMDFAVNNLRISVAEYVSKHSTIRSRYQALKQLLALDKNIERMECFDISHTQGEATVASCVVFDTEGPRPSEYRRFNIEGITPGDDYAAMEQAVTRRFKRLIDVQLLPDVLIIDGGKGQVSIVKRVLTSLGVEDITLLGVSKGPSRKAGWEKLILVNENREFVLPEDSKALHLLQHIRDEAHRFAITAHRKKRQKTRVESTLESIEGVGAKRRQALLQRFGGLRELAKAPLEEICKVQGISEQLAKRIYEHFHP')
+('lpg2646', 'MVKEHYLIKVLIVDDHALVRMGIRRLLEDMSDVDVVADAESGEQALAYVKTHSPDVVLLDMKMPGIDGWEVTRRLKKTNPNIKVIAVTAICSDPLPTRVLQLGAMGYLTKESGAEEMAAAIRKVAKGEKYLSAEIAQKMAINSLQESQDSPFDLLSEREMQVMLMITSGMNVQDIADRLFLSSKTINGYRYRMFEKLGIKNDVELTYLAMKHRIIEHPNDLSQDD')
+('lpg2647', 'MEFSSRYVAHVPDAQGLVDYSAQENRIWNILFERQLKLLPGRACDEFLSGLQTLGLNSSTIPQLPEVSERLKAKTGWQVAPVAALISAREFFELLAEKYFPAATFIRSEEELDYVQEPDIFHELFGHCPMLTDRVYAEFVHDYACKVLTFPEQDWPLLQRMFWFTVEFGLIKTPKGLRAYGGGILSSISETVYCVESDIPVRILFDPVVAFRMPYRIDQLQPVYFVIDSYQNLYDFVLSDMGKFMDRARELGEFPPYFDVDPDNPNIHIRAC')
+('lpg2648', 'MTIAILSTGDEIIHGDTLNTNAHYIAHALCSEGLPLGLQVACSDKENEIIDSLNFLTQHHDILILIGGLGPTKDDITRFALAKFTKEPLLQHADALDHIEKKANIAKISLNQGNLQQCLFPANARLFPNPYGTAMGCSYSWKGKVFILLPGPPRECLPMFNQDVLPLLLQTSRHSNKQILRWRVFGLAESEIAQILEEALEGLDCQTGYRLETPYLEFKVRCKRELIEKITSIIDPILAPHIISSLETKASDQLRSLILKNNEPITIIDEITGGLLQSLLVKPENYHLLNFHNLNRTRLYFHCSGLEDYWSQQAPQGTTKLIIHYSNQMQEGRETHQIPYRSAMVVHYAAEWLSFRLFHLINQLH')
+('lpg2649', 'MKFVDEALIKVEAGKGGNGCLSFRREKFIPRGGPDGGDGGDGGSIYFEASSDLNTLIDFRYTRQYKAENGQSGMGGNCTGKKGDDLTIKVPVGTMVYDADTGELLADISQPGIPVLIAQGGFHGLGNTRYKSSVNRSPRQTTPGSPGESRNLRLELRVLADVGLLGLPNAGKSTLIRAVSSSKAKVADYPFTTLHPGLGVVRVSPYKSFVMADIPGLIEGAAQGAGLGHRFLKHLSRTCVLLHVIDIAPLDGSDPVADAKAILNELTQYNPDLLNKPRWLVLNKIDMLPDEKEREEKIQSIIKGLEWKDKVFSISAIESKGTQELCYALMQLIDEMKESEA')
+('lpg2650', 'MAHKKAGGSTRNGRDSNPKYLGVKRFGGQFVNAGEIIVRQRGTRFHPGPGVGCGRDHTLYALVEGLVQFTTKGEKNRKYVTILPEQREEAAS')
+('lpg2651', 'MYAVIKTGGKQYTVKEGDVLKIEMLPENVGNEIKFSEVLMLVDGDKVTCGTPFVAKATVKAEVLDHGRHKKVKIIKFRRRKHHMKQMGHRQYYSQVKITAIGK')
+('lpg2652', 'MSTIQLEAQSRTDMGKGASRRLRRLENKVPAVIYGGSKKPMAIHFSHNKVIKALETESIYSSVFDITVDGKVEHVILKALQRHPYKPIVLHMDLQRVSSKDILVKLVPVHFINEEQSPGIKAGGIVQHTMTQVEIRCQAKDLPEFIEVDMSKVGMDDVVHLSDLKLPKGVQLTVDVADGSHDAPVVSIHAAKVSSTELEETPEVPASAVPTTDQGESAE')
+('lpg2653', 'MVIKLIVGLRNPGSAYEQTRHNAGAWLVTALAQRHNSHFKIDKKMQAELTEIDINNHPCRLVLPLTFMNHSGQTTRIISQFYKIEPGEILIVHDELDLPVGRIKLKTGGGHGGHNGLRDITAQLGTGEFHRLRIGIGHPGHKDLVHQYVLSRPSMHDRQQIYDAIDRGIAIIPIVLSGDMARAMNQVNA')
+('lpg2654', 'MGFKCGIVGLPNVGKSTLFNALTKAGIEAANYPFCTIEPNVGIVTVPDSRLDNLSDIVKPQQVLHATMQFVDIAGLVKGASSGEGLGNQFLANIRETDAIAHVVRCFDNSDVVHVEGRVDPLSDIEVINTELALADMETLEKSLLKVGKNSKSGNKEAIFELKTLEKIKAHLDAGYPVRTLELTPEEEQVSKRLFLLTAKPVLYIANVDDNGYENNPLLDKVQALASQENASIVALCAATEAELVELDEEDRQEFMVDLGLSEPGLNKVIRAGYELLGLQTYFTAGVKEVRAWTIRKGATAPQAAGVIHTDFEKGFIRAEVISYDDFIRFGGEQGAKEAGKLRLEGKEYIVCDGDVMHFRFNV')
+('lpg2655', 'MSLLKKTREQDYSILVTTQDQQRKRHLLNVISIELLILGLLLIITNLCLLRAWLIITMLIVGIFILLGNLILIKKNFNLALSGHILNILVLSIIIGGNLIVGKTTMSYLGWFYVSPIVAFATLGLTGLVVYGLLAIGAMFLFIFEFYIPIYSISQEYVFFLDNTNHLFIFALIFTVLYHFLVQNLQYELLLKEQNYLLIADKEKFHYLSHHDSLTNLPNRSYFHAHLQTLLENTDTKKEAITLYFMDLDKFKPINDEYGHEFGDQLLLLTSKRLQSCFRKNDFIARLGGDEFTAIIVHKPHDQIAEALTLRIEQEFEQPFVINGQTIHCTISVGIANYPRNAKNAEDLLKWADKAMYDNKRKKYQTLKQTS')
+('lpg2656', 'MTIDRIRALVSEDFNAVNNLIIDKIQSQVGLIQDLSQHIVESGGKRLRPLVVLLASNACGYKGKDHISLAAMVEFFHTATLLHDDVIDESTLRRGRQTANSIWGSKASVLVGDYLFTQSVNLMVEVGIKEILNLLANTSHQITCGEVKQLANRHNPALTLDDYFDVIRAKTALLFAAAACIGPILTNAPIELRNSLYNYGLHLGNAFQLIDDALDYCSDAATLGKNIGDDLADGKATLPLIHALQNGNATQQQQIRESLMKGSLSHLPDILIAIEQTEAIPFTKRIAAQEVDSALSALEILPDSVYKEALVDLAKFALERNY')
+('lpg2657', 'MTHALLIGNPNCGKTTLFNALTNANQRVGNWPGVTVEKKTGEFLLGEHLIEITDLPGVYSLVANAEGISQDEQIAAQSVIDLEYDCIINVIDACHLERHLYLTSQLFELGKPVVVALNMMDIAEHRGISIDTEKLESLLGCSVIPIQAHKNIGIPALQQSLLHCSQKIKPLKLSLSVAAQQILNDLENQLISKGYKNSFAYYFSRRLAEGDTLIGEKAFTESLLIKLQETEQNLDVLLADARYQKIHEIVTLVQKKHSDASEHFTAKLDKLVLHRFLALPIFFAMMYLMFLFAINIGGAFQDFFDISTETIFVQGSGWLLQQLHAPHWVIALVANGVGKGINTTITFIPVIAAMFFFLSLLETSGYMARAAFVVDKAMRAMGLPGKSFVPMIVGFGCNVPAIMAARTLDSERDRLLTVMMSPFMSCSARLAIYAVFVAAFFPSGGHNVVFSLYLIGILMAVFTGYILRKTTLKGHASPLILELPAYHRPSLRRLLRETSMRLRFFVYRAGKLIIPICVILGGLNAITWGGGISSGEANTDSLLSIMGQWITPLFAPMGIHQDNWPATVGLLTGMLAKEVVVGTLNSLYAQVGHVGEIAAAHFDFWGGIKAAFGSIPANLSELGSALWNPVSASAADSELSQSVYGIMSRRFDGAVGAYAYLLFVLLYIPCVSTMAVIRQEANKRFMWTSIVWSFVVAYATSVVFYQGAKFLDHPQQSMVWILAMSLSLLFVLAVFRYSQYGMGRQNAAANT')
+('lpg2658', 'MQISELKQGDKVRLVSFGATDMQYRRRLLSLGITCGVEFSVVRMAPLGCPVQIEVRGTFLTLRKDEASQLVLEHL')
+('lpg2659', 'MPVMSLIEQYEAAIYRGEIDSDPEQREILEHMQRLAEDLQKKSDSWFPWRKKHPIKGLYIYGPVGVGKTYLVDLFYQHIDEEKKARFHFHHFMQQIDAQLRRLQGKKNPLQYIAKEMAKSIRLLCFDEFLVHDVAYAMILAELLQALHHYGVVLVVSSNTRPDELYLNGVHRERFIPAIEIIKKNCEVLNLNQKRDYRLGRQPLLEAYLYPLNEQTQEAMEKQFALITREEDCKGFITVQNRDIPYIKYGTRSIWFAFDVICNFPRSQLDYLEIADRFDNVFLSDVYQLTESHTAQAIMFIHFIDVMYDRGIKLIISADVPAEELYVKGEMKETFKRTLSRLIEMQSVDYLSRHPRRLVKEML')
+('lpg2660', 'MLFTDKLNTPGEHELMLEGLVGPLETVLTVPEDADTRYVAFLGHPHSLQGGTMNNKVVTTMARVFKELHIPSVRFNFRGVGQSGGHYDNGIGESEDMRKLVRQWHSEQPQAQNIFAGFSFGSYVAYRTASHCEHALLITIAPPVHHYDYKEFEPPPHPWLIIQGKEDEVVPFELVSEFASQSSQVLPVIEFVETGHFFHGKLLILKEKLMDAVRDQVCLS')
+('lpg2661', 'MIHETGTCITIILIYSRRILLFRENGMKIHDFKIKKQEQKKISMLTCYDYPSACIVAESNIDCVLVGDSVAMAVHGHPTTIMATIEMMELHTQAVARGLGKQFLITDLPFLGHKSSQGHTVENVKRLLQAGAQAVKIEGADKDTCQTISHLVNAGIPVMGHIGLTPQSIHQLGGYKVQGKNSEQAETLLQQAATLEQAGCFAVVIECVPQELAKTITDSLVIPTIGIGAGPGTDGQVLVWHDMLGLQTSFNPKFVKKYFRAKDHFIEALNSYVQQVQQMHFPANEHSF')
+('lpg2662', 'MQIFHNLNEWIHFRNTLSPDLSLGFAPTMGNLHAGHASLFLASSKENHYTVSSLFVNPTQFNNPDDYKHYPRTVDADLELMTQNGVDFCILPNENEIYTDGYAYQVQENRLGQLMEGKHRPGHFNGVLTIVMKLFNLVKPTRAYFGEKDYQQLLLIQGMVKALFMDIEIKSCPTVREKSGLACSSRNNRLTPSQREIADEFAKIFHQNKSSAMISKELEALGITVEYIEEFQGRRFAAVKIGDIRLIDNYLL')
+('lpg2663', 'MIQTNWCVITGGPSSGKTTLINHLAELGYKTAPEIARFYINQLLSHDKKTLQEIKHDILWLQRKILNIMLRRERNLPKKDLIFFDRGTPDSIGYFRFHHLDETHVVRACRYLRYKKIFFCHPLPVVPDTIRDEDDVTAKKISDCIYNAYVGLNYPVIELPATSIKERLEIILSHVDT')
+('lpg2664', 'MFKKILVANRGEIALRIVRACKEMGIAAVTIHSEVDRFALHVKRASHSHCLSKKPLDAYLNGRRIIECAKVAGCEAIHPGYGFLSENAEFAEDCNKAGIVFIGPSAPVIATMGSKIAAREAMIKAGVPTIPGSKGNLETIDDALHCAETLGYPVMLKATFGGGGRGIRLCHDASQIKQQFARVQSEAEKSFGDSHIYMEKYIANPRHIEVQILADHHGTVLHLFERDCSIQRRHQKLVEIAPSPQLDEATRQVLLGYAVKAAKEVGYTNAGTVEFILDKNNRPYFMEMNTRLQVEHPITEQITGIDLVQEQIRIAAGERLTISQEQIKYNGFAIEFRINAEDPQNDFLPSFGRITRYYAPGGPGVRTDSAIYTGYQIPPDYDSLCAKLTVWAFDWPSVLRRARRALEEMRMFGVKTTIPYYLEMIKSEEFQKGVFNTGLVEAHPEWLKYSNKSLPQHKAAVIAAAIALHKT')
+('lpg2665', 'MYSSNYIYQHDDLELHGFLAHEEGIKQSRPAVIVAHDWSGRGEFACLKAKQLAEMGYIGFALDMYGQGQIGSNNDEKMALMQPLYSDRSLLRGRLYAALEAIKSISVVDNNRIAIIGFCFGGLCALDLARSGADIRGAVSFHGLLNKPENLASGRIKAKILALHGYDDPMAKPEQVHAFCQEMTEANVDWQMHMYGQVKHAFTNPQAHDEHLGLIYDEVAARRSWQAMSQFLQEIFNV')
+('lpg2666', 'MRNVAMMTDSLIHIRDLLHAQFCYQMFITPIHLPIDKKYREFAKMACEFIEGRRDEIIHREYPRHHVLHRFTPASKPNGKKILITHGWMSRAAYMVRLIRLLHKEGYEVYAIDFPAHGEAKGIQLPWTDAIAIIKETINQFGPFYGLVGHSFGGSMILNTLNLAGQLPEWQLNHKPERAILIASPTQMRTPVNKIARRFKLSGQAYLQLRQLIRQQASVDPERIRLSHFISQAPDTYFLCIHGELDATINPKESINFCKYYKNARLSLLPDADHVSVLMDERVEQIALDFLNR')
+('lpg2667', 'MLMTGGSSMSQQLQLAAMNLPVGSLDSYIHRVNQIPMLTLEEEIAYAERFHSEGDIEAARQLVLAHLRYVVRVARGYLGYGLPLSDLIQEGNVGLMKAVKRFDPKMGVRLVSFAVHWIKAEIHEFVLRNWRIVKVATTKAQRKLFFNLRQMKNRLGWFSNEEVDAVAKDLGVSREDVLLMEQRLNVMDSSYDAPDVDDNDDAYKAPERYLFNVNDDPAVLLENEDTGDQGREKLLFAMEQLDERSQDILQQRWLAEEKLTLHDLAEKYGVSAERVRQLEKNAMKKIRQYMEG')
+('lpg2668', 'MLKRSQSLLAYHLQAAANSLNLFCRKPIATMMTVIVIAIALALPTLFWVFTDNLSELTNRWQRGGHISLFLKPSLPEAEQTSLLEKVRTTEGVGQANIKSAADGLSELTQQEGMQDIMRYLPENPLPAVIEVVPALVIDSPAKLDLLSRKLQAFPQVALAKLDMEWINRLHAILGFSGKAANALMALLALAVVFIIGNTLRLDIHNRQEEIKILKLIGATDPYIIRPFLYSGIWYGAAGALLAIFLVNIFILTLGVAVNQLANVYQMHYPLACLSLRQILLLVLFAIILGWLGALLSVKRQLASIEPYK')
+('lpg2669', 'MTQRNLLVRYSMMITFDQVSKRYPGGFEALSQVNFSLQKGEMVFLTGHSGAGKSTLLKLIALLEWPTSGQLTVNGLKLNHLKKRDVAAHRSQLGITFQSPQLLNDRTVFDNVALPLQIQGVAYPMIAKRVHAALDMVGLLSKEKMLPVHLSVGEQQRVGIARAVVHKPALLLADEPTGNLDPKLSSEIMKIFEQFNQVGVSILIATHDLALIAGMKHRIVMLKGGRLC')
+('lpg2670', 'MIEFHIFKELYTKMIKWFKRNQNSEPNLDAEEQQDHAKSSMESRLEEPQELTVKEPSPKESIFARFRKGLSKTRHQLGEGISRLLLGKKEISQELLEELETLLISADLGLDTTQDVLKQLNEGLARKQLSNGEAVYLTLKTNLQTILSQEEKPLSIETEDGSPFVILMVGVNGAGKTTTIGKLAKQFQKQGKKVMLAAGDTFRAAAVEQLHVWGERNGIPVIAQHTGADSASVIFDALQAAKARKIDVLIADTAGRLHTQSNLMEELKKVKRVMQKLDPKAPHETMLVLDASIGQNALAQAKQFHEAVQLTGITMTKLDGTAKGGILFAIANDLGIPFRYLGVGEGIEDLRPFDAAQFVSAIFDDDHI')
+('lpg2671', 'MHKLLISLMMLLSFQAFSQVQEYTLNNGLKVLVKEDHRAPVVVSMIWYNVGSADEPVGITGVSHAIEHMMFKGTSKYPVGVFSKTIAALGGQENAFTNNDYTAYYEKLDAGHLATSFELEADRMNNLLLNSEEFAKEIKVIQEERRLRTDNNPQALAFERFLATAHLTAPYNHPVIGWMNDLKQMKVEDLKKWYESYYAPNNATLVVVGDVNPEKVHALAEHYFGSIAKRPIASRKPQQEPSALGKKMVYINAPAKLPLLLIGYTVPSVKTAKNNWEPYALEIIAGILDAGESARFAKHLVRGNQVATGAEAYYNLYSRYQSQFIVYGAPSQDHQIKDLEKALITELEALKKAPVSNQELQRVKNQIIAQKTFEKDSIFGQAMELGLLETIGLGWKNTETYTKAINEITPEQIQQVAQRYFQENNMTVAELKPIRQEEVRP')
+('lpg2672', 'MSVLRAFIISFSVIFSHNLFANSFKTEKWQTKNGVRVVFYQAMEVPMLDISLAFAAGSAYDGKYFGLSALTTNLINQGNSGKDATNIAEALADTGAQFNAETSRDMVVLSLRTLTSKEALQQSTKTFSQIISHPDFPKEAFAREKDQLLMAVEQTEESPDDVAIQNFFKTLYQEHPYAHPVHGTVESLNAIKENQVIDFYKKYFVAKNGILVMVGAIDSSQAHQLAEQLTQDLPAGEPAPTIPKASQLADAEKINVPFPSSQTVVRLGQIGIDHHNQNYFPLMVGNYILGGGTLVSRLGTEVREKRGLTYGIDSQFVPMLGEGPFIISLSTKNSEARNALHITQDTLIKFIKNGPNQEELASAKQYLTGSFPLSLGSNTNIANLLLRMAFYHLPDNYLDTYVAKINAVTDAEIKQAFQQQVNPEKLLLVTVGQS')
+('lpg2673', 'MKQVIRIIGGLYRGKKIHFPDVDGLRPTPDRVRETLFNWLMNDIKNARCLDAFAGSGALGFEAYSRGASHVVFIEQSPKAHASLQNTIRQFDTPKLHLIKTDTLNYLKQSTEQFDLIFLDPPYALNYVPQCLDHIITNNLLVKGGLVYIESSSPIEVKTELWKQLKLKQAGQVIYGLFEKL')
+('lpg2674', 'MNNNKIVIMFIFSALLAGCAGTMKFKKPPINNPSDDATIKLAEAAVSVSDSMLEMAKVEKVITPPSKDNTLTIPNAYNLQARASVDWSGPIEELTARIAKAAHFRFRVLGKSPSVPVLISISTKDESLAEILRDIDYQAGKKASIHVYPNSQVVELRYAKIYS')
+('lpg2675', 'MRKFILSLSILLSALLVACSSRNHYGDTGSLAGLQAMADSKYTRAQKKQKMGKIREMALKETALSVGAQAGLAWRAKIIDEQLNKQARNLDAIYDFNSLVLEHNILPPVLLEGRNTLNLADAQSIRISDRTYKVAKQAHFITTPPTWRQYLWMDYVKPEAPNVTLLPKTKAEKEIWCIYTERGWKNGIDQANTILEENIARIKEDFGGMILYRKLLAMNMVSPPYVSHTDLGVTGDGSEIHIDDRVLRITALPELNVNSAEWRAAVAKDENALERFKNMEKLANQAKIVITNKSWQPIIAPVS')
+('lpg2676', 'MATYYSTSKLMSMDNINLMPDEPTRFTPVFMDRMLEHAESLNASDITIQTGEPIFAEVYGRLLKITNRRLSNTELGDLINSIYGPNATTQLLSGKDIDTHYEFRPNRGVRYRYRVNATACLVEGHDAIQITLRTIPTTPPKLSTMNLPDNIIEAIAPQEGIVFITGATGSGKSTLLASIIRELIETSDSNRKVLTYESPIEFVYDEIETISAVVSQSEIPRHLPNFADGVRNALRRKPRLIMVGECRDAETISAALEAALTGHPVYTTLHTSGVAETMRRLVTSFSGEERLGRTIDILETIRLCIWQKLVPTVDERRVALREYLVFDEEVRDILLEGDPNEVTSATRKLVRQKGQLMTWDAKMKFEQGIISERVYKLIIAGAKEYQQ')
+('lpg2677', 'MMFHRKSLYHYFNLFILLILGSSLNWASVNQHSTASPTLNIKILGINDFHGQISSGRAVKNEPVGGAAVLAAYLKEAQLGMEDRSIITIMGDLVGASPPSSGLLNDEPSILFINGLGNNQCKPESRMDPLCNIVATVGNHEFDKGQKAMFDLIYGTNNPPTDSWISLPNYPGASYPYVSANIVDAKSEQPLFPPYIIKRIHNTPIAFIGAVLKDAADSMFPANAEGVKFLDEADSINHYIPEIKAKGVNVIIVLIHEGGNQIPYEGDTQTTSAVEGHIKEIVYSLGDEIDVVMGGHTHQFLNAFLPNRNGHKILVTQANSYSAAFAEVTLQIDTKNHTVKNKSAKIITTYANRWPGTNPDTQALEIVKLAEDKIGPMINNHVGTAEYDLLRKQNKDGESSLGNLIADAYRTVMNTDLGITNPNGIRDDLKAGEVNWGNIYSILPFSNRIVTITLTGNDIYDLLEQQWMGSYINMLQISGFAYTYDSHQPLGHKIIEIRHQNKPLLREKMYTIATSDFLASGNGVFSVMKRGKIIHIGQSDHDTVIAYIKSLPQPFHASIEARIKESETGLKTGVG')
+('lpg2678', 'MPSTYILNTNDKARERLSLQHQLYAKSSLDLLSEVGPSAAMTALEIGCGSGDMTLELAKLIGREGSLLTIDLSQDQLDHTQQRTRTYSNIRFKVWDVNHLSDLGEKFDLIYCRMVLHHVADARSVILQMKNCLNSGGFVVCEEPSLFDSTFCSPPSPSYDQFTQWARSCFSKSNRDFQIAHRLEQEFSSCGFEIEHCSLFQPLLRTNKEKLIYSMALDDLTPQLLELGIAKREEIKQLHNELEDLAKTNSTMCWIRMHKIIAKLN')
+('lpg2679', 'MKPFVYLTNQFLEPIIPMLIPDWNIIHGWKMASRVDQSRVVALATTVWDQIDHSFLMQFPNLKIISHLGIGTDNIDINFLKQNHIILHSQPNAGVHDTAELAIALLLTLSRRVILNDRYTRNNEWVEKKPRFLGNHLLGKQLGLVGFGQIGEKIAQFAEPFGLKIAYTARSQKNSPYLYCPTAANLASISDFLIICCSGGIDTQHLINKQVLDNLGPEGYLINVARGSIVDQNALIDALQRHTIAGAALDVYQYEPEVPFALRQLDNVVLSPHMGSSTKENLNQMFQLQAKHLNQYLNESLWQRESHVTLFEEQ')
+('lpg2680', 'MFLPVIPVEEFDGFILKLGKNNYHFCKNETPFNNSCSANIAIDKYCTSKLLEKAGIPVPKAISLNCSEFQRNLHKDKIAQLNFPLVIKPIDGSLGIGVLCNIKTWEELESHLTKYFSSYQCLIIEEFHGKLNSYRVLVFNNRILGIVQRYPAAVTGDRVHPIHELIKQENLNRKRINEALGEITLDEEARIKLQELGITENYIPSFGEQIVLCYTSNATRGGSYVTINKKMCKQNRKLLLQAAKILDLQLVGIDVECSDIINIPIEQSNGVILEVNHKPSIRIHEFPMKGTPQKVTKKIMRSFITRHPLSYLYSIYNNQPTAFYVRSSILIIIMGLILLAVW')
+('lpg2681', 'MNPVSILDASLRDGGHRTNFHFKDDDLKKILLPLDNSGIEYIEIGYRNGSLHPIENIGKAGMCPQDYLLYCQSLIKKAKIAVMVHPHNVNEQDLFELKNCGVKLIRICIAKGDLVNAVPLIKLAKNLNFETSVNIIHISYYTESELDSLIEEVSEHEPDMIYFADSNGSLFPDRINCLYKKYTRQYKVSFGFHAHDNLGLAQANALAAVNAGVHFIDASLAGMGKGTGNLKTEFFIAYLHANNIKKYNLEDVLTAANYVRDALKIGQEPIEMSEFIRGISDLSTADLKSYKPGKL')
+('lpg2682', 'MAKKRLLIIGPVSTQSSSLRHLSQNLSFLNPYYSIECLDPLVKQHECPDEEYYGIWQKQLKQLIKIYDAFVGFSFGGVILQQCFSILNGEKKQIILFSTPTFSDSSLREKLEKVISLCSQNKLEEALSTLYQAVYAPHPIPVTSLRYLNRELAIKRLIFGLTKVLKTDCVSILNHCNVNHFHLIGEKSQLVNTNNVIKPPCGQLIVVPEASMRVLESNPTFCKKIIFKALNHEIH')
+('lpg2683', 'MKSTDPIKIAVLPGDGIGIEVTEATLPVFEVLDVPVILNYGDIGWEFWKKEGAAIPSRTWQLIASSDTVLLGAITSKPQREAKQELSNALKKSNPYYVSPVIQLRQGLDLFANVRPCFSIDDQSKPFNFCIIRENSEGLYCGFDYFPLPKAIHSLLAESQHWQTIPADEASCALRLQSKSGLTRLFDFAFKHAMQTGMPRVTLADKPNVLRESGEFTRKIFESTAQRYPKIQADILNVDAVALWLIKSPEKFGVIVAENMFGDILSDVGAGVMGGLGLAPSANIGDKGSYFEPVHGSGPRIRKNCANPSAMFLTISMLLNHFGYPDRAKKIVNAVMQVIKEKRFITYDLGGHATTTDMANAVIEHCARLNASCLSKDFNPTPKENLIESDTMPNLLQQLINCNSAEISDALDACGIEGGLLSIKPLSQGMKIIGPAYTIQYLPREKKGTAFHNAANYIDKVPKHSVIVIDNNGQIDCTVWGDLLTHTALRNNIMGTVVHGAVRDVESIRSTNYPVFCTGIYMCSGKNRVYKANEQCPLSINGVTINPGDIIFADDNGVLVIPNDRLQEVVNKTIAIRLTEERIKTAIASGSTLEQAREDYCYEQPWLGINKKRES')
+('lpg2684', 'MFSPEKLKFIDIHHHAAPDLYIRRRNAIEAGKLYHSLYGAVVLKSHIGSTGVQATIAQEMGLPVFPSVVLNHINGGINYRVVIRALSEYQPLFSGKMIVDFPTITGRKLQSKLSRELTHDNLKQDTQKGETLFGSKQQLRKEVIDILKMTRDYPIVLTSGLASRDEIYRLIDACNQYDVPSLLLSQPSNPLIGLKFTELNELIKNEWLWVEQTALTFILGYQEKQDFSQILTHLPRVIYSSDLGQLGQMDIPEWLHFSKKIFNELDLSAKRMEELTLSNAIKLLNL')
+('lpg2685', 'MDSLLKRRINMLVTKEVEYEDGDTVCKGFIAYHSSASKPLPCVMVAHDWGGRGEGACNKARQLAGMGYIGFAIDMYGNAKLGKDKAEKRALMTPFRENRGKLITRINAAFNKVVQLPEVDSEKVAAIGYCFGGLCVLDLIRSGAPLKGVVSFHGVLLPLEGESNKSLNAKVLILHGYDDPLVPIEQVNQFAIEMTERKVDWQVHVYGQTAHSFTDPGANDDEMGLHYNKLADQRSWQSTQLFLQELFA')
+('lpg2686', 'MNKLAITVLLCFFPALALAENGALSFAPPASDLSVVFLGNLFGVVDGVLHGTGSQIMGNMFGVFNSAVLALGGIIIMYTLMVSTMNTAHEGQMLGQKWSSIWIPLRSTFGLALLIPKASGYCMMQVFFMWVIVQGVGAADKIWEAALSYLNRGGVIIQAQADPTKSLQAAGSSSSGVAKGALTILGGQICMLGLQKQLQAQRDLYLSQSKSPPCGGNPTPEMNTFCRTAIPDFISTVNFVKKQNDDTPKDLTANQPASFELDMPNFDKSSPFYFLNGICGTVKWNNISALNSTNQSDNKGLVTVGGAGSNSSMGANSLNITSSQLQTARLSRAIAIQQMYVTLSTVAQVMVNNDPAFSTTTSTGNSKNDFSAIAKQQFGVPYKSSGEVCTEYQQVCQTWGSVPSSTGSTTGVLFNGTEFLGAINDYNGIMMPTLNLIRQATSKEFDKKSRDFIAEANAKGWIMAGSYFFDLVKLNGSATEFADQFDTGTGLDKSSFDPTQLTKPFGKTCQDPYSLLCTWFQNKSDKLIQIQSLIDGVPALGQDGVKQPDLSDNPQRQSVSGPLSSTVYGFVNNSMMVQLPGQPGIKPLTFANLINFKVDTSLYYMKHQDFDCGRVKILFFSFCLGRMMGDLFYNYVFRYVYNFFLAIFGEMINSIVMAFLMIPLQGMKDIFIVGVQTLTQPGINPIVALANMGTMYINFSGTLWLTLLNMAVVSSLIPLFGIFIFALIMMAMPLLMAWIGTMVSIGFVTAYYIPVLPYMIFTFGSFAWLIAVIEAMVAAPIVALGVTHPEGNEAFGKGEFAIMILVNVFLRPSLMIIGYIAAIALSYVGVWILNAGFDHAISYIQSDQGIETWEKGTSSNDAKRFFQSAGNWTGAKMDTSQWDNFKDKLTGDYQSTALEGGYTGWAGVYAFFFSILIYTSMYLIIVQKAFTLIAHLPDKVLRWIGGSPESFGQETMQWGEEAKGRVEKAGEATYGAEKAIGDKLGAKGQEMLGKLGPQAKKISENAGDVSGKGKNSGGSQTGPSSKPDTGQQLGGSDSGTPTSTPPPE')
+('lpg2687', 'MKKKSGSRIVRVFTRIINVRKWFDWDRMKSLTLYLVNGIKRLFIPQEPTHIESFDEAARKLKLSEADLVIKQKALFRLSIIMVVAAFMILIYTGYQFLYGSWKATIISLVVVMIALVLAFRYHFWYYQIKQRKLGCTVKEWYRQGLLGEKE')
+('lpg2688', 'MPDLSHEASAKYWFEYLDPMIYRVITFMESVENWTLDGNPELEEAMKQLGQELDDIEKIDLGLLAEEDKFIRIVGNIKSGRGLRLLQAIDTVHPGSASRVLIHAEETSLSSSDPAGFFLKRNIVFERLRLLSRVFCQYRLKLVLRALEGDE')
+('lpg2689', 'MKVLPKLALANLVCFTTLSVFAQPADPSGQQTSTNTSNLVTYLTNLGKYLGYDITQSSKAPNPPYSQLFNSNVVQLVQNYAYNTFLGAIPVDAMSQSLMNFVTDKVQGNSLINNLANTTFKYQNFSAPSSGADGKITANGLIDQSTASAQTPTTPGIFSAPQITTSGTYLNDPVSQAVFNILGTPDYSFCMDNEQKNWLPNCNLMYQNLVMQNVIGTLPPAQTSGSTPAFYSYKYNQPLISQLNSNSLIAPLLMDTSASQSGQDSGLTAKSQAQQALNFIRYASAQVTPPSLPKLSAYSELWNQATAKPNSAGYNEVQQKQAAATLSSYFNNLRVYAAQTSVGVSNLYYILSKRLPQNMSADQSNANITSQALNEFNMATRRLFDPTASNTPGQPNQQWIKQINDASPATVQKEIAILLAEINYQMYLDRQIQERILLTNSIMLLQNLKAAQPTADFSSQGSPSEQ')
+('lpg2690', 'MRALLLPRRKTILVLLIAIYCAYDLMVALYTAWDFTTDDAYISWYYARQLASGKGLLWHATLPPVEGYSNFLWIIIAASVIKLQLPLVSSMKVISCCSLGLSLLFLYRLARLFCSPLLSILPVFLFSHYTGVAWWTVSGLETLFYCALSLALIWQCTLAFGYHTVNDSHWINRFSLDSTNHWIITNVLLLLLSLTRFEGIIWIIPLAVFIGCQYLRDHRELVFKDHKRLFLWVSITFVCFTLPYLVYFIWRLIYFGHWIPNSYRCKALAYGQFLAVDLDYFLFITPLLILSVPYLLSAKKDCRHSLLWLPSVLYSLLLWKANPVVTYGLRLFLSPFALFSILPVLGLNQFIQYFKPFRWDPEYPIAGLMLFITWFFVPGNDLNHLSKSVIEYNERAQNRMTIADLLNRKAKKGDSVLLDDCGIIPFFSREDIRFIDAQCLNNSDLTQKPFKNDLSLYADYLNSKVRPDWVITNYYPMESHGDYLTDLLDAKNFFKNYHLASTLSSGFYLNQNQPQGKKMIDFVYQIFKRAYNKPLELESQEPK')
+('lpg2691', 'MSKPYFFYVSGMNCTSCSNAIESFLRNSNLIKINTFHADMSTPDPKKIVISLSEERENEHESNWKIIKKLIDDTGFTCENHEFPPIKDEKPTLLPEKKQTAAQQEASTLSTIFSSAKKIITSHWLLGGLGCVTGASLMILTMAIGGLPLAVMIPLAGLSILLTIALGAQSYYEAWKKLVQSRTLTMDTLFSISTVSVLIVSLASFFVPWLPMMFEAGLLIYGFRHIGIAIEDTIKDKISSTKFQDRTPQKVRLYRHSDFKKTRIEEIQPNDIIQVKPGELIPLDSVCEQDTLIYPTIITGAVIPKQFRSGEKILAGMRLANDAKPLTLRVLKTAKESYLARLDESIAQSVLEKAPIEIKTGQLLSYFIPSIIALSILSGIIVGLIATPALAIQCAISVLVSACPCTLGLIIPLAVKTGIHKGAEHGVQFKNSRVLQLAEQIDVVIFDLNGTLTTGVPVVKEYAVLNDADLSSEHFLSICNVLEGQSKHPFGKAIQSFTQGINKQKFNIANLDHSNHSGISAEINGIQYTIGSKTLMQEIGISTSSLENQMNLVAGDSLVFLARNKQLLGYLVITDPLRKDAKQTVDALIKMGKEVHLCTGADEKTAYRYAQALGIKKVHANCVATTINTEDRSKPVYIKSLQNQGLKVAMIGDAANDANALAASDFGIAVLSQDSDEITQQHASAIIQSGTILPIANAFAISKQTVNNINQNLLISLGYNLTTVLIAGGLLVALGFALNPAIGVALMVTQACFVLLNVYRFKEQPLQHLQDKVQEKPEPAPSSYEAMKKHSPNFHTAPEINHKPAIQSGKQPTNKNKSPSFWSDYFPELFEEEKDTSTEHLMNNKIG')
+('lpg2692', 'MPTTFEDKSSKVPSLKSLAANVIQKTNANLFFRLHSLETPPEIKKGFIDKELEALTHELTEDYQTKVEARNEKIEECSSNLSSNECFVKCSAFTLTTLMAGVHVGIYYILKAAAVDPSTQIAYISSIPATICFSMCVGVCLNRQITKCLSSCFTPSVPDKITVDLDELGRQSHVSP')
+('lpg2693', 'MDNESLLAILNNWSATNYAKGNYILREISSKFLAKISIDSNDYLLDAGCGDGSFTQMLANLVPDGYVLGLDRSKTMIDYANKHCRSINVRFDIGDIQEPIIYGPFDNILSFWCLHWTDLEKSLSNLYHVLKPGGKICAIFSSGKQSTLFEVLNSLQFQNLYPDVAKNVVQSKMMRENYSVQCRRALDNLPFKSISFVVEHCQVELPDLGLFENFIHGAPLFKDLPGKMYQDIVNGMVQFFDEYCKKKYGGKWVYETTPYFLTITRE')
+('lpg2694', 'MILIFEEHRMQLSSEQCDFFFTNGYLVINNFFSESVCDLLKQRIETLLENNQAEIPKTIFSTQTNEHAKKQYFLDSGDKIHYFFEPGAFDEAGDWLRPFNQSINKIGHALHELDPVFRQYSRDDRIKKIAHQLGLKTLGLVQSMYIFKQPGIGAEVLCHQDSTYIFGEDSDALGFWFAIEDATLENGCLEVIPSPCTTPLKQRMFRRENEIYFENFDSSPWPEENSVPLPVKKGALIILHGRVPHKSQANFSNQSRHAYTLHLVDISLPYPEKNWLQWPNGIPCL')
+('lpg2695', 'MALVLYCRMIKSVCVIRLSALGDVLMLVPLIRTLQNKLPNAQLTWIISKPAFYLVEGMEGVEFIVIDKPKTLADYWRFRKQMLPRQFDVLLAPQASFRTNWLIPFIKAKRKVGYDSHRANDGHRLFIRESISPGLEHTLEGFLKFAEPLGVTEKIIHWDLPITKADYEWAQNHLPEQERPILVVNPAASKPERSWLAERYIEVLKQAQVKWDVKVVLTGGPGDHDKSLAEEIAKEIPVVNLVGKTKPKQLLAVISKAKAVLCPDTGPSHMAAAVGTPVVALHAVTNPSISGPYTFQHLVVNRYSQAIQTVLGVSPEKSVWGTQVHGYEAMKLITVDDVMEKLTEIFSGLMNNT')
+('lpg2696', 'MMIVGCYCMNKLVFCLMGPTASGKTGLACELLTHFPFEIISVDSAMIYRDMNIGTAKPSIHELQRAPHYLIDIKDPVESYSAAQFCTDALSLCAEIIKRGNIPLLVGGTMMYFNALQKGLATLPEADEAVRKRLEEEALSQGWDFLYQKLSQLDPVTAARIHAHDTQRIQRALEVYYLTGSTLSTYLTGPHERPDYYFVNLALFPEQRSWLHERIAQRFDAMLSEGFIEEVQQLQAKWPIQINLPSMRCVGYRQILQHLAGHYDYETMREKGIAATRQLAKRQLTWLRHWEGALFYDSQNVGFNTDIIAKIREILDNTVSN')
+('lpg2697', 'MVLRIHQLSPAIANQIAAGEVIERPASVVKELLENSLDAGASVIGVDVNYGGLLQITVSDNGSGIVGDDLPLAIAAHATSKIRTLDDLYSIDSMGFRGEALASIASVAKVTIISKPEEQDNAMMLRVEGENRTLSPCARNIGTTIDVSDLFYNAPVRKRFLKNEKLEFQAIEMVVKRFALSAPQIALTLKHNKKLIFSLPPALSEQAKAIRMGRILGNTFMREAIFLDVEHSGMRLYGWISNHRLQRSQNDRQWIYVNQRMVKDKLLQHAVKQAYDGLLHAGRFPICLLYFTLPASEVDVNVHPTKHEVRFQQPRLVHDFFTSQLTKALQSTLDHSETMEYAYAASSCNEQQNTVSEPSHICNDRESYEGARALSPSWSDNSLSSSITCKGYKKTSSVYHPETEFQWVILNERFILVLIKQQPYLVDIVTLFQEWIEKQLMQKALPLESRPLLISIRYPLPNQWIHKLDHLKHELTRVGIQIEYPNADDLLIRSIPLNAPYLDVRRFFNVLCELDFFDTEQLIALISRSQMFDPKQLTVEERIEMNQLLLELSLQEEKCNTCKALTIDDCRMLLHE')
+('lpg2698', 'MMMRAWVLSLLLYLPSSFAVFSAQLKNITVSQQPTMTSLYLSIQGSFTHKLFTLSQPNRVVLDLSDTQLAVNISQLGLINSLIQQVRSGSPSKNTLRLVMDVKQPVKVRSSSWKPKGELNGIRIDLVNDTPLVINNRRQLSSPVKTIKAPVQQTQSKISSQPSEQRITVHKTPVQVPHNPSKKPLRDVVVVLDAGHGGKDPGARGPRRSNEKDVVLAITLKLKRLIDRQPGMRAVLTRSGDYYVGLRQRLDIARKYNGDVFISIHADAFNNPHSNGASVFALSQRGATSEAARWLAEKENYSELGGVNLGELDDSNGVVRSVLIDLSQTATINAGLEMGGKVLGQLDNFTNLHNNKVEQARFVVLKSPDIPSILVETGFISNPREERNLTNPAYQERLSQAIFQGLKNYFWDHPPHGTRIEAMISPNFHIVKKGETLPAIAARYRVSVNALQSINRLQARARLMPGQKLVIPGTWS')
+('lpg2699', 'MAIEDNDNFITLDLVSEQESKRFAEKLAFCISAPLVITLSGDIGAGKTTIIRAMLKSLGVISAIKSPTFSLVESYNCGQFHIHHFDLYRIHQEEELEYLGFRDYFSNQSVCCIEWPEHGGKTLPPVDIQFNLIIKGTGRLIQIAALSVAGKRILACLAGE')
+('lpg2700', 'MNKLENALYRCDQIKACEQQAATLYQKDENALMALAGAEAFSFLQKLYPHVRHIAVFCGAGNNAGDGYVLARLAHEQGFSVTVYQCKSIEDLPSAARNAARQALASGVHCQSADEPLDGDAELIVDALLGIGLQGAVYGVIANAIHQINASGLPVLSIDIPSGLNADTGLVENICVNATATITFIGLKTGMYTLDGPDYCGVIHCAHLNLEACTTKLTRFASLLRDSTLPLPLAARKKNSHKGDYGHVLVIGGGPGMPGAVSLAAKAALKTGAGVVTVATWPDYAKSALPLIPEAMIWGVKTAGELMPLLAKATVCVIGPGLGDSDWAKTLFLTAITTQLPMIIDASALRLLSQHPQMDDNWILTPHPGEAASLLSCTARDVQMDRYHAASAIQKQYGGVVVLKGAGTVIQTAEKNIFVCPQGNPGMATAGMGDILSGIIAAFCAQGFTLSDAAKLGVWVHAVAGDKVAEKSGEVGVLASDLLDEIPSILNCI')
+('lpg2701', 'MAMTSNKPYLIRAFYDWIVDNDLTPYILVDASNPNVQVPREHVQHDRIVLNISPSATRGLLLENDRIVFTARFSGQTEQIFVAPNAVLEIYAKENGRGIAFSVDEDDEPPPKTSSSSESATKNKPSLKLVK')
+('lpg2702', 'MAIVAKRTIMSLFSDVDDVYSHQVRIVLAEKGVNVEILAVKQDEPGADLLSINPYGTVPTLIDRELVLYEARIIMEYLDERFPHPPLLPVYPVARAEARKMMHRIEQDWYYLMNAILREESVEQARANLLESLTSLDPVFADKPYFLSDEFSLLDCALAPLLWRLPKLGLEIAPNFKGIISYMQRVFKRDSFQTSLTDAERQIRAA')
+('lpg2703', 'MMKIKVLLVAALAFLMSNAAFTENLTMDYVPVDINDKESLQRGAKMFMNYCSGCHSLKYMRYNRMAQDLGLTTFDGQIAEDLLKNNLIFTQANIYDPIQIAMSPEDAKQWFGMVPPDLSLSARDRGPVWIYNYLKSFYSDPSRPFGANNLLMPDVAMPNVLEPLIGKVILVKDKNSHANSLLVVKRGEMFEGQFDSALRDLVNFLVYVGEPAKLIRYKLGVFVLLFFCIFLIAAYSLKKAYWKQLK')
+('lpg2704', 'MNGLVNWLDERFPLVSTWKAHFSNYYAPKNFNFLYFFGSLALIVLVNQIITGLWLTMFYTPNAEQAFSSVEFIMRDINFGWLLRYMHSTGASAFFVVIYLHMFRGLLYGSYQKPRELVWLLGMFLYLLLMAEAFFGYLLPWGQMSYWGAEVITSLFGAIPYIGKGLAVWLRGDYSVANPTLQRFFALHVIGIPILMIILVFLHIVALHKVGSNNPEGIDIKKALDKDGKPLDGIPFHPYYTVKDFVGIIVFSILFFAVVFFAPEMGGYFLEHANFVPANPMVTPDHIAPVWYLAPFYAILRAIPDKLIGVVCMAAAILLLFFLPWLDKSNVRSVRYKGMYSRISITLFAFSFLLLGYLGTTPVTPVRLFLARIAAVIYFSYFILMPIYSRFEKTRPVPTRIGEK')
+('lpg2705', 'MSEMTDLNQDVSNHNQDEQLDEERRRFLLHTTCVLGGVGAACALTPFITSWLPSSKAQAAGAPVKVDVSRMEPGEQAIIEWRGKPVWIIKRSKDMLNQLQKEDESQLRDPDSLVDQQPEYAQNKFRSINPEFLVLIGICTHLGCSPKYKPSLGELGPDWPGGFFCPCHGSMFDLSGRVFKGVPAPINLEVPPYHFLDEHTIVIGEDAK')
+('lpg2706', 'MAEMKQYYGTGRRKSSIARVFLRPGKGDIKVNDRTLQEYFCRETSCMIVMQPLETVDLLNKFDVYITVTGGGISGQAGAVRLGIARALVAYDEDGLAEGAEPSPDSFRRKLRARGLLTRDSRRVERKKVGLHKARRATQYSKR')
+('lpg2707', 'MKTFSAKGNEVKRDWFVVDASEKVLGRLATEIARRLRGKHKAEYTPHVDTGDYIIVTNAEKVIVTGRKFKNKMYHHHTGFPGGIKSASFEKLQDKNPTKIIELAVKGMLPKNPLGREMYRKLKVYAGSEHPHTAQQPKQLEIEE')
+('lpg2708', 'MKSKLLEFDLHGPGKIRVSKSGCLGRCGSGPCIVIYPEGVWYTYSSFEDIEQIIKYHLIDGKIVAPLLLDR')
+('lpg2709', 'MIVNALSKAIMAETLCDELKLNKPVAKEMVENFFEELRHALENGQHVKLSGFGNFTLRDKPQRPGRNPKTGEEIPVEARRVVTFKPGLKLKTKIEKIGK')
+('lpg2710', 'MKVSKLWLREWVNFSLTEQELAEQLTMAGLEVDAVNPVAGQFTHVIVAEVLDTKPHPDADKLTLCEVNINKDKPLKIVCGAANVRPGLRVALAMIGAHLPGGLQIKESKLRGELSQGMLCSATELGLAEHSEGIMELSDEAPIGMDLREYLALDDHVFDIDLTPNRADCFSILGVAREVAVLNKLPLIEQPIVTVPPAIDDGLRVNLIHSEACPRYCGRIIRNLNLEAKTPLWMAERLRRGGIRTLHPVVDVMNYVMLELGQPMHAFDLAKINGEINVRYGVSGEQLELLDGQEVVLNDNVLVIADKEKPLAMAGIMGGANSAVQEQTQHVFLESAYFNPVTIAGVARKYGLFSDSSQRFERGVDPCLQSKALERATELILSISGGEAGPVIESFDKKFLPGTVSFLFDTTKVKKLTGLSIPLNEMKNLLEGLGVVIIKETNHFFEVTIPSHRVDLQQDADLVEEIIRLYGYDKLQAQPMQTSVQAGLISAKEKIATHVSSWFSAKGYHETISYSFVDPELQEALYPQKEFMELLNPISSELSQMRAGMWPGLIASMIYNSHRQQTAVKFFEIGVVFDLDGGQLKERSCIAGLLMGEQGNLNWSESARLFDFYDLKGDLQSLFASLKLDDVEFIQSSHHALHPGQSAQIVINGKHSGWIGVLHPRLSDAFDLDQDVVLFELNLESLINPTIPLYKPISKYPQIRRDLSFLVDRQISAMQIERVIRNTVKEDWLKSFDVFDVYMGKGIPEDKKSIAVAMTLQDDTRTLVDAEINLTISAIIKKLENEFSILLRE')
+('lpg2711', 'MGRTMLVLINTIQEQASEAIKQATDIVALEQIRVDFLGKKGKLTELLKGLANLSAEEKPKVGQLVNQAKQGISALIETKMIELKEKQLLAKLAAEQIDVTLPGRNHSTGSLHPVTQVKHRINDYFSRLGFDIVEGPEIETEFYNFEALNIPGHHPARAMHDTFYFGDGRLLRTHTSPVQIRTMEQRKPPFRLIAPGRVYRCDSDVTHTPMFHQVEGLLIDKQATLAGLKGLLQDFFAYFFGRELALRFRPSYFPFTEPSAEVDIECTQCNGKGCRSCKFTGWLEVLGCGMVHPNVLIAVNIDPNEYHGWAFGMGMDRLAMLYYGIDDLRMLFENDLTFLRQF')
+('lpg2712', 'MPRVKRGVTAKARHKKILDQAKGYYGARSRTYRVAKQAVIKAGQYAYRDRRQKKRQFRALWITRINAQARECGLSYSRLIDGLKKASIELDRKILADMAVHDKVAFAAIAEQAKAALAG')
+('lpg2713', 'MDLVEISPTAKPPVCRIMDYGKFLFELSKKQAEARKKQKQIQVKELKFRPTTEDGDYQVKLRNLIRFLNHGDKVKITLRFRGREMAHQELGMKILERLQADTADVAIVEQHAKREGRQLLMVLSPKKTK')
+('lpg2714', 'MKDGKTDKIMPNVKLPDGNVKHFEAPLTIYDVAHHISPGLAKAAIAGRVDGVLVDTSYLIKEDCSLIIVTEKHEDSLEIIRHSTAHLLAQAVKALFPSAQVTIGPVIEDGFYYDFAFERSFTPDDLSLIEAKMHELAKANLSITRRELPRNEAIQYFKDLGEEYKAKIIADIPENEALSLYRQGDFEDLCRGPHVPSTGFLKAFKLTKVAGAYWRGDSNNEMLQRIYGTAWADKKSLEEYLFRLEEAEKRDHRKLGKALDLFHFQDIAPGMVFWHPKGWTIYQELEHYMRNRLVDFGYQEIRTPQLVDRSLWEKSGHWANFRDEMFVTETENRHYAVKPMSCPCHVQIYNHGLKSYRDLPLRLSEFGNCHRCEPSGALHGLMRVRNMVQDDAHIFCTEDQIQSEVAMMLELVQSVYKDFGFTEIKYRLALRPEKRVGSDDVWDKAETALKLAMQGRNIEWVDAPGEGAFYGPKIECSLSDCLGRIWQCGTIQVDFSMPARLEASYVAEDGSKQTPVMLHRAILGSFERFMGILIEHYAGKLPLWLSPVQAIVLTISEKQNEYAEKVRKTLQKRGIRANFDLRNEKIGFKIREHTLQKIPYLLVVGDKEVENCQVAVRTRDGIDLGVMTIDTICDTLTQEIIRKGSI')
+('lpg2716', 'MWFKIIHSHVEIAIYAKPNAKKSKLMAISDDRLHIALHAKPQEGEANNELLFFISQFFKIPKTQIELIKGKSSRHKLIRLPLSESVFCFLNNPKI')
+('lpg2717', 'MEKVNLTKQFAYRLRDAMIAAGHNSQRSPSGVCIHKLAEMTGYSLQICRKYLRGEVIPDPVKLIEIASKLNVSPGWLLFGETHNDPGTSKEHITISKSLLHHIFTKAACLYNRELVEDDVSDFLMDLINDISLINATEEQSKKIIDLAISSVSHFRHSQRT')
+('lpg2718', 'MPKRLINKNIDIYNYPNEFEDNLGSISLGDLHGNAIKLIHFLFRHKIIKFKTEIINFHEAYQQFVTIYEQYDDMVQEYLEIRTLLQLIQIKITNAQQRILDIEQKLSLATDHQKEFSQSLLQLKKPIEANLQMAEKSKAGLEEKLSGLKTRLPSCIERFNKFMTQIEINDIKTLIRLLGDEVADRGSCDYFTLRILDFLYQNQIAIKIILSNHGYEFIHAYEKLVVGQPFKPKGYIGDIQIKSFWGLQLLLEQSVITEEELRSLVERAYKPTLKIIDYSLSEDGITLYSHAPIRFDSIRMAASQLGVTYNDSTKEALAETIDQLNAQLQIYMKNNMLHLLFENNEINDPTNMTDEERNASPLIYLVWNRWNESKEVENARPGKYNGYFVTYVHGHDPFQSPLTYVYNLDTLCGKYSRVGEEEQINKAFQFLTENRHTNVDKTASESLLRNISRYKVLDSDEYTLKHKIPKTSLELATDILDCKIKESLIKLSLLGKPKAVSGSLSVDQNISIPNQASLGK')
+('lpg2719', 'MRLLSFKKSKIVSIGTELEFQIIDCSSLSLVSRSKELMRALKDMRYRDQIKPEITQSMIEINSSIHQSAKEMYDELLELQKILVETAASIDIAFCGGGTHPFQQWTMQKIFPSKRFKKKFNQYRYLSKRATVFGQHIHIGCPTGDDAIYLTHALARYVPHFIAISASSPFYLGINTNYCSSRSTIFNAFPLSGVIPYLRNWQEFSDYYRKMYRWKIIENMKDFYWDIRPKPELGTIEIRVCDTPLTLRKSILITAYIQALALYLLEEKSVQLSHDLYYVYNYNRFQASRHGLEGELTVTDKDRPIPIMDDILETIKKIEQYINGLGNSEYIEELYSDVINKQNDSVLINKIYKQDGSFSKLVAAQCELWLSDSKDRKWMTQPS')
+('lpg2720', 'MDDTTFLSTKEKILEIKPLMESAFGNILGYQELENMLAICTLVPFSNNQILFHQGDRIKGIYIIIKGTVDLIARTLGKGITKIETCLASDFLGETSFLLNEPSATSAVAKDNVTCLFIPSAYFELMPAFSPEAKYKIMKAIGYQACGRLKQLHDKIIDFISHSDMQSLSFLGRVIQTFTQPKIHTLDESGVDKDQIYKKTLFNSFTQDETDELLEHAIPLTANKNCVLIHENETIPVCYIVIYGAVQSNVIQNSKIAKLSVIGPDSLFASTACFLSDTKFSITFITCESATLLKISEAELQYFQKNKPMIWYKLFNLICGSIISLARSLKKLDVRLNIEKYNQ')
+('lpg2721', 'MGMAAWDRNSINPLQAYVYKTSKLPFYDENLHNLAEKIAPHCLLAHLRGVSYHDKQVVTDQNVHPFLYPVTSIALAHNGMLHNFETMRYDLLKYVKTEYRKYIKGTTDSEWIYAVFLSQLENPKGHFDASEIINAVIATLKILKTVRQQNNIVINSPVNLFLTNGDFIAATRFCLDYGWKPKDATQSTHFTYHSLWYTYGERYGFYENEYKMKGGTINSSIIIASEPLTENTTTWLEVPEYTLIFANQVDGEIKITSQDINI')
+('lpg2722', 'MTCRRFIMVNSDLILSPYQLNDKITLKNRVIMAPMTRNMANDDFSPTRQMADYYARRADAGLIITEGTIISPDGQGYSNAPGIFTQTHIDGWKMVTDAVHERGGKIFLQIWHVGRVSHPIFLHGNLPISASETMMTGKVRRADDLYYGKSRAATLEEINELIQNYALAARRAMIAGFDGIEIHGANGYLIDQFLHYHTNQRHDQYGQYPENMGRFALEVVKACINEIGGQSVGLRLSPGAYLNEIVGDERDAMVFRYVLEELNHYGIAYVHTGNFDDGIQFKELGFKTMTEFMRAHFKGTLIASGSYTLHQARKDIQNKKYDLIALGRPFIANPDLMNRIKWNADFLPYENRMLDTLF')
+('lpg2723', 'MNVINILKALSNEKRLQIIRWLKEPDKHFSSSHCDVSKDGVCVGLIEKKSGLSQSTVSQYLSQLQQAGLIFTERRGQWTYCKANASLINEFINELKVMI')
+('lpg2724', 'MNNTIDNQSQEELTHFDANTPQSIIQLDRKLREMKSEVDMKINDPSSYNGDDKEVYFQKLSKLSEEINEAIKSLDALVKMVDIQDEEFKKDFYESDVMKEFNESVMKSFDKLPE')
+('lpg2725', 'MLLHYLFIVGICVEAITGALAAGRKKMDFFGVLLIASITALGGGTVRDTLFNTYPLTWVAHPEYLLYTSVCAFLTIFIAHSLVRIMKVFLILDALGLSTFVIIGTQKVLAHGMPPSVAVISGMITGICGGMLRDILCNDIPLVLRKELYAVIALAGALLFITLDYFHIPHNLNIIITLLCIFTARLLAIFFHIEIPIFDYSESIKRRKK')
+('lpg2726', 'MVLISTSMGDIHIKLDTENTPLTAENFLNYVRKGFYNDTIFHRVIDGFMIQGGGLNTNMEQKTTASPIQNEAKGAKPNKRGTIAMARTMDPHSATAQFFINVADNGFLNYSGDHPQGYGYCVFGEVVEGMDVVDAIAKVKTGQRNGHADVPVEEISIIEVRELA')
+('lpg2727', 'MPFLRMNTFSCEVLYQHSGTKARVTRVVTPHGEFITPVFMPVGTRAGVNNMMPSELSAAGTQIILGGNTYHMLCAPGMKVIENAGGMHRFMGWHGPMLTDSGGFQVFSLSKNKEICSIDESGAHFKLPGSKGIIHMTPEMSLETQKIIGADIIMAFDQCTPDSCSKDEVSQIMLRTHRWLKQSIDYHQQYPNSRYGYKQALFGIVQGGVFQDLRRESADFVSAMNTDGIAIGGETVGFDMDTTVEVIRWVYEYLPGNKPRYTMGVGMSPQDLLDVVAEGIDMFDCVAPTRNARHGALYCGKLVREGNWLKFQSEHENGRIQIKKSCFADDLAPVMESCSCYTCLNYSRSYLHHLSKQKANLFTALASIHNVHVLHDVCNHMRHLIINS')
+('lpg2728', 'MDYVWNFYAWVGCHVFSVYGDNGAFSVFSNPNDQLIPGIKRVLSLSFFVLSCRFCE')
+('lpg2730', 'MIFKLTIRGRINMRLNIALILSFFSIMLFAMDEVDEQQILQRIQPVGKVRVQEEQGNNIEAGATKTTVVDSKSKKEPGQDIYDKYCSVCHRDGLAGAPKFQSEADWKPRLASKKIDDLLASAIKGLNAMPAKGTCMDCSDAELKAAIQYMLPKS')
+('lpg2731', 'MSNTEYQTIDNKTQYINGKEKHQNHAYPEYINHSMEKYYEGRVNKSWQGKHILKGKTPTANSLIFSSNDYLNISQHPQLIKAQIAAMQKYGNGQMQSAVFLNNSSFLLSQCEKKFSSFLNYSAALLTQSGWSANVGLIQTLAKYNTPVYLDFYAHMSFWSGVKAARAKSIPFLHNSVDSLKKRIEHHGPGIIAVDSIYSTLGTISPLADYADIARKFKCLLIVDESHSLGTHGSQGKGMVAKLGLSSQIDIITASLAKALSGRGGIITGDRQLIEYIRYSSLPSIFSSALMPHDLAGFSASLEIITQEEWRRAKLQTNADFLREALSCEGINIGSSGSQIVPLVTGSEANTLWLRDELEKEDIFGAVFCSPATPKNKCLIRLSISAHHEKSDLLRVIECLVRLARKRPDIPLFKGN')
+('lpg2732', 'MQHFSIPTCYFPSTAVFVDDSRDFLLNFVLQLDEGLAYRVFDSPFEALDCIKQKRCELELLSERCLSEYTEAKNCPLTNHTINLDLAAIHAEVYNSRRFSEISVVVVDYAMPGMDGLEFCRRIEDTNIKKILLTGQADEKLAIAAFNEGLIHRYIKKSDPDVASLITQSIHDLQLQYFQSMSDMIVRMLSVTSPNCLHDKKYAELFWRLCREKGIVEFYLADNSGSFLMLDDDANISFLIVKNEADMQLHYDLALDNGASGDVLDQLHNGEKIPCFWQSNLVTPQWNEWSNCLVPANRFVSDETYFYAYVQGAVLFDVRLDKILSYHQYLEELDAEEMFLN')
+('lpg2733', 'MANSQEFNQPPVDELKRNWGWILGFGIFFLILGCVGLGMVVGLTLVSMFFFGALLIVGGISHIIDVFKYKEWKGMIWQALIAVLYIAAGCIVLYDPFLASTLITAFLAAVLIVIGLTRMIMAFALKDSTGWGWLLLAGITAIILGILILMQWPVSGLWIIGLFIAIELIVTGWTYIFIAISVKTAKL')
+('lpg2734', 'MSQLKKIVKHLDESMQRSLSNSAHQLVAVGAIAFVGFPLFYVIWAFWLPQPYENLPLRLIGSLLGLGLMLTPYWPLKWKQYLSWYWFLTLLFTLPYFFTFLFLMNQASVISAMSLLCGVFLLVLLVDLLSLSIVLILGFSLALVSYYLVSPQMYFGEEHIQMTLVIIFTIIAGSTLNYKTAMLQQQKLAGMAAAAGMIAHELRSPLLGIKSGAQALVQYLPRLIDGYQLAKKQELISSPLRDRLLLQLGGVSNRIVSEIDYANTIIDMLLVKASRDNILQNCILETCSIAECLSEAITRYPFQSPRERTLITWTGDFQFKGSKLLMQHILFNLIKNALYVIAMAQRGEINIWTESGDKYHYLYFKDTAKGMSKQQLNRLFNHFYTTTFMGTGIGLSFCKLVMNAFGGDIVCESKEGEYALFILSFPGSV')
+('lpg2735', 'MIFTQRTYTVYSMSAKIIRIATRQSPLALWQANHVREMLVKQWPNLSIELLPMITSGDRFLKDKLLSAGGKGLFVKELEEALLDKRADLAVHSTKDMPAQLPDGLLLTAICKRDNPFDALISPQFKSLAALPKNAIIGTSSLRRQSQLLAYNPNLQIKTLRGNIHTRLSKLESGEYQAIILAAAGLERMGLAHHITQLIPDDIMLPTCAQGALCIECRTDDLEIQELVHGLNDPISALCVHTERRVNAKLGGNCHIPFAVYCTITEEKLLLLRAKVLNMDGSQMIDDEQQGKIAEAEVIADRCTESLMTKGAMSLLSTIPS')
+('lpg2736', 'MTKSLNGLRILNTRPREQAQVLNKKIIESGGIPIDCPTMEIMASETNWINNLPDLTSVNQAIFVSTNAVRYFMMELASKNINWPNSIRVTAIGKGTSRVLNEFNIQVSDVPELPDSEHLLTLNSLQQIRNQTILLVKGEGGRQLIEEYLMLKGAKLCLLSVYKRVMPAIDQEFINSLWRDDLVDIILLTSEQSIHNLFKMFSIEGQMWLQNKPCLVISDRLAKVASLFGIKKILISHPERMIGALFDYKD')
+('lpg2737', 'MANSNEEQKKTIQPQQPSKVEPDINQQMKASFFGSKYLSLIISLTSLLAFLAIIVSIYSIQLEKQFQNHQLVENKNLTDELERIKVEQNTVQKLLDNNANHLQQIQSDLTSKMDSLNKELQTAMKQKLYQNNDWLLLKARYYLELAQINVHWSDNFNTSVALLQQADALLKGMNIPKIFTIRQTIAKEIAQLKSISVVDITGILSQLDAAQAAINNLSIQSVVDQQEVLNHITKSEESGKTGWRNRLQDSVNFLEKLVVIRRHNENIQPLISPLYESAIKENIRLNLQEAQWAILNNNPAVYQFALNQAIANLKRVFNESSQNTDVLIKQLSTLQNVKLTQEKPVVGQAIPLINQMIDNKELLVDQANSKKGEN')
+('lpg2738', 'MIRVLFAFIILLLSVFLGIQLNKDPGYVLIAINNWTIETTLWVSVFGLFFLFFLIYGLVQFCNKITRMPGMVNKWHSRRLAQKAQATTRKGLIEYSEGYWQKAKNHLIQALPNTDTPLLNYLTAARAAQKMGDSKLRDHYLREAQQSMPEAKIAVELTQAQLQLANHQWEQALATLKHLQDLAPRHPYVLKLLMNLYEEIKDWQQLIALLPDLKKNHIISDQAFEQLQKNTYLQAMIDLAKHNQSDGITKLYQTLPKTLVNDTAITAEYARFLIRNQDYDQAEYHLKRCLRKELDNRLIELYSLLPCEENQLLFAESLLKKNPHSAALYLCLGRMCLSRHLWGKAKHYLEQSIELNPTPVAFIELGKLHEKLNDPLSSGSCYKKGLELITKDELS')
+('lpg2739', 'MSKHSHDGAHHHEHGEVTYDRAFIIAITANGLFVVMQIIFAYLANSTSLLADAFHNLGDVLGLILAWVATGLMKRKPTHKATYGFKKTSILAALANGALLVFTCGIIATDAMYKLFSPTEIQAVSVMIVAAIGIVVNFSTALLFLRGSDDLNIRGAYLHLFYDALISVGVVLSAGVLYLTGWLWIDPVVGLLIALVILKGTWSLFADSFRLIIDGVPRDISWIKVSDFLLAIPGVKSIHDLHIWAISTKENALSVHLFMPEESLSDDLRRELVEKLKHDFSIQHVTIQVEKTETECNDACHNPRIII')
+('lpg2740', 'MTNRERLELPNGAKKLLLHSCCAPCSGEVMEALIFSEIDFTIFFYNPNIHPLQEYEIRKEENIKFAQKHNIPFIDADYDKENWFARAKGLEWEPERGKRCTMCFDMRFERTALYAYEHDFPVISSSLGISRWKDMNQINDCGVRAASHYPDLIYWTYNWRKNGGSERMYEIAKREAFYKQEYCGCVYSLRDTNAWRKQNTRDRIKIGLNYYSASKNEGDL')
+('lpg2741', 'MKNNQNLIWIDLEMTGLEPEQDRIIEMATIVTDPQLNILAEGPVIAVSQPKILLDSMDAWNTKQHNQSGLVKRVLESNVSESQAEQLTIEFLKQYVDKGKSPMCGNSICQDRRFLYKYMPELAAYFHYRNLDVSSLKELVLRWRPELMNGVVKESKHLALDDIKDSINELIYYRQHFINLPEVKNDK')
+('lpg2742', 'MKVYLVGGAVRDRLLGIPVQEQDWVVVGATPEELLKRKYRQVGRDFPVFLHPETKEEYALARTERKSAPGYYGFICDFSESVTLEEDLARRDLTINAMAMDEQGNLIDPYQGQRDLEEKLLRHVSSAFVEDPVRVLRVARFASRFHHLGFRIANETRLLMYSMVKQGELAHLIPERVWQEWQKSLEEKNPEQFILSLRSCDALRVILPEINSLFGVPNPHQYHQEIDTGIHSLMTLRASSELSEEPLVRFAALVHDLGKASTPIQAWPKHHGHEEEGTKLIRALCARLRIPNDYRDLAVTVARAHLNIHRLCELRPNTIVKLLEQVDAFRRPQLFHKILIACQADAESCGKTVVYRQTQLWNEILSECVKVTPQTFIVQGYEGKAIKEAMHQSRVACVERIMTSWKSNEK')
+('lpg2743', 'MSKRRINKQQSARIAKIQKNYHEYMGNNSDNLADGLVITRFSRHAEIEDNQGKRILCSIRPNLDTLVAGDRVIWQIEGEKQGVVVSIYPRGSLLARPSQKGLKRPVAANITQLVVVIAPKPEISWPLLDSYLIMAEILQVHVVIVLNKIDLPCQTLQQRLMMDYQLLNYPVIMASNQTPDTIVPLKQALNNQISVFVGQSGVGKSSLISSLLPHEENIAIDKISMVSELGKHTTRNSRYYHLPSGGALIDSPGVREFSLWDIDCSMIAQGYKEFKPYLSQCKFRNCTHINTPQCAIIDALNKGKISTQRYENFTKLCAQFNSLKE')
+('lpg2744', 'MSNLIELALRNAALDRTKLLSQVQKIEFLNGYDPRFVEGLISLEMIGDIDEYVASLMYVKMTDKYTQEEKEQLTDTILTINNDRLISCQYRFPQLYQKLMQDQFLSTFFSSSHLLPNIAPGTNNQSYETVSTNNKMKMESAKLYGHYEYYQCVVALITQIDGSRYFYHLNPNRIFGDYMGSAPLKLSGSELKDVKDITFILHPRSMVDYREFQRLQERNIVFKTVMLPVGAKSVSLSYDTDKDVLTVNNLEAGQTVTYNNLLQTPQYNRYQYTPEQYFMTQLYRGQTWAEALGEALDKYIVTRQEGATWWDLKPLFFNRKTTKNNMIAAARIKKEIEAGATSFDFTGVSRNGLLNQLLTTAVDYQLEYQRGLQNGVLSAEDLTTSAALR')
+('lpg2745', 'MLVGSIWFIKDRLQTLMLVQDIRRFLDELRESKTILPCDKRLSAILQEHFSHRENHEELTSNDIQFVLQCFSERWIADSECDYLLYPSQANQVWIKLAHEIEPFTDKNYLQILLPHVTNQFDFNNLTPLTETVRLENFYLGYDGKTLYRKRGLCEHLLDNQFELSTCRTLKTKQCEVMTIEELTRLYKGKYCNGEFSIDKEKFDNFWDFLYKKTFPRMQSRGEIPLEVLPHLLMLIESYYHLKNSGADFKLFTAEIHKFFKILYQFKLENINFLYGVKILYHGKEYYLLELFVLINMAQSYDVDEQLKAIMSWLYQFNPILKASNKGLLSFYAELEPKFHSEGHLEKRVETGTDNLLYRIKTFLVSLFVTPFEVFPFSGKTISFWDIKNVIFSEGQEIYNQFAPFIMTNKLDALIAVYKKTMDEHIILCQKNKHICKWLTHYQSTLDWYQLVEAGDLSKMDVYWFDPELLFHVLVHFRLINKSLGEKIVNFLDELIHTYAQNNNEFQIQLRVNILFSRFLKSLDEQQRRKLILTLSLFDPVEAKSKFLTNCIHYVTNRLCQISMHQLDSSPNFFGTYQCIDSKKLLINKTDVKQVSAILEAFKEMLHSLEERCNPEQLENMLIFLRNISRPILTVAEIEEAQQSARVIDYIGAPT')
+('lpg2749', 'MNSWAVSACYPRSTFYPLSDGPSIQNHRITKTNFRSCSSRHSRSQAPFCLYTLGTMSDRTEGTFVLLRYSLGGDRPSQTTHHTLSSSRITGPS')
+('lpg2750', 'MALPFRTTGSLRPTFVPARAVTLAVKHPFAFTLLVRCPTVPRVPLCSSVTLWEETAPVKLPIIHCPHPGLLDQVRTSITTGWYFKGGSMRTSVLTSQPPTYPTQSSSKSSAKL')
+('lpg2751', 'MASSFSWKPGINDFSVPKGQNHFAPQSYGKPDLPSLPPYMQVPGQPTPGSPSLLRPHFTTYKKSRNINLVPIDYALQPRLRGRLTLLRLTSCRKPGTSGVWAFHPHYRYSCQHSHF')
+('lpg2754', 'MSYLALARKWRPRTFSQLVGQEHINKALINALNQQRLHHAYLFTGTRGVGKTSVARILAKALNCEKGITSEPCLHCDTCIAIEQGRYIDLIEIDGASKTRVEDTRDLLDNIQYAPTNGRFKVYLIDEVHMLSQHSFNALLKTLEEPPSHVKFILATTDPQKLPVTVLSRCLQFNLKHLPAELINQQLQLILQEERLDFEIQALDILAQAARGSMRDALSLLDQAITSCETKLLASDVKMLLGHTQQDYALLLLQALAKQEAPIMLVLSQQIIAEGGNFQYVLDEILSYLHQITVYQCLGDNNPLISPKAEIKELAKQFSAADTQLFYQIGIKGREEMHLAPTLAIGFNMTMLRMYTFKPASHVTTPPLAFEQNNKTCSLIVDDNTPAQNPIGIEPIPVIKATDNTVAYQQTQSLSTDDKKSANSGESMSCDWNEIIPQLKLSGLALNAIENAEFLGKKEREITFGVHKGHQSLFTPTTINRIETALAGYYKSPVKIILNTQDAVHASPAQQKEKASQEKLEQAEAALHADPVFQQLQQEFSAELVKNSIVLLKDDL')
+('lpg2755', 'MDINQNLGNLMKEAQKMQQRMQEAQQQLSQLVVSGESGGGMVTIKMNGRHDVTEVKIKPTLMDEDIEMLEDLIAAAVNDAVRKIEKASKEKISQLTAGLNIPTDLMGDKEGE')
+('lpg2756', 'MTMDALSRLVEALRCLPGVGPKSAQRMVFHLLQHQRQRGLHLASCLEQAMKHISHCQQCNNYTEQTLCALCQNPNRDSTLLCVVESPADVSAIEQSNSFQGKYFVLMGKISPLDGLGPDDIGLPKLKELITREKIQEVILALSPSVESQTTIHFIHQLLKDETVNISQLAHGIPSGGELEFLDGNTISSALKNRAVINV')
+('lpg2757', 'MSKSIFILCRKKILVLLLLSLCFITSTASASFYRSLWPKWLVNTPLSKQSISHQAWQHFLDHHVITNEEDINLVDYTNINEKELASLKEYIKNLSQIDIDNYNRQEQLAYWINLYNALTVLTVANYYPIANIQEINISPGLFSVGPWGANIITIKNTNLSLDDINNRIIRPIWNDPRTHYALNNATIGAPNLSKQAYQGPLLEQQLNDAAFKYINSLRGVHVIEGKLIVSKLYDWYEEDFGGTKKYVIKHLLQFAKEPLRNQLKHINTIDSYIYNWHINCPADNQS')
+('lpg2758', 'MKKKHLIFAYFSQFLLFNLCFFGLQLLLLYSHAESLISSIKLPLPIYFEIIGTLVIQFSLYIIISMIQALLLIGILNRSWHYFSTEQWQIIIWSLFACAILSANAYYFPLSVFSKLFSPPIPEFIFLILLYFSLACLGLLLLNCLFYRTTARLLSIALPIGICIFLLNNYWKSSLNPNVDSEPNVIILGIDSLSPESVTSRNMPFLHQVLLDSFQFTNTISPLARTYPAWSSILTGLYPKHHLAEENLVERSRVKSQLSIVWDLNKLGYNTIYATDDRRFNSIDENFGFKKIIGPKTGVNDVMLGSYNDFPLGNLLVNFRISSWLFPYNFSNRASFISYYPETFTNELKRELSLQQNSPVFLAVHFALPHWPYAWAASLPDQVENEFSLSKRDALYLRALKAVDNQFKVIFCYLKKHGYFKNSLVIILSDHGEVLYYPNSRLTSYQKYQSSLTSKLAEYFKAKTATELDKSAGHGSDILSPMQYHSLLAFNVYKDGKLLTKTNKIKTRVALFDLAPTILDFLNITKKQKMDGISLLPTVLNPDTPLPHRTFFIESGMYPNQDFTKEKAIELGKKIYKVNPDTGQLELKPDELIQVNNQKLYGVISGNWILALYPDDNTYIPVILNLSTGEWIDNLQSDFAKSSPAEKLKRQLQEFYGKKLAYPIQ')
+('lpg2759', 'MLEEKGMTQKTLTLPNGFVTDNDRAKARIKYELKQLETQLGKCVKQPDDTAFSKNKHSLYMALADKYSEYLKLIDIDSKFKQFVGVEIPKDISYPEACNRIMHLKQKRSAAVNLLEEAKIIIEISSLYQCLAKAIEPNEVSDVSNHLILNQFDKLKQLFKKENLELWLSTLVDLWNHNSTLLREPAKLFRNWDLEEQTIALCFFSESEVVNLVNAIFFYKLYPDKLFNELIHPEKLVSVRMRLGFLHEFIELLQKQLHSNALQYGLNPGIDFLFHGEELPQGIMIEVNEVYRDIIQLAVKNLRVQFTPENNEKVTLERLHDLGRAYKFWFNPNRLIDAVMVLQQRLVKESISQEEDLEKFHQEMLVLYRQLTTTECLDLYGYFANNDSRYLLYTLYSINNGYSLDWLPSLNSSERNAIARVYQALKCVMEALRVELKNRFITTEPYLYDLGKKEIHTGRRNREAVFRIIAIYGCERIVMSDSLERLFNLIEEPN')
+('lpg2760', 'MMSQRHYLLFIDNEPVSEELKDYFEKFNLDIIQQKKLFPIHVEKGLPTAILINWSILRAEPEVIEQFYNMYPVPLIVINNKPDEESSVAMLEAGADDFMTKPIYPRELHARIGAISRRVMRAQQKLDHGKEVLMFANWRLYPASRQVFGENNEELQLSAGEYDLLLTFVQQPQRVLDREFLLQITKNTDLVPFDRRIDVQISRLRQKIEIDKKKPALIKTIRNGGYMFTARVVTLKESDATL')
+('lpg2761', 'MQHMESVMKEQFFQTKDLNTLLRSVEKPIQDLLELNFKTLKTVSYVTPIELFNVLKPEEVLEKNMNVFIQNSQKAMSYMLNVFQIMEHHWINIYDQMAENPNEKKANPAIDKANRKVDTSTPKSSASKKAVTAKGKTKPAAVQSKAKTSKAKPKISSPIKVKTNTQERPAAVKQQSQMPLSSLQKDMEKQGINTPVALKNSVAILKNETKDIVPSNNKLK')
+('lpg2762', 'MKILYVPFSRHQAGDLKSMVELWKKNDEQFSPDRIEIIYFNDDINYDQLDEKIEIYICAHGSDDDNVTKLFNHSNPLVAESLDIKEVAERFERDILPISYWISTIHLYCCGTNNKNQMMAELLGHSLLRPEKPIYHYSGSVSIVDEYGKQWSFANHVKIPVHLVAKRIFVLNFFDEEQPHRAFVKKAFQSKTYKELLAKKEDSFFAKVKENRASVLLSKRLGKKSQDGEENSLLRKGN')
+('lpg2763', 'MQLPLSTLLVLLFFLICLSAFFSGSEIGMMSINRYKLRHLVKSNDKQAMRVNSMLARPDKLLSVVLIGNTLANIVASTLATLIGQRFYGDAGVAIATALLTILILVFAEMTPKTLAAIYPQQVAFASSLPLSILQWIFSPLVHLISLITNGILRLFNISVKRMQKETLTGEELRSVVHEAGGLMPVEHKSMLISLLDLEQATVEDIMVPKADIVGIDLDLPWIELLEQLETAQHTRLPIYHGSIDHLAGMIHVRNILNLALENKLDMENLLNSAEVPYFIPEATPLNIQILNFRKMKRRSCFVVDEYGDILGLVTMEDILEEIVGEFTTDIAALSRDITPQQDGSVIVDASITIRHLNRMMGWSLPLIGPRTLSGLIIEHLGYIPPPDSCLVIDHYHIEILRVSDNMIRGVKMIKTNKKRK')
+('lpg2764', 'MSLMEIQSGRDVPNEVNVIIEIPMHGEPVKYEVDKKTGALFVDRFMTTAMFYPTNYGYIPNTLSEDGDPVDVLVITPVPLISGAVISCRAVGMLKMTDESGVDAKILAVPTTKLSKMYQSMQTYQDIPQHLLLSIEHFFKHYKDLEEGKWVKVEGWVGPDAAREEITSSINRYNHTKK')
+('lpg2765', 'MNCLFCKIAQGEIPATVVFEDKNILAFRDIRPQAPTHLLIIPKKHIATINDVNDDDSELLANILIRAKKLAQAEGLSEMGYRLVFNVNSGGGQEVYHIHLHLLGGRQMTWPPG')
+('lpg2766', 'MAARLGILAMEKLYSNLLKELGEDINREGLKDTPGRAANALRYLTKGYNENLDEIINGALFDSDMSEMVIVKDIELYSLCEHHLLPFLGKCHVGYLPDGKVIGLSKIARIVDFYARRLQIQERLTGEIAHCIESTTGARGVAVVIEAKHLCMMMRGVEKQNSVMTTSVMLGEMRNNSSCRLEFLNLIR')
+('lpg2767', 'MKLFSFFLVLISSASLGQSLPLHLLKYPSKFSINIYAAPVSDAREMALGSKDIVFVGSRSAGKVYAVIPDKKNSHGTRVLTIASGLNMPNGVAFHKGALYVAEIGRILRFDNIESNLNNPPEPVVVTTKLPKEKAHGWRFISFGPDDKLYIGIGAPCNVCLMEDPRYATIMRMNTYGQDLEIYARGIRNTVGFDWDPLHHNLWFTDNGRDWLGDNLPPDELNVAPRKGMDFGFPYCYGKSTVDPVYGKIHSCSEFTPAVFEFPAHVAPLGMSFYTGKLFPSNYWGQIFISEHGSWNRSHKIGYQVTTVKIKNNHVTEVKPFISGWLQGEKAWGRPVDTLVMPDGSLLISDDYANVIYRVSYQQ')
+('lpg2768', 'MAKITKEIVFGNHKLILETGEVARQADGAVMASMNGTQVLVTVVWKKDGGESNDFFPLTVNYQEKFYAIGKIPGGFNKREGRPSDNETLISRLIDRPIRPLFPDNFFNEVQIIATVLSLNPEVSPDIIAMIGASAALSISGVPFNGPIGAARVGYKDGVYLLNPSRKEQEESKLDLVIAGTKDAILMVESEAQELSEDIMRGAMLYGHEMMKNVIKSIEELARDVGKSKPEWKAPEIDTVLKARINDVARNEVEAAYLIKDKQQRYQRLDELREQTISALLAENDELNADVIANMFGELERSIVRNRILDGEPRIDGRDHRTVRPISIRTKFLERTHGSCLFTRGETQAIVVATLGNERDAQILDGISGESRDRFMLHYNFPPYSVGETGQVGSPKRREIGHGRLAKRALMAVLPDANEFPYVLRIVSEITESNGSSSMATVCGTSLALMDAGVPLKAPVAGVAMGLIKEGDRYAVLTDILGDEDHLGDMDFKVAGTEKGITALQMDIKISGITNEIMEQALEQALEGRTHILGVMNNALAEHRTELSQHAPRITTMKVAEDKIRTIIGKGGATIKGLIESTGVSIDIDDSGVVQLFSPDKMALEEAQKQIKALIAEIEVGQTYQGKVSKIVDFGAFINLLPGKDGLLHISQICADRTQKVEEVLQEGQEIEVFVAGIDKQGRVKLEWKDKPQAEAKEVEDAPVSATFLTMEEQSEEINSGNKISEEEE')
+('lpg2769', 'MSLNSAEKAEIINEYKRGDKDTGSPEVQVSLITSRIKYLTDHFKENKKDFHSRRGLQELVNKRRKLLKYLKRNDQDRYQTLIQNLGLRDSY')
+('lpg2770', 'MIQVVMTTIESQCSIDGILLLNKPQGMTSNAALQKTKHLFGAKKAGHTGSLDPLATGMLPLCFGEATKICQYLLNADKSYETIGRLGIKTNTADCTGEVIFCIENYTVSHEEMIATLEKYKGKIKQIPSMFSALKHKGTPLYRLAREGIEIERKARDIVISQLNLEQFDGECFTLTVSCSKGTYIRNLVEDIGDTLKAGAHMTKLHRLYTAGFENNRMYTLDELQDMPLSQRLACLIPIDQAVQHLTPVILSDSEVTAIRQGKVISNKTGAVEGEDLRLYGEQSQFIGIGQALIHGDIKAKRLVSFAL')
+('lpg2771', 'MSNNFKRTDRIAEMIQRKLALIIPQEIKDPRLKGFVTISAVKVAADLGHAKIYFTVLNEDKSVVTNILNGAASYLRSALARSITLRTVPQLHFIYDESIEYGQRLSRLIDEVNPPDSSSDDNN')
+('lpg2772', 'MADVTVKQLAQVVGIPVERLLNQLQEAGLSFTDDQQTVNEEQKRILLNHLKGSSNRDISAAPERITLRRKSMSQVTVGHDMHSGKTVNIEVRKKKTFIKRSAIPEQAEVEEPVVPPVVEEPVHEEITVVSEVSAETPELKETEEHPVIEPVAELDETVKEEEKINSEENTAESQDELTHANTDVIENLVDVVEETIPVSKKEEVKPEKVSKKKHLEQTDSDISEFKKGKKKPKYHTFEHDEEEQELHRRGGRSKFKKKKGTEKSDKYREAEETLTHGFALPTAPIVREVLIPETITVAELAKRMSVKAAEVIKVMMSLGAMATINQVIDQETSVIVVEEMGHKPIIIKEDAVETGLGEAISKGTKTEGRAPVVTIMGHVDHGKTSLLDYIRRTKVAAGEAGGITQHIGAYHVSTPKGNITFLDTPGHAAFTAMRARGAQATDIVILIVAADDGVKPQTIEAIQHAKAAKVPIIVAINKMDKPDADPERVMNELSVQEVIPEAWGGDTMFVNISAKSGMGIDDLLDAILLQSEVLELKAVTDGAAKGVVIESRLDKGRGPVATVLVQSGTLHKGDILLAGFQYGRVRALVSDNGDLVDSAGPSIPVEVLGLSAIPHAGDEAVVVPDEKKAREVALFRQGRFRDVKLARRQKTTIEGIMENMTATESKVLNIVLKADVQGSLEAISDALTKLSTDEVKVDVISSGVGGITESDVHLAIASNAILIGFNVRADGTAKRLAEQESVSIHYYSVIYDIVDQIKGALTGMLAPQFKEEIVGIAEVRDVFKSPKIGAIAGCMVIEGVVKRNNPIRVLRSNVVIYEGTLESLRRFKDDVLEVRQGFECGIGVKNYNDVKPGDLIEVFETVEIKRDL')
+('lpg2773', 'MSKELLLVAEALSNERGVSKDVIILAIQAALESATRKILGLDIGVRIKIDSKTGDYETFRYWDVVNEEELEFPDRQLSLEQAKERKPSAAVGDRIEEIIPSIEFGRIEAQTARQVIMQKVREAERELIIDQFRSKLGQLIYGTVKKVTRDNIIIDLGGKAEAFLPRSEMLPHEMFRPNDRVRAYLYEITPQARGPQLFVSRTRNEMLIELFRIEVPEIGENIIDIKAAARDPGNRAKIAVKTNDGRIDPIGACVGMRGARVQAVSSELGGERVDIILWDDNPAQLVINAMAPADITSIVVDEDTHTMDLAVAKEQLSQAIGRNGQNVRLASQLTGWTLNVMTTEEFESKNQEESSKIVNLFTSALEIDEEIATLLVAHGFSSLEEVAYVPKEELLAIEEFDEEIVEELRNRANDKLLEMALSSGKGLSGTPDDSLINMEGMTEDLANKLASKGITTMEDLAEQSVDELMEIEGISEEKAGALIMKAREPWFQ')
+('lpg2774', 'MINDDLIVLLEPIIKNMGYELWGCEYLSQGKHSLLRIYIDKPDGIGIDDCQEVSKQVSAMLDVEDPIPGHYSLEISSPGIPRPLFSIWQYQRYLGYEIHVKTFKPVNGKRKLSGIIVSASEDTIVLDINNEHQEILLSNIVKANLTV')
+('lpg2776', 'MQSSSLARLNMMTLLENIHVAIPEMIILITACLALLSDLFFRHKLKSIAFYISCVGIIVSAAVSFVFIGSYKLLIFNKLFISDDISHLMKLFIDITVLLSFVYSQNYLDERQMPTGDYYVLGLFSTLGMMILVSAHSLLSLYLGLELMSLPLYAMTAIRRTDSDASEAAMKYFVMGAIASGMLLYGISLVYGATGKLDLLDVANAVAVNWQQQNTLFAFAMVFILAGVGFKLAAVPFHMWAPDVYQGAPSSVTLFISTAPKIAALGMALRFLTIGLVDITMQWQQIILVMALLSTGIGNLLAVIQTRIKRLLAYSAISHIGYALFGVLAASSAGYAAALYYILVYAVMSAAAFGLIVLMSNHGMEIDSIDDLKGLNKRNPWLAFMMLLVMFSMAGVPPTVGFFTKLLVLKALVDVHMTWLAVVGLLFTVIGAYYYLRIVKIMYFDQPENEEIVRIGTGNTIVYSLNCLSLLYLGIFPGALIAACINAFAN')
+('lpg2777', 'MHYLLNLLIWLPILGGVFVLLTGDDKNPNVSRYLTLFTILLCLVLCIPLVKGFDLQSFGMQFIEEIPWMPALGINYTLGIDGLSLLLIVLSIFTNLIVILATWDSISKKVSQYLSAFLIMQGLLVGIFSAMDAIVFYIFWEATLIPMYLIIGIWGSDNRVYAAIKFFLYTFLGSVLMLASFLYMGYIAGSFKIETFYAIKLGMTAQTLIFIAFFLGFAIKIPMFPVHTWLPDAHTEAPAGGSVVLAAILLKLGAYGFIRFSLPIVPDACSKYAPLMVALSLIAVVYIGLIAIIQKDMKKLIAYSSISHMGFVTLGCFAIFAIARHGGLSNAGLILEGAIVVMISHAFVSSAMFAGVGFIYDRMHTRQLADFGGIVNTMPIFASFFMLFAMANAGLPGTSGFVGEFMVILGSIKAGFWVAFWAATTLIIGAAYTLWMYKRVIFGPVANKKVAALKDISGFELSAYVLLAIMVIALGVYPKPMLEFVHQTVSHTLALADKSKL')
+('lpg2778', 'MSIQQVCLVIVLTPLVGSAIAGFFRNQIGRVGAHTVTILGVAISLACSIFLAWGLFSGSIPNTNSLVYHWASGGALIPYEFNIGFLIDPLSVVMLVIVNFVSLLVHVYSIGYMADDDGYQRFFSYISLFTFMMLMLVSANNFLQLFFGWEGVGLVSYLLIGFWYQKESAIEGSLKAFLVNRVGDFGFVLGIGLIFAYSGSLDYEKVFTSANYLASQNIELFSGYSWSLITVICLLLFVGAMGKSAQVPLHVWLPESMEGPTPISALIHAATMVTAGVFMIARISPLIELSTAALSTVLVIGATGALFTGILALVMNDIKRVVAYSTLSQLGYMMVAMGASAYSAGMFHLLTHACFKALLFLGAGSVIIGMHHEQDMRKMGGLWNKMPITYVTYVIGSLALCAFPPFAGFYSKDTIIEAAQLSQIPGSSYAYFCVTAGAMVTALYTFRSLFMTFHGKPRMDEHTLSHLHESPWVVWLPLVLLAIPSIILGYVLYMPILFDTPSLLGSSIFVLPEHNVLAELAHEVSSPFASAVHAIYSLPFWITVLGAVIAWICYIAVPSIPGYLARYFSIIYSILLNKYGFDRFNELFFVKGARGLGIAFYKIGDQKLIDGAVVNGSGRLVRWFSGKGRKIQSGYIYHYATVMVFGLLAFLCWLILD')
+('lpg2779', 'MIPVYDYLVLGVILFGLSLVGIMLNRKNIILLLVCVELMLLAVNTNFIAFSHYYNEVGGQVFVFFILTVAAAEAAIGLAIVMLLYRNRGNIDVDKMNHLKG')
+('lpg2780', 'MHEWVIQAIFYVFALLTVLSAVMVISQNNPVRCVLFLVLTFFTSAVLWVLAEAEFLALILILVYVGAVMTLFLFVVMMLNIDIESMKSHLIKYLPFGLIIVALLTGLLMVAIPKDLFKNSVQTQEKPLSVNSQLMDLSTEDGLVTPEKATSNTEKLGMVLYTDYILAFEIAAVILLVAIVSAITLVHRGAIRSKRQDITQQIMTRRAERVKLISMKSEK')
+('lpg2781', 'MKKVYHYIIHYVRTYLLLELLAGLWLTVKYFFRKKITVQFPEEQTPLSPRFRGLLALRRYPNGEERCIACKLCEAVCPALAITIESEQRDDGSRRTTRYDIDMFKCINCGLCEESCPVDSIVVTPIHHYHISERGQNIMTKEKLLAVGDLMESQLAADRAADEKYR')
+('lpg2782', 'MLHTIGILIWIIIKILVIVVPLLISVAYLTYAERKVIGYIQVRIGPNRVGLKGLLQPFADLLKLITKEIIVPTRSNKYLFVIAPLFALVPSLVGWAVIPFQEGIVLANINAGVLYLFAMSSLGVYGVLIAGWASNSKYAMFGALRSTAQTVSYEIAMGFALVGVLLAAGSMNLTDIVNSQKGGMLHWWFIPLLPLFLVFWISGIAETNRAPFDLAEGESEIVAGFHVEYSGIGFALFFLSEYASMILISTVLAILFMGGWLSPFEGITFLDQIFFIVPGFVWLLLKISFFLFVYLWVRATFPRYRYDQLMRLGWKVLIPVTIVWLIVTALMVVAHVKPWF')
+('lpg2783', 'MATIEIDGKTFEAENGKMIIEVADEAGIYIPRFCYHKKLSVAANCRMCLVEVENGRKPVPACATPITNGMKVFTKSEQAIHSQKVVMEFLLINHPLDCPICDQGGECELQDISMGFGADKSEYTETKRAVDDENLGTLISTEMTRCIHCTRCVRFGEEIAGVRELGATGRGEKTQIGTYVEHSMTSEVSGNIIDLCPVGALTSKPYRFKARAWELTQHDSVAPHDCLGSNVHIHTRNNKLMRVVPRENESINETWLSDRDRFSYLGLNAVSRASKPQIKKNGQWEAVDWETALKFAAEGISRVIKQHGPEQMAAFASSSSTLEEMYLLQKLMRELGVQNLDHRLQQIDFRDQAFLPTTPVSTLPYAEIDHQHSILLIGCNIHREVPLAGTRVRKAFRNGAKIYALNPVDFDYHFDLSGRVIISPLEMPMQLAKLALALTTELASLPEEVQKLLIGLEVDKQTKQIAQSLKEEKACLITGAIVENHPEASLLRTLVAIVQKLSGAKLVRLTTGANSAGACIAGMLPHRTVAGKSIAEPGFNVQEALNSKLKGYLLMGVEPGYDFANPAGARQSMLAAEFVVLLSAYEHESMHDYADVILPIAPYAETSGTYINIDNTWQTVKGAMLPFGESRPAWKVLRVLGNLLHCKKFDYTSTEDILEEVKEAVSMTMEHEYEPYYPESLPVINQSLVRVGEWPLYRIDAITRNAKELQLCAASESACIRIHPSTADRLKLEEIATVSQGDIEITLPLKRDERIAVDVVWVANAMPETVDLGHSFAAITIKR')
+('lpg2784', 'MFAMVELNQVCYRTFHLPESWSLSTYESIGGYSAWRKILKEQTSPQLIIEELKTSALRGRGGAGFPTGLKWSFMNRNSPVQKYVVCNSDEGEPGTCKDREILTLNPHQLIEGMAIAGYVMGATVGYNYIRGEFWLPFERTEAAIKEAYDAGLLGKNILGSGFDFDLYNHLGAGAYICGEETALLNSIEGKKGMPRFKPPFPANYGLYGKPTTINNTETFASVPVIMEKGGEWFLKLGKPNNGGAKCFSVSGHVNKPGNYEIPLGTPFKTLLDLAGGVIKGRKIKAVIPGGSSMPVLPGDVMLGLDMDYDSIQKAGSGLGSGAVIIMDETTCMVDALYRISEFYMDESCGQCTPCREGTGWLVRLLHRIINGHGEPGDVEKLVNVANNIEGRTICALGEAAAWPVQSFVKHFYDEFEYFIKHKRSIVAA')
+('lpg2785', 'MSANSAKILSQLMPANRMLDIDHWISKYPKDQKQSAVMSALRIVQEEHGHLTTELMNAVAEYLDMPPIAVYEVASFYTMYEHKPVGRHLINVCTNISCMLRDSAGVVEHLEKKLGVNLGGTTEDGRFTLRSVECLGACVNAPMMQVDKDYHENLTAESIDKVLEQYQ')
+('lpg2786', 'MKVAKMIELKNYTLNFGPQHPAAHGVLRLVLELEGETIVRADPHIGLLHRATEKLAETKPYIQSIGYMDRLDYVSMMCNEHAYVMAIEKLLGIEPPLRAKYIRTMFDEVTRILNHLLWLGATALDIGAMTVFLYCFREREDLFDCYEAVSGARMHATYYRPGGVARDLPDTMPQYKPSRWHSEREIEKKNHNRQGSLLDFLWDFTERFPHCVDEYETLLTDNRIWKQRTVDIGVVSPENALQWGFTGPMLRGSGIAWDLRKKQSYAAYDRVEFDIPVGKTGDCYDRYLVRVEELRQSNRIIRQCIEWLRKHPGPVKVDDYKVSPPRRVVMKHDMEALIHHFKLFTEGFCLPRGEVYSSVEAPKGEFGIYMVSDGANKPYRLKIRAPGFAHLSSFDDMVRGHMLADGVAILASQDIVFGEIDR')
+('lpg2787', 'MTKNEYLIEKLQADLANHITELTSAYGEVTIECEVQNLLPVMIELRDREEFSFDQLIDLCGVDYLHYGDYDWETESATEHGFSRGVERQEAKAYAVNKPRFAVVYHLLSTKKNHRLRVKLFVEESHLIVPSVHHLWKSANWFEREAYDLYGILFDGHPDLRRLLTDYGFIGHPFRKDFPLSGEVEMRYDAKLQKVIYAPVDIVPRIVVPKVIRNDNRYIGNEGSKND')
+('lpg2788', 'MAVAELEKKGFELTTVEKLVGWARSGSMWPMTFGLACCAVEMMHVGAARYDLDRFGIIFRPSPRQSDVMIVAGTLCNKMAPALRKVYDQMPEPRWVISMGSCANGGGYYHYSYSVVRGCDRIVPVDVYVPGCPPTAEALLYGIIQLQNKIRRKPVLEA')
+('lpg2789', 'MLSQYLPVLVFIIVALILGAVMIGAGSLLSKHSPDSAKNSPYECGFGAFESSHIPFDVRFYLVAILFIIFDLETAFFFPWALALRKIGWFGFYAMMLFLGLLVIGFIYEWKRGALEWE')
+('lpg2791', 'MIHVLIAVILIGLVLIQHGKGADIGAAFGSGASNTLFGSQGTGGFLFKLTGGLAITFFITSLMLSYMVSTQNQKAGQLAIPQQTGAPVSSVPVPVEKNNKK')
+('lpg2792', 'MRQKIVAGNWKMNGQIQQVTELVSQIEELIGFDCAAQVAVMPPSIYIPKVRDCLRTGKIVVGAQNVYPKDYGAYTGELSAPMLKDFDCRYVLVGHSERRQFFHEDENFVAQKFHHVKDHGMIPVLCVGETLSERENGKTEQVIAQQVLAVSAKGKDCFRDCVVAYEPVWAIGTGKTATPEQAQKIHQFIRDLVGEINDSDAKHLTLIYGGSVNENNAKALFSMPDIDGGLVGGASLNAKQFVEIVKCIN')
+('lpg2793', 'MNEIILHLMNEISTLTPPINPLNLKQIFSSTLLPEGKAPVEVESQLNLLLLIKKYVDEYSSLAEEQEEYKRKKHKLDEVMKKGEELQRKISDLAKKIEHAKNELNPLYKEIEPKANEVLSKQNPLAPPYKFPEYGEVQKSIVVGHYSYLFKTSKEIETTRAKLKLVLLKNKWNALMADLSQFGIQPPVEEDAVDSLQKFIAAVELEIKKLTRACEKWDELQKRFAKQLSATDINKKETELEKQIELLLKDLGRIETVVTNHSLAPDLKAELTRKFQESEDTQGLIQEYQNQIDGLLSNFNPSSWLSWYSDSNYSDNQQKLKNSVSFLQLLAQQKELKIKHHELVKQQELLIKAIPETPSNEEDISIYKKLVPDAIDLINEIPIESIPNFVLPSGLSYDSSPADFYLVLLILMPKVSEKKEQFSQALEKLQEMPALGKQIQQLRSGYDLPITMDVQLPSLQEAEESKDSLNEEDPLKEELKSQIKLCQSYLETAKQIDLLMKDHGQTTNEAKALIEQLRLISNQPLKNEDINSIKEDLSTLANQIQSLVSELNQLPLPNLSGEKIDPPLEKQEIAVDKTIPLTVELMHPAQVIQIGNDSPIEKQQLDNEEETPVVLESLRPRPVIHKESESITQKLQVDNGQEMPVVLDSTCTPQAIHKELESTTEKLQVDNGHEIPVVLESTRSPQIIHTESESVGKKQHVEVEQEIPVTLELIRPSSMVEKDSVATVEKQQVTERQETPIVLESTRLSPMVQKDTGLSGEKQHKEIEQEISVVTELTPHTQVVRQGSESSLEQQVPNGQETLAVVKSSPSEPLRPSTPEVPAISRKPNGLSLFNGHDELSEDNILAFFDEAGNQISISSEEDSETFTVDRGKVISSGIDKAFKEKPVSTGHELDKLSNPQHQESAPSISPLPPSSILLKQKLDSFHVQNMEYIKQHSEEIQLWYKGLYDAAQSSCVNEALGLKALHLLKDILFELKNQNDLSVLLAYKRMCPNPLQDIQNILRLKPALPIVDESIDEEQQLKNWPEELQKFHQQYVKLKKEHPLEAELFIQAIHSLISIKHLMELPDAKTSNREAMPLITQDPRYEPLKRHRGFIRAWEYIEDFFRMLIGKLTGQDEYEYSKRPCFFKTRSHRLLEEVDTILHSMAPTSS')
+('lpg2794', 'MSQRKYFGTDGIRGHVGLSNINPEFVLKLGWAVGCVLANGARKKVVIGKDTRVSGYMLESALEAGLSAAGVDVALLGPMPTPGIAYLTQTLRANAGIVISASHNLFEDNGIKFFSADGGKLPDSVELAIEAQLEKQLQTVPSAKLGKATRINDAAGRYIEFCKSTIPSLSRLSNLKIVVDCANGATYHIAPNVFSELGADVVPIGIKPDGFNINQECGSTAPELLREKVIAVGADIGIGLDGDGDRVILVDSLGNLVDGDQIIYIIAKDRHQRGVLHGGVVGTLMSNYGLELAITSLGVPFQRSKVGDRYVLETLREKDWKIGGETSGHIVCLDKTTTGDGIVAALQVLSIMVKQNKALHELTAGIQLLPQTLVNLKTNNAALLASNPDVIQAVKNLEKHLNGEGRVLLRPSGTEPLLRVMVEGANASIVKQQAQMLCDDISQIDKKMTESLPST')
+('lpg2795', 'MNSEQFLGWLERKSQPPSSLVFEKPLIMGVLNVTSDSFYDGGKYLSVDSACDQALKLIACGADLIDIGGESTKPGAPPVPLDVELSRVLPVIKQLRVLADVCISIDTNKPEVMEAAIDAGANVINDVYALRRDGALNVAAQLDVPVCLMHMKGEPRTMQENPSYPEGIMKELQHFFKERIDKCQKAGLNKNKLILDPGFGFGKRVKDNLKLIYHLNELRSFGLPILLGVSRKSTIGAVLNNEVEQRLIGSITLGIYAALKGTAIIRTHDVDETNQALTMINAIYQAAKEIG')
