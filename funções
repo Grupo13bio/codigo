@@ -1,46 +1,29 @@
+
+#recurso ao grupo 11
 from Bio import SeqIO
 
+#LerFicheirodeInteresse
 record = SeqIO.read("sequence.gb", "genbank")
 
-print record
+#RecolherFuncoes
+funct=[]
+for i in record.features:
+    if i.type == "CDS":
+        if 'function' in i.qualifiers:
+            funct.append((i.qualifiers["locus_tag"][0],i.qualifiers["function"][0]))
 
-featCDS = []
-seqDNA=[]
-annotations=[],[]
+#RecolherTraducao
+trad=[]
+for i in record.features:
+    if i.type=="CDS":
+        trad.append((i.qualifiers["locus_tag"][0],i.qualifiers["translation"][0]))
 
-for f in record.features:
-   print f.type + " " + str(f.location)
-
-
-for i in xrange(len(record.features)):
-    if record.features[i].type == "CDS":
-        featCDS.append(i)
-
-
-print ""
-
-print "Features CDS"
-print "tamanho das features:" + str(len(featCDS))
-print ""
-print ""
-
-for k in featCDS:
-    annotations[0].append(record.features[k].qualifiers['protein_id']) 
-
-    if 'function' in record.features[k].qualifiers:
-       annotations[1].append(record.features[k].qualifiers['function'])
-    else:
-       annotations[1].append('-')
-       
-
-print "As annotations sao:" + str(annotations)     
-print ""
-print ""
-print "A traducao e:"
-print ""
-print ""
-for k in featCDS:
-   
-    seqDNA =  record.features[k].extract(record.seq)
-    print seqDNA.translate()
-
+#ImprimirInformacaoRelevante
+print "Gene&Funcao:" + "\n" 
+print "Genes com funcao definida: " + str(len(funct))
+print "Genes com funcao desconhecida: " + str(213-len(funct))+ "\n"
+for function in funct:
+    print function
+print "\n" + "Gene&Traducao:" + "\n"
+for translation in trad:
+    print translation
