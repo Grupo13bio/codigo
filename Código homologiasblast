@@ -1,4 +1,4 @@
-#baseado no código do grupo 7
+#baseado no código do grupo 3
 
 from Bio.Seq import Seq
 from Bio.Alphabet import IUPAC
@@ -6,22 +6,20 @@ from Bio.SeqRecord import SeqRecord
 from Bio import SeqIO
 from Bio.Blast import NCBIWWW
  
-seq_cds=SeqIO.read("sequence.gb", "gb")
+seq_CDS=SeqIO.read("sequence.gb", "gb")
+
+PROTS=[]
  
-proteins=[]
- 
-for feature in seq_cds.features:
-    if (feature.type == "CDS"):
-        seq_protein = Seq(str(feature.qualifiers["translation"]), IUPAC.extended_protein)
-        protein_record = SeqRecord(seq_protein)
-        proteins.append(protein_record)
+for feature in seq_CDS.features:
+    if feature.type == "CDS":
+        seq_PROT = Seq(str(feature.qualifiers["translation"]), IUPAC.extended_protein)
+        protein_record = SeqRecord(seq_PROT)
+        PROTS.append(protein_record)
          
 save_file = open("homologiasblast.xml", "w")
  
-for protein in proteins:
-    result_handle = NCBIWWW.qblast("blastp", "swissprot", protein.format("gb"))
-    save_file.write(result_handle.read())
-    save_file.write("\n")
-     
+for protein in PROTS:
+    result_handle = NCBIWWW.qblast("blastp","swissprot", protein.format("gb"))
+    save_file.write(result_handle.read())    
 save_file.close()
 result_handle.close()
