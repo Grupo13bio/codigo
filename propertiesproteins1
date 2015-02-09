@@ -1,0 +1,1581 @@
+Nome do Gene: lpg2583
+Zona do Genoma: 2912523..2912861
+Status: Unreviewed
+Nome da Proteína: Flagellar protein FlhB
+Função Molecular: protein secretion
+Localização Celular:membrane
+
+Nome do Gene: sidF
+Zona do Genoma: 2913345..2916083
+Status: Unreviewed
+Nome da Proteína: inhibitor of growth protein SidF
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: pcgL
+Zona do Genoma: 2916109..2916840
+Status: Unreviewed
+Nome da Proteína: D-alanyl-D-alanine dipeptidase
+Função Molecular: Catalyzes hydrolysis of the D-lanyl-D-alanine dipeptide
+Localização Celular:cell wall
+
+Nome do Gene: lpg2586
+Zona do Genoma: 2917042..2918136
+Status: Unreviewed
+Nome da Proteína: cysteine protease
+Função Molecular: cysteine-type peptidase activity
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2587
+Zona do Genoma: 2918357..2919907
+Status: Unreviewed
+Nome da Proteína: thermolabile hemolysin
+Função Molecular: hydrolase activity, acting on ester bonds 
+Localização Celular: Não disponível
+
+Nome do Gene: legS1
+Zona do Genoma: 2919924..2921081, complement
+Status: Unreviewed
+Nome da Proteína: acid sphingomyelinase-like phosphodiesterase
+Função Molecular: hydrolase activity
+Localização Celular:Não disponível
+
+Nome do Gene: dacB
+Zona do Genoma: 2921870..2923663, complement
+Status: Unreviewed
+Nome da Proteína: D-alanyl-D-alanine carboxypeptidase 
+Função Molecular: serine-type carboxypeptidase activity
+Localização Celular: Não disponível
+
+Nome do Gene: spoOJ
+Zona do Genoma: 2923755..2924546, complement
+Status: Unreviewed
+Nome da Proteína: chromosome partitioning protein ParB
+Função Molecular: DNA binding 
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2591
+Zona do Genoma: 2924663..2925160, complement
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2592 
+Zona do Genoma: 2925333..2926082, complement
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular:membrane 
+
+Nome do Gene: lpg2593 
+Zona do Genoma: 2926079..2927362, complement
+Status: Unreviewed
+Nome da Proteína: Ribosomal RNA small subunit methyltransferase B
+Função Molecular: RNA binding
+Localização Celular:Cytoplasm 
+
+Nome do Gene: fmt
+Zona do Genoma: 2927359..2928303, complement
+Status: Reviewed
+Nome da Proteína: methionyl tRNA formyltransferase
+Função Molecular: methionyl-tRNA formyltransferase activity methyltransferase activity 
+Localização Celular:Não disponível
+
+Nome do Gene: def
+Zona do Genoma: 2928300..2928812, complement
+Status: Unreviewed
+Nome da Proteína: peptide deformylase
+Função Molecular: iron ion binding and peptide deformylase activity
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2596
+Zona do Genoma: 2928906..2929943
+Status: Unreviewed
+Nome da Proteína: Signal peptide protein, LysM domain protein
+Função Molecular: Não disponível
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2597
+Zona do Genoma: 2929940..2931025
+Status: Unreviewed
+Nome da Proteína: DNA processing protein DprA
+Função Molecular: Não disponível
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2598
+Zona do Genoma: 2931036..2931452
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: topA
+Zona do Genoma: 2931531..2933810
+Status: Unreviewed
+Nome da Proteína: DNA topoisomerase 1
+Função Molecular: DNA binding,magnesium ion binding and DNA topoisomerase type I activity 
+Localização Celular: chromosome
+
+Nome do Gene: lpg2600
+Zona do Genoma: 2933912..2935885, complement
+Status: Unreviewed
+Nome da Proteína: Acyltransferase
+Função Molecular: transferase activity, transferring acyl groups other than amino-acyl groups
+Localização Celular:membrane
+
+Nome do Gene: lpg2601 
+Zona do Genoma: 2936021..2936461, complement
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2602 
+Zona do Genoma: 2936592..2937014
+Status: Unreviewed
+Nome da Proteína: Conserved domain protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2603 
+Zona do Genoma: 2937032..2938336
+Status: Unreviewed 
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: host cell cytoplasmic vesicle
+
+Nome do Gene: lpg2604 
+Zona do Genoma: 2938631..2939434
+Status: Unreviewed 
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2605 
+Zona do Genoma: 2939490..2939906, complement
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2606
+Zona do Genoma: 2940021..2940887, complement
+Status: Unreviewed
+Nome da Proteína: Glutamine amidotransferase
+Função Molecular: transferase activity
+Localização Celular: Não disponível
+
+Nome do Gene: pepO
+Zona do Genoma: 2941026..2943062, complement
+Status: Unreviewed
+Nome da Proteína: Metallopeptidase PepO, peptidase
+Função Molecular: metalloendopeptidase activity
+Localização Celular:Não disponível
+
+Nome do Gene: lpxC
+Zona do Genoma: (2943206..2944120, complement
+Status: Reviewed
+Nome da Proteína: UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+Função Molecular: UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+Localização Celular: Não disponível
+
+Nome do Gene: ftsZ
+Zona do Genoma: 2944368..2945564, complement
+Status: Unreviewed
+Nome da Proteína: Cell division protein FtsZ
+Função Molecular: GTPase activity and GTP binding
+Localização Celular: Cytoplasm 
+
+Nome do Gene: ftsA
+Zona do Genoma: 2945759..2947021, complement
+Status: Unreviewed
+Nome da Proteína: Cell division protein ftsA
+Função Molecular: cell cycle, cell division and regulation of cell shape
+Localização Celular: Não disponível
+
+Nome do Gene: ftsQ
+Zona do Genoma: 2946997..2947716, complement
+Status: Unreviewed
+Nome da Proteína: Cell division protein FtsQ
+Função Molecular: Cell division protein.
+Localização Celular: Cell inner membrane 
+
+Nome do Gene: ddl
+Zona do Genoma: 2947732..2948838, complement
+Status: Reviewed
+Nome da Proteína: D-alanine--D-alanine ligase
+Função Molecular: ATP binding, D-alanine-D-alanine ligase activity, magnesium ion binding, manganese ion binding
+Localização Celular: Cytoplasm
+
+Nome do Gene: murB
+Zona do Genoma: 2948810..2949748, complement
+Status: Reviewed
+Nome da Proteína: UDP-N-acetylenolpyruvoylglucosamine reductase
+Função Molecular: flavin adenine dinucleotide binding, UDP-N-acetylmuramate dehydrogenase activity
+Localização Celular: Cytoplasm
+
+Nome do Gene: murC
+Zona do Genoma: 2949745..2951154, complement
+Status: Reviewed
+Nome da Proteína: UDP-N-acetylmuramate--L-alanine ligase
+Função Molecular: ATP binding, UDP-N-acetylmuramate-L-alanine ligase activity
+Localização Celular: Cytoplasm 
+
+Nome do Gene: ftsW
+Zona do Genoma: 2951164..2952348, complement
+Status: Reviewed
+Nome da Proteína: Putative lipid II flippase FtsW
+Função Molecular: lipid-linked peptidoglycan transporter activity
+Localização Celular: Cell inner membrane; Multi-pass membrane protein
+
+Nome do Gene: murD
+Zona do Genoma: 2952345..2953688, complement
+Status: Reviewed
+Nome da Proteína: UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Função Molecular: ATP binding, UDP-N-acetylmuramoylalanine-D-glutamate ligase activity 
+Localização Celular: Cytoplasm
+
+Nome do Gene: mraY
+Zona do Genoma: 2953702..2954820, complement
+Status: Reviewed
+Nome da Proteína: Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Função Molecular: phospho-N-acetylmuramoyl-pentapeptide-transferase activity, UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity
+Localização Celular: Cell inner membrane; Multi-pass membrane protein
+
+Nome do Gene: murF
+Zona do Genoma: 2954902..2956287, complement
+Status: Unreviewed
+Nome da Proteína: UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Função Molecular: ATP binding, UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase activity,UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity
+Localização Celular: Cytoplasm
+
+Nome do Gene: lpg2619 
+Zona do Genoma: 2956480..2957259, complement
+Status: Unreviewed
+Nome da Proteína: Cell division protein ZipA
+Função Molecular: Não disponível
+Localização Celular: Cell inner membrane; Single-pass type I membrane protein
+
+Nome do Gene: smc
+Zona do Genoma: 2957264..2960758, complement
+Status: Unreviewed
+Nome da Proteína: Chromosome partition protein Smc
+Função Molecular: ATP binding
+Localização Celular: Cytoplasm
+
+Nome do Gene: lpg2621
+Zona do Genoma: 2960933..2961613
+Status: Unreviewed 
+Nome da Proteína: Acid phosphatase, class B
+Função Molecular: acid phosphatase activity
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2622
+Zona do Genoma: 2961715..2962776, complement
+Status: Unreviewed 
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2623
+Zona do Genoma: 2963086..2963898
+Status: Unreviewed 
+Nome da Proteína: Transmembrane protein
+Função Molecular: Não disponível
+Localização Celular: integral component of membrane 
+
+Nome do Gene: greA
+Zona do Genoma: 2963973..2964455, complement
+Status: Reviewed
+Nome da Proteína: Transcription elongation factor GreA
+Função Molecular: DNA binding 
+Localização Celular: Não disponível
+
+Nome do Gene: carB
+Zona do Genoma: 2964464..2967667, complement
+Status: Unreviewed
+Nome da Proteína: Carbamoyl-phosphate synthase (glutamine-hydrolyzing)
+Função Molecular: ATP binding, carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity, metal ion binding
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2626
+Zona do Genoma: 2967794..2968066, complement
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular:Não disponível
+
+Nome do Gene: lpg2627 
+Zona do Genoma: 2968179..2969360
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2628 
+Zona do Genoma: 2969395..2970147, complement
+Status: Unreviewed
+Nome da Proteína: Membrane protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2629 
+Zona do Genoma: 2970147..2971217, complement
+Status: Unreviewed
+Nome da Proteína: Permease
+Função Molecular: Não disponível
+Localização Celular: integral component of membrane 
+
+Nome do Gene: lpg2630 
+Zona do Genoma: 2971214..2972215, complement
+Status: Unreviewed
+Nome da Proteína: Permease
+Função Molecular: Não disponível
+Localização Celular: integral component of membrane
+
+Nome do Gene: pepA
+Zona do Genoma: 2972463..2973947
+Status: Unreviewed
+Nome da Proteína: Probable cytosol aminopeptidase
+Função Molecular: aminopeptidase activity, manganese ion binding, metalloexopeptidase activity 
+Localização Celular: Cytoplasm
+
+Nome do Gene: holC
+Zona do Genoma: 2973928..2974362
+Status: Unreviewed
+Nome da Proteína: DNA polymerase III, chi subunit
+Função Molecular: DNA binding
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2633 
+Zona do Genoma: 2974501..2974818, complement
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2634 
+Zona do Genoma: 2974841..2976205, complement
+Status: Unreviewed
+Nome da Proteína: Leucine aminopeptidase
+Função Molecular: aminopeptidase activity, manganese ion binding, metalloexopeptidase activity 
+Localização Celular: cytoplasm 
+
+Nome do Gene: mviN
+Zona do Genoma: 2976210..2977781, complement
+Status: Unreviewed
+Nome da Proteína: Putative lipid II flippase MurJ
+Função Molecular: Não disponível
+Localização Celular: plasma membrane
+
+
+
+Nome do Gene:Ipg2636	
+Nome da Proteína:30S ribosomal protein S20	
+Função Molecular:rRNA binding	
+Zona do Genoma:2978139-2978405	
+Localização Celular: Ribossoma	
+Status:Reviewed
+
+
+Nome do Gene:lpg2637	
+Nome da Proteína:Uncharacterized protein	
+Função Molecular:não disponível	
+Zona do Genoma:2978466-2979677
+nao disponivel	
+Status:Reviewed
+
+
+Nome do Gene:lpg2638
+Nome da Proteína:Uncharacterized protein
+Função Molecular:não disponível	
+Zona do Genoma:2980029-2981411
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2639	
+Nome da Proteína:enhanced entry protein EnhC 
+Função Molecular:não disponível	
+Zona do Genoma:2981818-2985420	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2640	
+Nome da Proteína:enhanced entry protein EnhB	
+Função Molecular:não disponível
+Zona do Genoma:2985447-2986013	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2641	
+Nome da Proteína:enhanced entry protein EnhA	
+Função Molecular:transferase activity	
+Zona do Genoma:2986010-2986732
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:Ipg2642	
+Nome da Proteína:sensory box/GGDEF family protein
+Função Molecular:signal transducer activity	
+Zona do Genoma:2986905-2989412	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2643	
+Nome da Proteína:Uncharacterized protein	
+Função Molecular:não disponível	
+Zona do Genoma:2989553-2990212	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2644	
+Nome da Proteína:Tail fiber protein	
+Função Molecular:não disponível	
+Zona do Genoma:2990380-2991861	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2645	
+Nome da Proteína:Excinuclease ABC subunit C	
+Função Molecular:DNA binding	
+Zona do Genoma:2991885-299374	
+Localização Celular: nao disponivel	
+Status:Reviewed
+
+
+Nome do Gene:lpg2646	
+Nome da Proteína:response regulator GacA	
+Função Molecular:DNA binding	
+Zona do Genoma:2993753-2994430	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2647	
+Nome da Proteína:phenylalanine 4-monooxygenase	
+Função Molecular:iron ion binding	
+Zona do Genoma:2994537-2995355	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2648	
+Nome da Proteína:competence damage inducible protein CinA	
+Função Molecular:Mo-molybdopterin cofactor biosynthetic proces	
+Zona do Genoma:2995794-2996891	
+nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2649	
+Nome da Proteína:GTP-binding protein Obg	
+Função Molecular:GTPase activity; magnesium ion binding;GTP binding	
+Localização Celular: Zona do Genoma:2996850-2997875	
+Cytoplasm 	
+Status:Reviewed
+
+
+Nome do Gene:lpg2650	
+Nome da Proteína:50S ribosomal protein L27	
+Função Molecular:structural constituent of ribosom	
+Zona do Genoma:2998090-2998368	
+Localização Celular: ribosome	
+Status:Reviewed
+
+
+Nome do Gene:lpg2651	
+Nome da Proteína:50S ribosomal protein L21	
+Função Molecular:rRNA binding	
+Zona do Genoma:2998381-2998692	
+Localização Celular: ribosome
+Status:Reviewed
+
+
+Nome do Gene:lpg2652	
+Nome da Proteína:General stress protein CTC 	
+Função Molecular:5S rRNA binding	
+Zona do Genoma:2998935-2999594	
+Localização Celular: ribosome	
+Status:Reviewed
+
+
+Nome do Gene:lpg2653	
+Nome da Proteína:Peptidyl-tRNA hydrolase	
+Função Molecular:aminoacyl-tRNA hydrolase activity	
+Zona do Genoma:2999713-3000282	
+Localização Celular: cytoplasm	
+Status:Reviewed
+
+
+Nome do Gene:lpg2654	
+Nome da Proteína:GTP-dependent nucleic acid-binding protein EngD	
+Função Molecular:ATPase activity; GTP binding;ribosome binding;ATP binding;ribosomal large subunit binding	
+Zona do Genoma:3000301-3001392	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2655	
+Nome da Proteína:sensory box protein	
+Função Molecular:não disponível	
+Zona do Genoma:3001753-3002868	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2656	
+Nome da Proteína:octaprenyl diphosphate synthase IspB	
+Função Molecular:transferase activity	
+Zona do Genoma:3003002-3003970	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2657	
+Nome da Proteína:Ferrous iron transport protein B	
+Função Molecular:ferrous iron transmembrane transporter activity; GTP binding	
+Zona do Genoma:3004193-300644	
+Localização Celular: Cell inner membrane; Multi-pass membrane protein
+Status:Reviewed
+
+
+Nome do Gene:lpg2658	
+Nome da Proteína:ferrous iron transporter A 	
+Função Molecular:transition metal ion binding
+Zona do Genoma:3006445-3006672	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2659	
+Nome da Proteína:ATPase N2B (nucleotide (GTP) binding protein)	
+Função Molecular:ATP binding	
+Zona do Genoma:3006761-3007852	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2660	
+Nome da Proteína:transmembrane protein 	
+Função Molecular:não disponível	
+Zona do Genoma:3007840-3008502	 
+Localização Celular: integral component of membrane	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2661	
+Nome da Proteína:Ketopantoate hydroxymethyltransferase	
+Função Molecular:3-methyl-2-oxobutanoate hydroxymethyltransferase activity ;metal ion binding	
+Zona do Genoma:3008661-3009527	
+Localização Celular: Cytoplasm	
+Status:Reviewed
+
+
+Nome do Gene:lpg2662	
+Nome da Proteína:Pantoate--beta-alanine ligase	
+Função Molecular:ATP binding; pantoate-beta-alanine ligase activity	
+3009539-3010297	
+Localização Celular: Cytoplasm	
+Status:Reviewed
+
+
+Nome do Gene:lpg2663	
+Nome da Proteína:Uncharacterized protein	
+Função Molecular:não disponível	
+Zona do Genoma:3010294-301082	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2664	
+Nome da Proteína:pyruvate carboxylase subunit A 	 
+Função Molecular:ATP binding;biotin carboxylase activity; metal ion binding; pyruvate carboxylase activity	
+Zona do Genoma:3010830-3012245	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2665	
+Nome da Proteína:dienelactone hydrolase	
+Função Molecular:hydrolase activity	
+Zona do Genoma:3012238-3012954	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2666	
+Nome da Proteína:hydrolase	
+Função Molecular:hydrolase activity	
+Zona do Genoma:3013221-3014102	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2667	
+Nome da Proteína:RNA polymerase factor sigma-32 	
+Função Molecular:DNA binding; sigma factor activity; sequence-specific DNA binding transcription factor activity;zinc ion binding	
+Zona do Genoma:3014236-3015114	
+Localização Celular: Cytoplasm 	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2668	
+Nome da Proteína:cell division ATP transporter FtsX	
+Função Molecular:Part of the ABC transporter FtsEX involved in cellular division	
+Zona do Genoma:3015387-3016316	
+Localização Celular: Cell inner membrane 	
+Status:Status:Unreviewed
+
+
+Nome do Gene:lpg2669	
+Nome da Proteína:Cell division ATP transporter FtsE	
+Função Molecular:ATPase activity; ATP binding	
+Zona do Genoma:3016310-3016996	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2670	
+Nome da Proteína:cell division membrane protein FtsY	
+Função Molecular:GTPase activity; GTP binding	
+Zona do Genoma:3016947-3018053	
+Localização Celular: Cell inner membrane; Peripheral membrane protein; Cytoplasmic side; Cytoplasm 
+Status:Unreviewed
+
+
+Nome do Gene:lpg2671	
+Nome da Proteína:zinc protease 	
+Função Molecular:metal ion; Propeptidase activity	
+Zona do Genoma:3018077-3019402	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2672	
+Nome da Proteína:zinc protease	
+Função Molecular:metal ion binding; Propeptidase activity	
+Zona do Genoma:3019399-3020703	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2673	
+Nome da Proteína:N-6 adenine-specific DNA methylase 	
+Função Molecular:16S rRNA (guanine(966)-N(2))-methyltransferase activity; nucleic acid binding	
+Zona do Genoma:3020700-3021245	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2674	
+Nome da Proteína:lipoprotein DotD 	
+Função Molecular:não disponível	
+Zona do Genoma:3021320-3021811	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2675	
+Nome da Proteína:DotC	
+Função Molecular:não disponível	
+Zona do Genoma:3021792-3022703	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2676	
+Nome da Proteína:ATPase	 
+Função Molecular:ATP binding	
+3022673-3023836	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2677	
+Nome da Proteína:5'-nucleotidase	
+Função Molecular:hydrolase activity	
+Zona do Genoma:3023919-3025646	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2678	
+Nome da Proteína:Uncharacterized protein	
+Função Molecular:não disponível	
+Zona do Genoma:3025688-3026485	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2679	
+Nome da Proteína:D-isomer specific 2-hydroxyacid dehydrogenase	
+Função Molecular:NAD binding; oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	
+Zona do Genoma:3026515-3027459	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2680	
+Nome da Proteína:UDP-N-acetylmuramyl tripeptide synthase	
+Função Molecular:ATP binding; ligase activity; metal ion binding
+Zona do Genoma:3027690-3028718
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2681	
+Nome da Proteína:4-hydroxy-2-oxovalerate aldolase	
+Função Molecular:4-hydroxy-2-oxovalerate aldolase activity	
+Zona do Genoma:3028993-3029880	
+Localização Celular: nao disponivel
+Status:Unreviewed
+
+
+Nome do Gene:lpg2682	 
+Nome da Proteína:Hypothetical with two candidate membrane-spanning segments	
+Função Molecular:Enzyme and pathway databases	
+Zona do Genoma:3030019-3030726	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2683	
+Nome da Proteína:Protein DlpA	
+Função Molecular:magnesium ion binding; NAD binding; oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor 	
+Zona do Genoma:3030713-3032560	
+Localização Celular: nao disponivel	
+Status:Reviewed
+
+
+Nome do Gene:lpg2684	
+Nome da Proteína:Uncharacterized protein	
+Função Molecular:não disponível	
+Zona do Genoma:3032560-3033420	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2685	
+Nome da Proteína:dienelactone hydrolase	
+Função Molecular:hydrolase activity	
+Zona do Genoma:3033585-3034331	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2686	
+Nome da Proteína:defect in organelle trafficking protein DotA	
+Função Molecular:não disponível	
+Zona do Genoma:3034433-3037579	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2687	
+Nome da Proteína:intracellular multiplication protein IcmV	
+Função Molecular:não disponível	
+Zona do Genoma:3037576-3038031	
+Localização Celular: nao disponivel	
+Status:Unreviewed
+
+
+Nome do Gene:lpg2688	
+Nome da Proteína:intracellular multiplication protein IcmW	
+Função Molecular:não disponível	
+Zona do Genoma:3038144-3038599	
+Localização Celular: nao disponivel		
+Status:Unreviewed
+
+
+Nome do Gene: Ipg2689
+Zona do Genoma: 3038599-3039999
+Status: Unreviewed
+Nome da Proteína: intracellular multiplication protein IcmX
+Função Molecular: nao disponivel 
+Localização Celular: nao disponivel 
+
+Nome do Gene: lpg2690
+Zona do Genoma: 3040006-3041637
+Status:Unreviewed
+Nome da Proteína: protein LphB
+Função Molecular: nao disponivel 
+Localização Celular: nao disponivel 
+
+Nome do Gene: lpg2691
+Zona do Genoma: 3041997-3044540
+Status: Unreviewed
+Nome da Proteína: cation transporting ATPase PacS
+Função Molecular: copper-exporting ATPase activity; nucleotide binding
+Localização Celular: integral component of membrane
+
+
+Nome do Gene: lpg2692
+Zona do Genoma: 3044791-3045321
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel 
+Localização Celular: nao disponivel 
+
+Nome do Gene: lpg2693
+Zona do Genoma: 3045394-3046194
+Status: Unreviewed
+Nome da Proteína: SnoK-like protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2694
+Zona do Genoma: 3046318-3047175
+Status: Unreviewed
+Nome da Proteína: phytanoyl-CoA dioxygenase
+Função Molecular: dioxygenase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2695
+Zona do Genoma: 3047264-3048325
+Status: Unreviewed
+Nome da Proteína: heptosyl transferase glycosyltransferase 9 protein
+Função Molecular: transferase activity, transferring glycosyl groups
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2696
+Zona do Genoma: 3048511-3049476
+Status: Reviewed
+Nome da Proteína: tRNA dimethylallyltransferase
+Função Molecular:  ATP binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2697
+Zona do Genoma: 3049445-3051175
+Status: Unreviewed
+Nome da Proteína: DNA mismatch repair protein MutL
+Função Molecular:  ATP binding
+Localização Celular: mismatch repair complex
+
+Nome do Gene: lpg2698
+Zona do Genoma: 3051166-3052596
+Status: Unreviewed
+Nome da Proteína: N-acetylmuramoyl-L-alanine amidase
+Função Molecular:  N-acetylmuramoyl-L-alanine amidase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2699
+Zona do Genoma: 3052593-3053075
+Status: Unreviewed
+Nome da Proteína: ATPase or kinase
+Função Molecular: kinase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2700
+Zona do Genoma: 3053201-3054682
+Status: Unreviewed
+Nome da Proteína: sugar kinase
+Função Molecular: kinase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2701
+Zona do Genoma: 3054810-3055205
+Status: Unreviewed
+Nome da Proteína: ClpXP protease specificity-enhancing factor
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2702
+Zona do Genoma: 3055208-3055828
+Status: Unreviewed
+Nome da Proteína: stringent starvation protein A
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2703
+Zona do Genoma: 3056079-3056819
+Status: Unreviewed
+Nome da Proteína: ubiquinol-cytochrome c reductase, cytochrome c1
+Função Molecular: electron carrier activity; iron ion binding
+Localização Celular:  nao disponivel
+
+Nome do Gene: lpg2704
+Zona do Genoma: 3056816-3058030
+Status: Unreviewed
+Nome da Proteína: ubiquinol-cytochrome c reductase, cytochrome b
+Função Molecular: electron carrier activity
+Localização Celular: integral component of membrane
+
+Nome do Gene: lpg2705
+Zona do Genoma: 3058041-3058667
+Status: Unreviewed
+Nome da Proteína: ubiquinol-cytochrome c reductase, iron-sulfur subunit
+Função Molecular: 2 iron, 2 sulfur cluster binding; ubiquinol-cytochrome-c reductase activity
+Localização Celular: membrane 
+
+Nome do Gene: lpg2706
+Zona do Genoma: 3058832-3059263
+Status: Unreviewed
+Nome da Proteína: 30S ribosomal protein S9
+Função Molecular: structural constituent of ribosome
+Localização Celular: ribossome
+
+Nome do Gene: lpg2707
+Zona do Genoma: 3059269-3059703
+Status: Reviewed
+Nome da Proteína: 50S ribosomal protein L13
+Função Molecular: structural constituent of ribosome
+Localização Celular: ribossome 
+
+Nome do Gene: lpg2708
+Zona do Genoma: 3060042-3060257
+Status: Unreviewed
+Nome da Proteína: (2Fe-2S)-binding protein, partial
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2709
+Zona do Genoma: 3060361-3060660
+Status: Reviewed
+Nome da Proteína: Integration host factor subunit alpha; Short=IHF-alpha
+Função Molecular: DNA binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2710
+Zona do Genoma: 3060657-3063038
+Status: Reviewed
+Nome da Proteína: Phenylalanine--tRNA ligase beta subunit
+Função Molecular: ATP binding; phenylalanine-tRNA ligase activity
+Localização Celular: Cytoplasm 
+
+Nome do Gene: lpg2711
+Zona do Genoma: 3063296-3064324
+Status: Reviewed
+Nome da Proteína: Phenylalanine--tRNA ligase alpha subunit
+Função Molecular: ATP binding; phenylalanine-tRNA ligase activity
+Localização Celular: Cytoplasm 
+
+Nome do Gene: lpg2712
+Zona do Genoma: 3064449-3064808
+Status: Reviewed
+Nome da Proteína: 50S ribosomal protein L20
+Função Molecular: rRNA binding
+Localização Celular: ribossome
+
+Nome do Gene: lpg2713
+Zona do Genoma:  3065045-3065434
+Status: Unreviewed
+Nome da Proteína: translational initiation factor IF-3
+Função Molecular: translation initiation factor activity
+Localização Celular: cytoplasm
+
+Nome do Gene: lpg2714
+Zona do Genoma: 3065606-3067546
+Status: Reviewed
+Nome da Proteína: Threonine--tRNA ligase
+Função Molecular: ATP binding; threonine-tRNA ligase activity
+Localização Celular: cytoplasm
+
+Nome do Gene: lpg2715
+Zona do Genoma: 3067648-3067722
+Status: nao disponivel
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2716
+Zona do Genoma: 3068032-3068319
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2717
+Zona do Genoma: 3068642-3069127
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: sequence-specific DNA binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2718
+Zona do Genoma: 3069837-3071399
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2719
+Zona do Genoma: 3071680-3072831
+Status: Reviewed
+Nome da Proteína: Putative glutamate--cysteine ligase 2
+Função Molecular: ATP binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2720
+Zona do Genoma: 3072810-3073841
+Status: Unreviewed
+Nome da Proteína: cNMP binding domain-containing protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2721
+Zona do Genoma: 3073978-3074766
+Status: Unreviewed
+Nome da Proteína: glutamine amidotransferase
+Função Molecular: transferase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2722
+Zona do Genoma: 3074894-3075970
+Status: Unreviewed
+Nome da Proteína: Oye family NADH-dependent flavin oxidoreductase
+Função Molecular: FMN binding
+Localização Celular: nao disponivel
+
+
+Nome do Gene: lpg2723
+Zona do Genoma: 3076021-3076320
+Status: Unreviewed
+Nome da Proteína: transcriptional regulator
+Função Molecular: sequence-specific DNA binding transcription factor activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2724
+Zona do Genoma: 3076573-3076917
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2725
+Zona do Genoma: 3077034-3077663
+Status: Unreviewed
+Nome da Proteína: Inner membrane protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2726
+Zona do Genoma:  3077871-3078365
+Status: Unreviewed
+Nome da Proteína: peptidylprolyl cis-trans isomerase B (cyclophilin-type) Lcy
+Função Molecular: peptidyl-prolyl cis-trans isomerase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2727
+Zona do Genoma:  3078392-3079558
+Status: Unreviewed
+Nome da Proteína: queuine/archaeosine tRNA-ribosyltransferase
+Função Molecular: metal ion binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2728
+Zona do Genoma: 3079540-3079710
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2729
+Zona do Genoma: 3079716-3080132
+Status: nao disponivel
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2730
+Zona do Genoma: 3080093-3080557
+Status: Unreviewed
+Nome da Proteína: cytochrome c5
+Função Molecular: electron carrier activity; iron ion binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2731
+Zona do Genoma: 3080710-3081960
+Status: Unreviewed
+Nome da Proteína: Aminotransferase class II
+Função Molecular: pyridoxal phosphate binding
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2732
+Zona do Genoma: 3082042-3083067
+Status: Unreviewed
+Nome da Proteína: (two component) response regulator
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2733
+Zona do Genoma:3083349-3083912
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2734
+Zona do Genoma: 3084000-3085289
+Status: Unreviewed
+Nome da Proteína: Histidine kinase
+Função Molecular: ATP binding
+Localização Celular: membrane
+
+Nome do Gene: lpg2735
+Zona do Genoma: 3085645-3086610
+Status: Reviewed 
+Nome da Proteína: Porphobilinogen deaminase
+Função Molecular: hydroxymethylbilane synthase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2736
+Zona do Genoma: 3086607-3087359
+Status: Unreviewed
+Nome da Proteína: uroporphyrinogen III methylase
+Função Molecular:methyltransferase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2737
+Zona do Genoma: 3087363-3088487
+Status: Unreviewed
+Nome da Proteína: uroporphyrinogen III methylase
+Função Molecular: uroporphyrin-III C-methyltransferase activity
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2738
+Zona do Genoma: 3088490-3089677
+Status: Unreviewed
+Nome da Proteína: protoporphyrinogen oxidase
+Função Molecular: nao disponivel
+Localização Celular: membrane
+
+Nome do Gene: lpg2739
+Zona do Genoma: 3089813-3090736
+Status: Unreviewed
+Nome da Proteína: cation efflux system protein
+Função Molecular: cation transmembrane transporter activity
+Localização Celular: integral component of membrane
+
+Nome do Gene: lpg2740
+Zona do Genoma: 3090733-3091395
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: nao disponivel
+Localização Celular: nao disponivel
+
+Nome do Gene: lpg2741
+Zona do Genoma: 3091385-3091948
+Status: Reviewed
+Nome da Proteína: Oligoribonuclease
+Função Molecular: exoribonuclease activity, producing 5'-phosphomonoesters; nucleic acid binding
+Localização Celular: cytoplasm
+
+Nome do Gene: cca
+Zona no Genoma:3091938 a 3093170
+Status: : Reviewed
+Nome da Proteína: Multifunctional CCA protein
+Função Molecular: : Catalytic activity
+Localização Celular: Não disponível
+
+Nome do Gene: rsgA
+Zona no Genoma: 3093233 a 3094210
+Status: Unreviewed
+Nome da Proteína: Putative ribosome biogenesis GTPase RsgA
+Função Molecular:Cofactor 
+Localização Celular:  Não disponível
+
+Nome do Gene:lpg2744 
+Zona no Genoma:3094245 a 3095414
+Status: Unreviewed
+Nome da Proteína:  Uncharacterized protein
+Função Molecular: Não disponevel 
+Localização Celular: Não disponível
+
+
+Nome do Gene: lpg2745
+Zona no Genoma: 3095575 a 3097542
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2746
+Zona no Genoma:3097710 a 3097827
+Status:Não disponível
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular:Não disponível 
+
+
+Nome do Gene: lpg2747 
+Zona no Genoma: 3097929 a 3100830
+Status: Não disponível
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg2748
+Zona no Genoma:Não disponível
+Status: Não disponível
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+##
+Nome do Gene: lpg2749 
+Zona no Genoma: Não disponível
+Status: Não disponível
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível
+Localização Celular: Não disponível
+
+Nome do Gene: lpg0307
+Zona no Genoma:3098360 a 3098641
+Status: Unreviewed
+Nome da Proteína: Hypothetical CTC00065, TC0129
+Função Molecular: Não disponível 
+Localização Celular: Não disponível 
+
+
+Nome do Gene: lpg0305
+Zona no Genoma: 3099250..3099600
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular:  Não disponível 
+Localização Celular:  Não disponível 
+
+Nome do Gene: lpg2752
+Zona no Genoma:3101010..3101086
+Status: Não disponível
+Nome da Proteína: Uncharacterized protein
+Função Molecular:  Não disponível 
+Localização Celular:  Não disponível 
+
+
+Nome do Gene: lpg2753
+Zona no Genoma: (3101228..3102702
+Status: Não disponível 
+Nome da Proteína: Uncharacterized protein
+Função Molecular:  Não disponível 
+Localização Celular: Não disponível 
+
+
+
+Nome do Gene: dnaZX
+Zona no Genoma: 3103406..3105076
+Status: Unreviewed
+Nome da Proteína:DNA polymerase III subunits gamma and tau 
+Função Molecular:ATP binding, DNA-directed DNA polymerase activity, DNA binding
+Localização Celular:DNA polymerase III complex
+
+Nome do Gene: lpg2755
+Zona no Genoma:3105110..3105448
+Status: Reviewed
+Nome da Proteína: Nucleoid-associated protein lpg2755
+Função Molecular: DNA binding
+Localização Celular: bacterial nucleoid, cytoplasm
+
+
+Nome do Gene: recR
+Zona no Genoma: 3105451..3106050
+Status: Reviewed
+Nome da Proteína: Recombination protein RecR
+Função Molecular: DNA binding,metal ion binding
+Localização Celular:  Não Disponível
+
+Nome do Gene: lpg2757
+Zona no Genoma:3106043..3106903
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular:  Não Disponível
+Localização Celular:  Não Disponível
+
+
+Nome do Gene: lpg2758
+Zona no Genoma: 3106900..3108897
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: sulfuric ester hydrolase activity
+Localização Celular: Não Disponível
+
+Nome do Gene: lpg2759
+Zona no Genoma:3109134..3110618
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não Disponível
+Localização Celular: Não Disponível
+
+
+Nome do Gene: lpg2760
+Zona no Genoma: 3110820..3111548
+Status: Unreviewed
+Nome da Proteína: DNA-binding response regulator
+Função Molecular: DNA binding
+Localização Celular: Não Disponível
+
+Nome do Gene: lpg2761
+Zona no Genoma:3111771..3112433
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não Disponível
+Localização Celular: Não Disponível
+
+
+Nome do Gene: lpg2762
+Zona no Genoma: 3112690..3113406
+Status: Unreviewed
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não Disponível
+Localização Celular: Não Disponível
+
+
+Nome do Gene: lpg2763
+Zona no Genoma:3113646..3114911
+Status: Unreviewed
+Nome da Proteína: Mg2+ and Co2+ transporter CorB, hemolysin
+Função Molecular: adenyl nucleotide binding,flavin adenine dinucleotide binding,oxidoreductase activity, acting on CH-OH group of donors
+Localização Celular: Não Disponível
+
+
+
+Nome do Gene: ppa
+Zona no Genoma: 3115061..3115597
+Status: Unreviewed
+Nome da Proteína: Inorganic pyrophosphatase
+Função Molecular: inorganic diphosphatase activity,magnesium ion binding
+Localização Celular: cytoplasm
+
+Nome do Gene: hit
+Zona no Genoma:3115727..3116068
+Status: Unreviewed
+Nome da Proteína: HIT family hydrolase
+Função Molecular:hydrolase activity 
+Localização Celular:Não Disponível 
+
+
+Nome do Gene: folE2
+Zona no Genoma: 3116053..3116619
+Status: Unreviewed
+Nome da Proteína:GTP cyclohydrolase 1 
+Função Molecular: GTP binding, GTP cyclohydrolase I activity, zinc ion binding
+Localização Celular: cytoplasm
+
+Nome do Gene: lpg2767
+Zona no Genoma: 3116678..3117769
+Status: Unreviewed
+Nome da Proteína: L-sorbosone dehydrogenase
+Função Molecular: oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor, quinone binding
+Localização Celular: Não Disponível 
+
+
+
+Nome do Gene: pnp
+Zona no Genoma:3117904..3120093
+Status: Reviewed
+Nome da Proteína: Polyribonucleotide nucleotidyltransferase
+Função Molecular: 3'-5'-exoribonuclease activity, magnesium ion binding,polyribonucleotide nucleotidyltransferase activity,RNA binding
+Localização Celular:cytoplasm 
+
+
+Nome do Gene: rpsO
+Zona no Genoma: 3120208..3120483
+Status: Reviewed
+Nome da Proteína: 30S ribosomal protein S15
+Função Molecular: rRNA binding,structural constituent of ribosome 
+Localização Celular: ribosome
+
+Nome do Gene: truB
+Zona no Genoma:3120631..3121557
+Status: Reviewed
+Nome da Proteína: tRNA pseudouridine synthase B
+Função Molecular: pseudouridine synthase activity, RNA binding
+Localização Celular: Não Disponível 
+
+
+Nome do Gene: rbfA
+Zona no Genoma: 3121529..3121900
+Status:Reviewed 
+Nome da Proteína:Ribosome-binding factor A 
+Função Molecular: Não Disponível 
+Localização Celular: cytoplasm
+
+Nome do Gene: infB
+Zona no Genoma:3121904..3124510
+Status: Reviewed
+Nome da Proteína:Translation initiation factor IF-2 
+Função Molecular: GTPase activity, GTP binding,translation initiation factor activity 
+Localização Celular: Cytoplasm
+
+
+Nome do Gene:nusA 
+Zona no Genoma:3124599..3126077 
+Status:Unreviewed 
+Nome da Proteína: N utilization substance protein A
+Função Molecular:DNA binding,  nucleotide binding, RNA binding, sequence-specific DNA binding transcription factor activity
+Localização Celular: Não Disponível
+
+Nome do Gene: rimP
+Zona no Genoma:3126089..3126532
+Status: Reviewed
+Nome da Proteína: Ribosome maturation factor RimP
+Função Molecular: Não Disponível
+Localização Celular: Cytoplasm
+ 
+
+Nome do Gene:lpg2775 
+Zona no Genoma:3126646..3126722
+Status: Não disponível 
+Nome da Proteína: Uncharacterized protein
+Função Molecular: Não disponível 
+Localização Celular:Não disponível  
+
+
+Nome do Gene:nuoN 
+Zona no Genoma: 3126788..3128260
+Status:Unreviewed
+Nome da Proteína: NADH-quinone oxidoreductase subunit N
+Função Molecular: quinone binding, NADH dehydrogenase (ubiquinone) activity
+Localização Celular: Cell inner membrane , Membrane
+
+Nome do Gene:nuoM 
+Zona no Genoma:3128284..3129789
+Status: Unreviewed
+Nome da Proteína:  NADH dehydrogenase I, M subunit
+Função Molecular: NADH dehydrogenase (ubiquinone) activity
+Localização Celular: Membrane
+
+
+Nome do Gene: nuoL
+Zona no Genoma:3129805..3131778
+Status: Unreviewed
+Nome da Proteína:  NADH dehydrogenase I, L subunit
+Função Molecular: NADH dehydrogenase (ubiquinone) activity
+Localização Celular: Membrane 
+
+
+Nome do Gene: nuoK
+Zona no Genoma: 3131783..3132088
+Status: Reviewed
+Nome da Proteína:NADH-quinone oxidoreductase subunit K 
+Função Molecular: NADH dehydrogenase (quinone) activity, quinone binding
+Localização Celular: Cell inner membrane
+
+Nome do Gene: nuoJ
+Zona no Genoma:3132106..3132765
+Status: Unreviewed
+Nome da Proteína:  NADH dehydrogenase I, J subunit
+Função Molecular: NADH dehydrogenase (ubiquinone) activity
+Localização Celular: Não Disponível
+
+
+Nome do Gene: nuoI
+Zona no Genoma:3132777..3133277
+Status: Reviewed
+Nome da Proteína: NADH-quinone oxidoreductase subunit I
+Função Molecular:4 iron, 4 sulfur cluster binding,  iron ion binding,NADH dehydrogenase (quinone) activity, quinone binding 
+Localização Celular: Cell inner membrane 
+
+
+Nome do Gene: nuoH
+Zona no Genoma: 3133296..3134318
+Status: Reviewed
+Nome da Proteína:NADH-quinone oxidoreductase subunit H 
+Função Molecular: NADH dehydrogenase (quinone) activity, quinone binding
+Localização Celular: Cell inner membrane
+
+Nome do Gene: nuoG
+Zona no Genoma:3134331..3136682
+Status: Unreviewed
+Nome da Proteína: NADH dehydrogenase I, G subunit
+Função Molecular: electron carrier activity, iron-sulfur cluster binding, metal ion binding, NADH dehydrogenase (ubiquinone) activity
+Localização Celular: membrane
+
+Nome do Gene: nuoF
+Zona no Genoma:3136699..3137985
+Status: Unreviewed
+Nome da Proteína: NADH dehydrogenase I, F subunit
+Função Molecular: 4 iron, 4 sulfur cluster binding, FMN binding, metal ion binding, NAD binding, NADH dehydrogenase (ubiquinone) activity
+Localização Celular: Não Disponível
+
+
+Nome do Gene: lpg2785
+Zona no Genoma: 3137995..3138498
+Status: Unreviewed
+Nome da Proteína: NADH dehydrogenase I, E subunit
+Função Molecular: 2 iron, 2 sulfur cluster binding, metal ion binding, oxidoreductase activity
+Localização Celular: Não Disponível
+
+Nome do Gene: nuoD
+Zona no Genoma:3138559..3139827
+Status: Reviewed
+Nome da Proteína: NADH-quinone oxidoreductase subunit D
+Função Molecular: NAD binding, NADH dehydrogenase (quinone) activity, quinone binding
+Localização Celular: plasma membrane
+
+
+Nome do Gene: nuoC
+Zona no Genoma:3139805..3140488
+Status: Reviewed
+Nome da Proteína: NADH-quinone oxidoreductase subunit C
+Função Molecular: NADH dehydrogenase (ubiquinone) activity, quinone binding
+Localização Celular: Cell inner membrane, Cytoplasmic, Peripheral membrane protein 
+
+
+Nome do Gene: nuoB
+Zona no Genoma: 3140511..3140987
+Status: Reviewed
+Nome da Proteína: NADH-quinone oxidoreductase subunit B
+Função Molecular: 4 iron, 4 sulfur cluster binding, iron ion binding, NADH dehydrogenase (ubiquinone) activity, quinone binding
+Localização Celular: Cell inner membrane,Peripheral membrane protein,  Cytoplasmic 
+
+Nome do Gene: nuoA
+Zona no Genoma:3141237..3141593
+Status: Unreviewed
+Nome da Proteína: NADH-quinone oxidoreductase subunit A
+Função Molecular: NADH dehydrogenase (ubiquinone) activity, quinone binding
+Localização Celular: Cell inner membrane, Multi-pass membrane protein, Membrane, Multi-pass membrane protein 
+
+
+Nome do Gene: lpg2790
+Zona no Genoma: 3141618..3141702
+Status: Não Disponíve
+Nome da Proteína:Uncharacterized protein
+Função Molecular: Não Disponíve
+Localização Celular: Não Disponíve
+
+Nome do Gene: secG
+Zona no Genoma:3141773..3142078
+Status: Unreviewed
+Nome da Proteína: Preprotein translocase, SecG subunit
+Função Molecular:P-P-bond-hydrolysis-driven protein transmembrane transporter activity 
+Localização Celular: integral component of membrane
+
+
+Nome do Gene: tpiA
+Zona no Genoma:(3142084..3142833
+Status: Reviewed
+Nome da Proteína: Triosephosphate isomerase
+Função Molecular: triose-phosphate isomerase activity
+Localização Celular: Cytoplasm
+
+
+Nome do Gene: lepA
+Zona no Genoma: 3143077..3146532
+Status: Unreviewed
+Nome da Proteína: Interaptin
+Função Molecular: Não Disponível 
+Localização Celular:Não Disponível  
+
+Nome do Gene:glmM 
+Zona no Genoma:3146601..3147968
+Status: Reviewed
+Nome da Proteína:Phosphoglucosamine mutase 
+Função Molecular: magnesium ion binding, phosphoglucosamine mutase activity
+Localização Celular: Não Disponível  
+
+
+Nome do Gene: lpg2795
+Zona no Genoma:3148032..3148907
+Status: Unreviewed
+Nome da Proteína: Dihydropteroate synthase
+Função Molecular: dihydropteroate synthase activity, metal ion binding
+Localização Celular: Não Disponível  
+
