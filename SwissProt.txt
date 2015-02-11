@@ -1,0 +1,65 @@
+SWISSPROT REGIST
+
+Gene name: lpg2594
+Entry name: FMT_LEGPH
+Sequence length: 314
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: Methionyl-tRNA formyltransferase {ECO:0000255|HAMAP-Rule:MF_00182}; EC=2.1.2.9 {ECO:0000255|HAMAP-Rule:MF_00182};
+
+Gene name: lpg2608
+Entry name: LPXC_LEGPH
+Sequence length: 304
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase {ECO:0000255|HAMAP-Rule:MF_00388}; EC=3.5.1.- {ECO:0000255|HAMAP-Rule:MF_00388}; AltName: Full=UDP-3-O-acyl-GlcNAc deacetylase {ECO:0000255|HAMAP-Rule:MF_00388};
+
+Gene name: lpg2624
+Entry name: GREA_LEGPH
+Sequence length: 160
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: Transcription elongation factor GreA {ECO:0000255|HAMAP-Rule:MF_00105}; AltName: Full=Transcript cleavage factor GreA {ECO:0000255|HAMAP-Rule:MF_00105};
+
+Gene name: lpg2636
+Entry name: RS20_LEGPH
+Sequence length: 88
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: 30S ribosomal protein S20 {ECO:0000255|HAMAP-Rule:MF_00500};
+
+Gene name: lpg2645
+Entry name: UVRC_LEGPH
+Sequence length: 618
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: UvrABC system protein C {ECO:0000255|HAMAP-Rule:MF_00203}; Short=Protein UvrC {ECO:0000255|HAMAP-Rule:MF_00203}; AltName: Full=Excinuclease ABC subunit C {ECO:0000255|HAMAP-Rule:MF_00203};
+
+Gene name: lpg2657
+Entry name: FEOB_LEGPH
+Sequence length: 751
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: rrous iron transport protein B;
+
+Gene name: lpg2709
+Entry name: IHFA_LEGPH
+Sequence length: 99
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: Integration host factor subunit alpha {ECO:0000255|HAMAP-Rule:MF_00380}; Short=IHF-alpha {ECO:0000255|HAMAP-Rule:MF_00380};
+
+Gene name: lpg2768
+Entry name: PNP_LEGPH
+Sequence length: 729
+Organism: Legionella pneumophila subsp. pneumophila (strain Philadelphia 1 / ATCC 33152 / DSM 7513).
+Organism Classification: ['Bacteria', 'Proteobacteria', 'Gammaproteobacteria', 'Legionellales', 'Legionellaceae', 'Legionella']
+Taxonomic ID: 272624
+Description: Polyribonucleotide nucleotidyltransferase {ECO:0000255|HAMAP-Rule:MF_01595}; EC=2.7.7.8 {ECO:0000255|HAMAP-Rule:MF_01595}; AltName: Full=Polynucleotide phosphorylase {ECO:0000255|HAMAP-Rule:MF_01595}; Short=PNPase {ECO:0000255|HAMAP-Rule:MF_01595};
