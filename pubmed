@@ -1,32 +1,36 @@
+
+#Imports
 from Bio import Entrez
 from Bio import Medline
 
-#baseado no grupo 3
 
 Entrez.email = "daniela777@live.com.pt"
 handle = Entrez.egquery(term = "Legionella  pneumophila")
 record = Entrez.read(handle)
- 
+
+#conta nr de artigos
 for row in record["eGQueryResult"]:
     if row["DbName"]=="pubmed":
         T = row["Count"]
-      
-handle = Entrez.esearch(db = "pubmed", term = "Legionella  pneumophila", retmax=T)
+
+#baixa identificacoes dos artigos
+handle = Entrez.esearch(db = "pubmed", term = "Legionella  pneumophila philadelphia 1", retmax=T)
 record = Entrez.read(handle)
 idlist = record["IdList"]
- 
+
+#extrai dados
 handle = Entrez.efetch(db="pubmed", id=idlist, rettype="medline", retmode="text")
 records = list(Medline.parse(handle))
- 
-record_results = open('PUBMED.txt', 'w')
+
+
+record_results = open("PubMed.txt", 'w')
 for record in records:
-    title=('Title: ', record.get('TI', '?')) + "\n"
-    authors=('Authors: ', record.get('AU', '?')) + "\n"
-    source=('Source: ', record.get('SO', '?')) + "\n"
-    
-    record_results.write(str(title))
-    record_results.write(str(authors))
-    record_results.write(str(source))
+    title = "Title: " + str(record.get("TI", "?")) + "\n"
+    authors= "Authors: " + str(record.get("AU", "?")) + "\n"
+    source = "Source: " + str(record.get("SO", "?")) + "\n"
+    record_results.write(title)
+    record_results.write(authors)
+    record_results.write(source)
     record_results.write("\n")
 record_results.close()
 
